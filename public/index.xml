@@ -1,12 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>And Zero at the Bone</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on And Zero at the Bone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2016 -- 2017. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 18 Dec 2016 20:18:59 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 18 Dec 2016 20:18:59 -0800</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;table summary=&#34;contact table&#34; border=&#34;2&#34;&gt;&lt;br /&gt;&lt;tr&gt;&lt;td colspan=&#34;3&#34; align=&#34;center&#34;&gt;Email&lt;/td&gt;&lt;/tr&gt;
+|Email: frab&lt;a href=&#34;http://mailhide.recaptcha.net/d?k=01gykQTlOVxQ30CTBQhhXJIA==&amp;amp;c=ys-YxyxH5JsWt3Ja-ZQnWK8n5dRS-NwYIF-rrRhrB6o=&#34; onclick=&#34;window.open(&#39;http://mailhide.recaptcha.net/d?k=01gykQTlOVxQ30CTBQhhXJIA==&amp;amp;c=ys-YxyxH5JsWt3Ja-ZQnWK8n5dRS-NwYIF-rrRhrB6o=&#39;, &#39;&#39;, &#39;toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300&#39;); return false;&#34; title=&#34;Reveal this e-mail address&#34;&gt;&amp;hellip;@magahiz.com|
+|Wiki|
+|&lt;a href=&#34;http://evilhow.com&#34;&gt;evilHow&lt;/a&gt;|
+|&lt;a href=&#34;http://poorpoorthing.com&#34;&gt;Poor Poor Thing&lt;/a&gt;|
+|&lt;a href=&#34;http://frabjoustimes.magahiz.com&#34;&gt;Frabjous Times&lt;/a&gt;|
+|&lt;a href=&#34;http://t2o.blogspot.com&#34;&gt;Heavy heavy water&lt;/a&gt; ideas blog&lt;/a&gt;|
+|&lt;a href=&#34;http://evilhow.com&#34;&gt;evilHow&lt;/a&gt;|
+|&lt;a href=&#34;http://upperrh.wordpress.com&#34;&gt;Worlds in the Upper Right Hand Corner&lt;/a&gt;|
+|Organizations|
+|&lt;a href=&#34;http://www.alumni.northwestern.edu/&#34;&gt;Northwestern University Alumni&lt;/a&gt;|
+|&lt;a href=&#34;http://alum.mit.edu/index.html&#34;&gt;MIT Alumni association&lt;/a&gt;|
+|Social networks|
+|&lt;a href=&#34;http://milkfish.stumbleupon.com/&#34;&gt;Stumbleupon&lt;/a&gt;|
+|&lt;a href=&#34;http://www.linkedin.com/pub/4/53b/b12&#34;&gt;Linkedin&lt;/a&gt;|
+|&lt;a href=&#34;http://www.everything2.com/user/milkfish&#34;&gt;Everything2&lt;/a&gt;|
+|&lt;a href=&#34;https://www.xing.com/profile/Rich_Magahiz&#34;&gt;Xing&lt;/a&gt;|
+|&lt;a href=&#34;http://www.vimeo.com/user1339666&#34;&gt;Vimeo&lt;/a&gt;|
+|&lt;a href=&#34;http://www.flickr.com/photos/86698126@N00/&#34;&gt;Flickr|&lt;/a&gt;|
+|&lt;a href=&#34;http://uk.youtube.com/profile?user=4thace&#34;&gt;YouTube&lt;/a&gt;|
+|Identity services|
+|(&lt;a href=&#34;http://mylid.net/milkfish&#34;&gt;http://mylid.net/milkfish&lt;/a&gt;)&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+|[](&lt;a href=&#34;http://mylid.net/milkfish)|&#34;&gt;http://mylid.net/milkfish)|&lt;/a&gt;
+|&lt;a href=&#34;http://profile.typekey.com/milkfish/&#34;&gt;Typekey profile&lt;/a&gt;|
+|&lt;a href=&#34;http://profiles.aim.com/milkfish2000&#34;&gt;AIM profile&lt;/a&gt;|
+|Other|
+|&lt;a href=&#34;http://geourl.org/near?p=http://frabjoustimes.magahiz.com/&#34;&gt;GeoURL neighbors&lt;/a&gt;
+|&lt;a href=&#34;http://members.nowpublic.com/milkfish&#34;&gt;NowPublic&lt;/a&gt;|&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thumbshots.com&#34;&gt;About Thumbshots thumbnails&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seed post</title>
+      <link>http://localhost:1313/post/newblog/</link>
+      <pubDate>Sun, 18 Dec 2016 20:18:51 -0800</pubDate>
+      
+      <guid>http://localhost:1313/post/newblog/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m starting this personal blog as a successor to my previous blogs:
+* &lt;a href=&#34;http://t2o.blogspot.com&#34;&gt;Heavy Heavy Water&lt;/a&gt;
+* &lt;a href=&#34;http://poorpoorthing.posterous.com&#34;&gt;Poor Poor Thing&lt;/a&gt;
+* &lt;a href=&#34;&amp;quot;http://frabjoustimes.magahiz.com&#34;&gt;Frabjous Times&lt;/a&gt;
+* &lt;a href=&#34;http://evilhow.com&#34;&gt;evilHow&lt;/a&gt;
+* &lt;a href=&#34;http://upperrh.wordpress.com&#34;&gt;Worlds in the Upper Right Hand Corner&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have some ideas of stashing some of my tech work here, links to my creative
+stuff, pointers to things I&amp;rsquo;ve found on the web, and other miscellaneous items.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 18 Dec 2016 20:18:51 -0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/10865675a7236322908l.jpg&#34; width=&#34;512&#34; height=&#34;384&#34; alt=&#34;Rich Magahiz&#34; /&gt; (Also, &lt;a href=&#34;http://img370.imageshack.us/img370/5341/hpim49559my.jpg&#34;&gt;an old picture of me&lt;/a&gt;, before I shaved)
+As for the other Frequently Asked Question:  the last name is &lt;em&gt;Filipino&lt;/em&gt;.  Having been born in this country, I&amp;rsquo;ve not had the
+pleasure of visiting the ancestral land.
+* As you can tell, I enjoy creative writing, a habit I have had since childhood. I have been
+&lt;a href=&#34;http://magahiz.com/frabjous/writing.html&#34; title=&#34;Writing of Rich Magahiz&#34;&gt;published&lt;/a&gt;
+in various venues on the Web and in print and am currently working on&lt;br /&gt;getting a (small) book-length piece which I co-authored out into the world.
+&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;img src=&#34;http://magahiz.com/frabjous/pmsquare.JPG&#34; alt=&#34;Pamela Magahiz&#34; height=&#34;276&#34; width=&#34;368&#34; /&gt;
+* My wife Pamela and I live in San Mateo, CA.
+* I am a Devops Engineer at &lt;a href=&#34;http://daqri.com&#34;&gt;DAQRI&lt;/a&gt;, in Sunnyvale, CA, USA.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

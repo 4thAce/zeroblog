@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on And Zero at the Bone</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on And Zero at the Bone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 -- 2017. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 18 Dec 2016 20:18:51 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seed post</title>
+      <link>http://localhost:1313/post/newblog/</link>
+      <pubDate>Sun, 18 Dec 2016 20:18:51 -0800</pubDate>
+      
+      <guid>http://localhost:1313/post/newblog/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m starting this personal blog as a successor to my previous blogs:
+* &lt;a href=&#34;http://t2o.blogspot.com&#34;&gt;Heavy Heavy Water&lt;/a&gt;
+* &lt;a href=&#34;http://poorpoorthing.posterous.com&#34;&gt;Poor Poor Thing&lt;/a&gt;
+* &lt;a href=&#34;&amp;quot;http://frabjoustimes.magahiz.com&#34;&gt;Frabjous Times&lt;/a&gt;
+* &lt;a href=&#34;http://evilhow.com&#34;&gt;evilHow&lt;/a&gt;
+* &lt;a href=&#34;http://upperrh.wordpress.com&#34;&gt;Worlds in the Upper Right Hand Corner&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have some ideas of stashing some of my tech work here, links to my creative
+stuff, pointers to things I&amp;rsquo;ve found on the web, and other miscellaneous items.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
