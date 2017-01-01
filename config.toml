@@ -15,7 +15,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "Occasional blogging"
-  brand = "Blackburn"
+  brand = "+=+"
   googleAnalytics = "UA-89255324-1"
   disqus = "milkfish"
   # CSS name for highlight.js
