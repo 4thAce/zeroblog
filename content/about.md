@@ -5,16 +5,14 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-* ![Rich Magahiz](/media/sepia-headshot.png)
-
-(Also, [an old picture of me](http://img370.imageshack.us/img370/5341/hpim49559my.jpg), before I shaved)
-
-As for the other Frequently Asked Question:  the last name is *Filipino*.  Having been born in this country, I've not had the
+* Here I am<br />
+<img src="/media/Photo on 1-1-14 at 7.42 AM.jpg" title="Richard Magahiz" width=640 height=426 />
+* As for the other Frequently Asked Question:  the last name is *Filipino*.  Having been born in this country, I've not had the
 pleasure of visiting the ancestral land.
-
 * As you can tell, I enjoy creative writing, a habit I have had since childhood. I have been
 [published](http://magahiz.com/frabjous/writing.html "Writing of Rich Magahiz")
 in various venues on the Web and in print and am currently working on<br />getting a (small) book-length piece which I co-authored out into the world.
-*![Pamela Magahiz](/media/pmsquare.JPG)
 * My wife Pamela and I live in San Mateo, CA.
+This is a picture of her<br />
+<img src="/media/IMG_0501.JPG" title="Pamela Magahiz" width=245 height=326 />
 * I am a Devops Engineer at [DAQRI](http://daqri.com), in Sunnyvale, CA, USA.
