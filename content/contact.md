@@ -14,7 +14,7 @@ description = "How to contact me"
 * [evilHow](http://evilhow.com)
 * [Poor Poor Thing](http://poorpoorthing.com)
 * [Frabjous Times](http://frabjoustimes.magahiz.com)
-* [Heavy heavy water</a> ideas blog](http://t2o.blogspot.com)
+* [Heavy heavy water](http://t2o.blogspot.com) ideas blog
 * [evilHow](http://evilhow.com)
 * [Worlds in the Upper Right Hand Corner](http://upperrh.wordpress.com)
 
@@ -29,7 +29,7 @@ description = "How to contact me"
 * [Everything2](http://www.everything2.com/user/milkfish)
 * [Xing](https://www.xing.com/profile/Rich_Magahiz)
 * [Vimeo](http://www.vimeo.com/user1339666)
-* [Flickr|](http://www.flickr.com/photos/86698126@N00/)
+* [Flickr](http://www.flickr.com/photos/86698126@N00/)
 * [YouTube](http://uk.youtube.com/profile?user=4thace)
 
 # Identity services

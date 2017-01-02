@@ -1,5 +1,6 @@
 #baseurl = "https://www.zeroatthebone.us/"
-baseurl = "http://localhost:1313/"
+#baseurl = "http://4thace.github.io/zeroblog"
+baseurl = "http://localhost:1313"
 languageCode = "en-us"
 title = "And Zero at the Bone"
 theme = "blackburn"
@@ -7,6 +8,9 @@ author = "Richard Magahiz"
 copyright = "&copy; 2016 -- 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "zeroblog"
 
 [indexes]
   tag = "tags"
