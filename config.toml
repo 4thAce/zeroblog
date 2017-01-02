@@ -8,9 +8,9 @@ author = "Richard Magahiz"
 copyright = "&copy; 2016 -- 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
-contentDir: "content"
-layoutDir: "layouts"
-publishDir: "zeroblog"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "zeroblog"
 
 
 [indexes]
