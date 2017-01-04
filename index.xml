@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>And Zero at the Bone</title>
-    <link>https://www.zeroatthebone.us/zeroblog/</link>
+    <link>https://blog.zeroatthebone.us/</link>
     <description>Recent content on And Zero at the Bone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 -- 2017. All rights reserved.</copyright>
     <lastBuildDate>Sat, 31 Dec 2016 07:40:51 -0800</lastBuildDate>
-    <atom:link href="https://www.zeroatthebone.us/zeroblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.zeroatthebone.us/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Offices</title>
-      <link>https://www.zeroatthebone.us/zeroblog/post/anoffice/</link>
+      <link>https://blog.zeroatthebone.us/post/anoffice/</link>
       <pubDate>Sat, 31 Dec 2016 07:40:51 -0800</pubDate>
       
-      <guid>https://www.zeroatthebone.us/zeroblog/post/anoffice/</guid>
+      <guid>https://blog.zeroatthebone.us/post/anoffice/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been years since I have worked at a place where I&amp;rsquo;ve had an office of my
 own. In fact, only two of the eight jobs I&amp;rsquo;ve had since finishing schools
 have featured this&lt;/p&gt;
@@ -58,10 +58,10 @@ workers, and that&amp;rsquo;s just the way it&amp;rsquo;s going to be from now o
     
     <item>
       <title>contact</title>
-      <link>https://www.zeroatthebone.us/zeroblog/contact/</link>
+      <link>https://blog.zeroatthebone.us/contact/</link>
       <pubDate>Sun, 18 Dec 2016 20:18:59 -0800</pubDate>
       
-      <guid>https://www.zeroatthebone.us/zeroblog/contact/</guid>
+      <guid>https://blog.zeroatthebone.us/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;email&#34;&gt;Email:&lt;/h1&gt;
@@ -119,10 +119,10 @@ workers, and that&amp;rsquo;s just the way it&amp;rsquo;s going to be from now o
     
     <item>
       <title>First post</title>
-      <link>https://www.zeroatthebone.us/zeroblog/post/newblog/</link>
+      <link>https://blog.zeroatthebone.us/post/newblog/</link>
       <pubDate>Sun, 18 Dec 2016 20:18:51 -0800</pubDate>
       
-      <guid>https://www.zeroatthebone.us/zeroblog/post/newblog/</guid>
+      <guid>https://blog.zeroatthebone.us/post/newblog/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting this personal blog as a successor to my previous blogs:
 * &lt;a href=&#34;http://t2o.blogspot.com&#34;&gt;Heavy Heavy Water&lt;/a&gt;
 * &lt;a href=&#34;http://poorpoorthing.posterous.com&#34;&gt;Poor Poor Thing&lt;/a&gt;
@@ -145,13 +145,13 @@ put up whatever items come to mind and control on my own is attractive.&lt;/p&gt
     
     <item>
       <title>about</title>
-      <link>https://www.zeroatthebone.us/zeroblog/about/</link>
+      <link>https://blog.zeroatthebone.us/about/</link>
       <pubDate>Sun, 18 Dec 2016 20:18:51 -0800</pubDate>
       
-      <guid>https://www.zeroatthebone.us/zeroblog/about/</guid>
+      <guid>https://blog.zeroatthebone.us/about/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Here I am&lt;br /&gt;
-&lt;img src=&#34;https://www.zeroatthebone.us/zeroblog/media/Photo on 1-1-14 at 7.42 AM.jpg&#34; title=&#34;Richard Magahiz&#34; width=640 height=426 /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://blog.zeroatthebone.us/media/Photo on 1-1-14 at 7.42 AM.jpg&#34; title=&#34;Richard Magahiz&#34; width=640 height=426 /&gt;&lt;/li&gt;
 &lt;li&gt;As for the other Frequently Asked Question:  the last name is &lt;em&gt;Filipino&lt;/em&gt;.  Having been born in this country, I&amp;rsquo;ve not had the
 pleasure of visiting the ancestral land.&lt;/li&gt;
 &lt;li&gt;As you can tell, I enjoy creative writing, a habit I have had since childhood. I have been
@@ -159,7 +159,7 @@ pleasure of visiting the ancestral land.&lt;/li&gt;
 in various venues on the Web and in print and am currently working on&lt;br /&gt;getting a (small) book-length piece which I co-authored out into the world.&lt;/li&gt;
 &lt;li&gt;My wife Pamela and I live in San Mateo, CA.
 This is a picture of her&lt;br /&gt;
-&lt;img src=&#34;https://www.zeroatthebone.us/zeroblog/media/IMG_0501.JPG&#34; title=&#34;Pamela Magahiz&#34; width=245 height=326 /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://blog.zeroatthebone.us/media/IMG_0501.JPG&#34; title=&#34;Pamela Magahiz&#34; width=245 height=326 /&gt;&lt;/li&gt;
 &lt;li&gt;I am a Devops Engineer at &lt;a href=&#34;http://daqri.com&#34;&gt;DAQRI&lt;/a&gt;, in Sunnyvale, CA, USA.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
