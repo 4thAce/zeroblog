@@ -1,6 +1,6 @@
 #baseurl = "https://www.zeroatthebone.us/"
 #baseurl = "http://localhost:1313/"
-baseurl = "https://www.zeroatthebone.us/zeroblog/"
+baseurl = "https://blog.zeroatthebone.us"
 languageCode = "en-us"
 title = "And Zero at the Bone"
 theme = "blackburn"

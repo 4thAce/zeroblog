@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on And Zero at the Bone</title>
-    <link>https://www.zeroatthebone.us/zeroblog/post/</link>
+    <link>https://blog.zeroatthebone.us/post/</link>
     <description>Recent content in Posts on And Zero at the Bone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 -- 2017. All rights reserved.</copyright>
     <lastBuildDate>Sat, 31 Dec 2016 07:40:51 -0800</lastBuildDate>
-    <atom:link href="https://www.zeroatthebone.us/zeroblog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.zeroatthebone.us/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Offices</title>
-      <link>https://www.zeroatthebone.us/zeroblog/post/anoffice/</link>
+      <link>https://blog.zeroatthebone.us/post/anoffice/</link>
       <pubDate>Sat, 31 Dec 2016 07:40:51 -0800</pubDate>
       
-      <guid>https://www.zeroatthebone.us/zeroblog/post/anoffice/</guid>
+      <guid>https://blog.zeroatthebone.us/post/anoffice/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been years since I have worked at a place where I&amp;rsquo;ve had an office of my
 own. In fact, only two of the eight jobs I&amp;rsquo;ve had since finishing schools
 have featured this&lt;/p&gt;
@@ -58,10 +58,10 @@ workers, and that&amp;rsquo;s just the way it&amp;rsquo;s going to be from now o
     
     <item>
       <title>First post</title>
-      <link>https://www.zeroatthebone.us/zeroblog/post/newblog/</link>
+      <link>https://blog.zeroatthebone.us/post/newblog/</link>
       <pubDate>Sun, 18 Dec 2016 20:18:51 -0800</pubDate>
       
-      <guid>https://www.zeroatthebone.us/zeroblog/post/newblog/</guid>
+      <guid>https://blog.zeroatthebone.us/post/newblog/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting this personal blog as a successor to my previous blogs:
 * &lt;a href=&#34;http://t2o.blogspot.com&#34;&gt;Heavy Heavy Water&lt;/a&gt;
 * &lt;a href=&#34;http://poorpoorthing.posterous.com&#34;&gt;Poor Poor Thing&lt;/a&gt;
