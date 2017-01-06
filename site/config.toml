@@ -1,6 +1,4 @@
-#baseurl = "https://www.zeroatthebone.us/"
-#baseurl = "http://localhost:1313/"
-baseurl = "https://blog.zeroatthebone.us"
+baseurl = "https://www.zeroatthebone.us"
 languageCode = "en-us"
 title = "And Zero at the Bone"
 theme = "blackburn"
@@ -11,7 +9,6 @@ paginate = 10
 contentDir = "content"
 layoutDir = "layouts"
 publishDir = "zeroblog"
-
 
 [indexes]
   tag = "tags"
