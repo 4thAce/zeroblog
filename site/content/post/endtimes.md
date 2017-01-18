@@ -16,6 +16,8 @@ topics = [
 
 <img src="/Doomsday_Clock_3_minute_mark.jpg" width=200 height=200 alt="Doomsday clock" \>
 
+## Apocalypse? Not Now
+
 I know some people who are convinced that we have only months to live given the
 current political climate in the United States, that the kind of rhetoric being
 hurled around means that nuclear annihilation or maybe biological catastrophe
@@ -78,7 +80,7 @@ preoccupation with extracting wealth for a little bit too long, and allow the
 disorder to take root in a way that was not possible before.
 
 So, my bet is that it is more worth worrying of a dystopian future than an
-apocalyptic one. I'm not saying that it is the most likely outcome, but it feels
+utterly calamitous one. I'm not saying that it is the most likely outcome, but it feels
 to me like the kind of danger a sane person might consider taking a few
 precautions against, in case everything all happens without advance warning.
 
@@ -87,4 +89,17 @@ precautions against, in case everything all happens without advance warning.
 Living in blizzard country for so long through a number of blackouts has
 instilled in me the virtue of having a few basic survival items on hand no
 matter what the public mood is like. Now that we've moved out to the West Coast
-this doubles as an earthquake preparedness kit too.
+my jump bag doubles as an earthquake preparedness kit too. Now, I'm not any kind
+of
+[prepper](http://www.prepperwebsite.com/) -- I haven't even gone camping since
+I was ten -- but I recognize the benefit of knowing that I have enough on hand
+to get by for a few days while waiting for things to settle down outside.
+
+The basics include water, food, medicine, shelter, and safety/health. A little
+bit of money can come in handy too in case the ATMs are offline, and there are
+some hardware type supplies like rope and duct tape which can be used for all
+sorts of unexpected situations. A radio which works without having to plug it in
+and battery powered lights are good too. The kinds of things that you associate
+with living in the wilderness like flints and compasses and shovels I think are
+less vital for a suburban dweller like me, hoping that whatever might happen
+doesn't force us to flee our apartment.
