@@ -86,6 +86,8 @@ precautions against, in case everything all happens without advance warning.
 
 ## Preparedness
 
+<!-- insert a figure -->
+
 Living in blizzard country for so long through a number of blackouts has
 instilled in me the virtue of having a few basic survival items on hand no
 matter what the public mood is like. Now that we've moved out to the West Coast
@@ -103,3 +105,29 @@ and battery powered lights are good too. The kinds of things that you associate
 with living in the wilderness like flints and compasses and shovels I think are
 less vital for a suburban dweller like me, hoping that whatever might happen
 doesn't force us to flee our apartment.
+
+## State of Mind
+
+<!-- another figure -->
+
+One of the most difficult things to do is to adjust one's frame of mind to
+conform to what the new order will be. We are in the midst of installing a
+Executive Branch in Washington based on disorder, bent on upending everything
+that applied before. Their tendencies will be oriented toward the accumulation
+of wealth in a hypercapitalistic fashion and a craving for power and prestige
+on the world stage. The other two branches of government are still mired in
+states of relative inaction because of the deep divide between the
+congressional Republicans and Democrats, between the court conservatives and
+liberals, which might mean that the checks on the power of the Executive
+Branch might no longer operate properly. The uncertainty this produces is
+reflected in the bond markets with unusually high yields.
+
+In the country outside Washington there are going to be pockets of strong
+opposition to the stated plan of action coming from the top, which has
+might get ugly. In the past, unrest tends to get concentrated at a few
+flashpoints where a riot or other act of violence can make things very bad for
+a small population. There is probably no way to predict whether you will be
+at one of these locations, so the prudent thing to do is to prepare for disorder
+which might come suddenly, without panicking. It is a romantic idea to imagine
+yourself in the midst of devastation and ruin but that is not the most likely
+case.
