@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/milkfish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zeroatthebone.us
+  * I am milkfish (https://keybase.io/milkfish) on keybase.
+  * I have a public key ASAyeyWNOpRmgTtK332kEwcoqHglKJorpVyykdtiQy7U8Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120327b258d3a9466813b4adf7da4130728a87825289a2ba55cb291db62432ed4f00a",
+            "host": "keybase.io",
+            "kid": "0120327b258d3a9466813b4adf7da4130728a87825289a2ba55cb291db62432ed4f00a",
+            "uid": "a4ef6db9481c225e59fcd931d75d2e19",
+            "username": "milkfish"
+        },
+        "service": {
+            "hostname": "zeroatthebone.us",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1484534737,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1484534582,
+        "hash": "36aa699df93592bbd49900d1e6e71d5b431371eb9c9784ffe97b41436b6af9543bf1761b07d30ae89146768dc20082f3cceaca30e700dfefe3c224a364c70325",
+        "seqno": 801319
+    },
+    "prev": "a6328ecad55593fbdb6917cb8c86b7d9629fc3092d1325b12b25052fc45d56ae",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMnsljTqUZoE7St99pBMHKKh4JSiaK6VcspHbYkMu1PAKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzI3YjI1OGQzYTk0NjY4MTNiNGFkZjdkYTQxMzA3MjhhODc4MjUyODlhMmJhNTVjYjI5MWRiNjI0MzJlZDRmMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzI3YjI1OGQzYTk0NjY4MTNiNGFkZjdkYTQxMzA3MjhhODc4MjUyODlhMmJhNTVjYjI5MWRiNjI0MzJlZDRmMDBhIiwidWlkIjoiYTRlZjZkYjk0ODFjMjI1ZTU5ZmNkOTMxZDc1ZDJlMTkiLCJ1c2VybmFtZSI6Im1pbGtmaXNoIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ6ZXJvYXR0aGVib25lLnVzIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODQ1MzQ3MzcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NDUzNDU4MiwiaGFzaCI6IjM2YWE2OTlkZjkzNTkyYmJkNDk5MDBkMWU2ZTcxZDViNDMxMzcxZWI5Yzk3ODRmZmU5N2I0MTQzNmI2YWY5NTQzYmYxNzYxYjA3ZDMwYWU4OTE0Njc2OGRjMjAwODJmM2NjZWFjYTMwZTcwMGRmZWZlM2MyMjRhMzY0YzcwMzI1Iiwic2Vxbm8iOjgwMTMxOX0sInByZXYiOiJhNjMyOGVjYWQ1NTU5M2ZiZGI2OTE3Y2I4Yzg2YjdkOTYyOWZjMzA5MmQxMzI1YjEyYjI1MDUyZmM0NWQ1NmFlIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA3h+9ChfAIN0EslzC95pDo8rzR72eatZE9RTdbx4GIAUZDa9CCT7tddJlcVJkGwbxVV5Y136dKJFchHQZqlwJBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBiMOrLyYeWFIthYyUzxKz+X2pMli3J9NQKigSDC+O5Yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/milkfish
+
+==================================================================
