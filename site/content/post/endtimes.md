@@ -16,49 +16,47 @@ topics = [
 
 <img src="/Doomsday_Clock_3_minute_mark.jpg" width=200 height=200 alt="Doomsday clock" \>
 
-## Apocalypse? Not Now
+## Apocalypse When
 
-I know some people who are convinced that we have only months to live given the
-current political climate in the United States, that the kind of rhetoric being
+Some people I know are convinced we all have only months to live,
+certain that the kind of rhetoric being
 hurled around means that nuclear annihilation or maybe biological catastrophe
-or some other mass destruction come to the world taking most of us by surprise.
-The idea is that the rules of society have changed so completely we can no
-longer count upon collective good will that got us through tough times in the
-past and that at least a whiff of what the four horsemen of the apocalypse
-could decimate us (meaning wipe out at least ten percent of the population)
-enough to bring a time of either anarchy or brutal repression. It may be a sign
-of self-delusion if other people fail to recognize the warnings that are around
-us. It could come upon us in a flash, so that the survivors of whatever
-disaster are thrown into a scenario where it comes down to individual action
-which will decide whether people will live or die, and any who have relied on
-the existing social order will find it very hard to obtain what they need to
-hold it together.
+will take most of us by surprise.
+The rules of society in the US have changed so completely we can no
+longer count upon collective good will to get us through tough times
+and that we're due for either anarchy or brutal repression. That it's self-delusion
+to fail to recognize the warnings on our screens. As in a big budget film,
+survivors of the shock will be thrown into a world where every choice
+might decide whether more will live or die, where any shred of
+the old social order will be lost.
 
-As with nearly all predictions about the future, I am less interested in
-falsifying the assertions but in deciding for myself what it is that I ought to
-do in response. I do think we in this country are in a dire chance of losing
-a significant amount of what has defined our national character if we let down
-our guard. Partly, this means that to keep our freedoms under the Bill of Rights
-the thing to do is to exercise those rights: to speak out, to assemble, and to
-protect our fellows from threats from the left or the right. If I really believe
+Since predicting the future is always so hard, I think I'll do less well
+in figuring out the exact course of any unfolding calamity than deciding for
+myself what to do about it. I do think the middle class here stands a chance of
+losing a lot if we let down our guard. It makes sense to build up reserves of
+what you need to get by. If you really believe
 the danger is that thermonuclear warheads will come raining down on all our
-cities, of course, this will be mostly of symbolic value only, but somehow I
-personally do not take that as either the likely or the most dangerous way the
+cities, of course, this will not help much, but somehow I
+do not take that as either the likely or the most dangerous way the
 story will play out.
 
 ## Geopolitics
 
-I see a set of moneyed interests taking up residence in Washington mainly
-interested in amassing even a larger fraction of the world's wealth. The vices
-of racism, sexism, violation of personal liberties and so on are mostly just
+<img src="/6029050434_960329feb5.jpg" width=250 height=250 alt="Map on wall" />
+
+In Washington, I see a set of moneyed interests taking up residence mainly
+interested in amassing even a larger fraction of the world's wealth. The racism,
+sexism, violation of personal liberties and so on are mostly just
 there in service to this goal, not really the most important things to these
 people, so long as they and their friends acquire more and more in the process.
-A hot war with weapons of mass destruction flying, a seizure of all personal
-property by the state would I guess not be in their best interest as opposed to
-a gradual tightening of the economy in their favor and to the detriment of low
-and middle income populations, exacting concessions from other countries mostly
-through diplomatic connections but maybe through proxy wars in the Middle East
-and places like southeast Asia.
+A hot war with weapons of mass destruction flying, anything to collapse the
+world economy would not be in their best interest as opposed to
+a gradual tilting of the game in their favor and to the detriment of low
+and middle income populations. Instead of all-out war, they will want to exact
+concessions from other countries through diplomatic connections but maybe
+by reheating proxy wars in the Middle East and southeast Asia.
+
+Still, I [might be wrong](https://www.nytimes.com/2017/01/19/opinion/are-you-not-alarmed.html?_r=0).
 
 The problem is that some people and groups will
 be watching for this and will increase their opposition, not just through the
@@ -86,7 +84,7 @@ precautions against, in case everything all happens without advance warning.
 
 ## Preparedness
 
-<!-- insert a figure -->
+<img src="/30062957192_106119086c_b.jpg" width=204 height=160 alt="Preparedness badge" />
 
 Living in blizzard country for so long through a number of blackouts has
 instilled in me the virtue of having a few basic survival items on hand no
@@ -108,7 +106,7 @@ doesn't force us to flee our apartment.
 
 ## State of Mind
 
-<!-- another figure -->
+<img src="/30947468561_89f53ab6e0.jpg" width=250 height=175 alt="Lighthouse beacon" />
 
 One of the most difficult things to do is to adjust one's frame of mind to
 conform to what the new order will be. We are in the midst of installing a
@@ -130,4 +128,14 @@ a small population. There is probably no way to predict whether you will be
 at one of these locations, so the prudent thing to do is to prepare for disorder
 which might come suddenly, without panicking. It is a romantic idea to imagine
 yourself in the midst of devastation and ruin but that is not the most likely
-case.
+case. Lay up a store of mental toughness, something that will get you through
+the time when it feels like the world is turning against you, and gear yourself
+and those around you to endure whatever happens with the best you have to
+offer.
+
+Image credits:
+
+* [File:Doomsday Clock 3 minute mark.jpg](https://en.wikipedia.org/wiki/File:Doomsday_Clock_3_minute_mark.jpg)
+* <a href="https://www.flickr.com/photos/88442983@N00/6029050434/">taberandrew</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+* <a href="https://www.flickr.com/photos/77174816@N04/30062957192/">PreparedBC</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+* <a href="https://www.flickr.com/photos/76028037@N08/30947468561/">W. Tipton</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a>
