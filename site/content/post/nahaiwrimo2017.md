@@ -27,7 +27,9 @@ topics = []
 ```
 22
 ```
+then might they know:   someone passed this way
 ```
+https://www.shutterstock.com/image-photo/fossil-leaf-coal-486364069
 21
 ```
 eighty year old
@@ -157,52 +159,26 @@ the moonlit path home
 shines with dew
 ```
 
-NaHaiWriMo February 19, 2017 daily writing prompt: CHERRY BLOSSOM (also, the submission period for this year’s Vancouver Cherry Blossom Festival Haiku Invitational runs from March 1 to June 1).
-Like · Reply · February 17 at 10:45pm
-NaHaiWriMo
-NaHaiWriMo February 13, 2017 daily writing prompt: IS (use this specific word in your poem, but try to be wary of introducing too much judgment into the poem).
-Like · Reply · February 11 at 10:17pm
-NaHaiWriMo
-NaHaiWriMo February 3, 2017 daily writing prompt: A (yes, just this letter of the alphabet—where will it take you? a what? or something starting with a?).
-Like · Reply · 2 · February 1 at 8:54pm
-NaHaiWriMo
-NaHaiWriMo February 2, 2017 daily writing prompt: IS (write about existence itself, or the existence of something, but don’t use the word “is” in your poem).
-Like · Reply · 7 · January 31 at 7:36pm
-NaHaiWriMo
-NaHaiWriMo February 1, 2017 daily writing prompt: HAIKU (write a serious haiku ABOUT haiku, which is hard to do well).
-Like · Reply · 8 · January 30 at 8:54pm
-NaHaiWriMo
-NaHaiWriMo February 20, 2017 daily writing prompt: NATURE (yet again, but this time think of something seasonal that’s unique or special where you live).
-Like · Reply · February 18 at 10:19pm
-NaHaiWriMo
-NaHaiWriMo February 18, 2017 daily writing prompt: NATURE (again, but something you’ve experienced in another season rather than this one).
-NaHaiWriMo
-NaHaiWriMo February 16, 2017 daily writing prompt: NATURE (write about something natural rather than human-made that you can see right now).
-NaHaiWriMo
-NaHaiWriMo February 15, 2017 daily writing prompt: RETURNING TO (what have you often returned to in life, or would you like to return to?).
-NaHaiWriMo
-NaHaiWriMo February 14, 2017 daily writing prompt: A WAY OF (either fill in a word after “of” or write a poem about a “way” of some kind).
-NaHaiWriMo
-NaHaiWriMo February 12, 2017 daily writing prompt: IT (use this word in your poem, but try not to say what “it” is).
-NaHaiWriMo
-NaHaiWriMo February 6, 2017 daily writing prompt: A DOOR.
-NaHaiWriMo
-NaHaiWriMo February 4, 2017 daily writing prompt: HAND.
-NaHaiWriMo
-NaHaiWriMo February 7, 2017 daily writing prompt: HALF.
-NaHaiWriMo
-NaHaiWriMo February 11, 2017 daily writing prompt: CLEAN.
-NaHaiWriMo
-NaHaiWriMo February 8, 2017 daily writing prompt: OPENED.
-NaHaiWriMo
-NaHaiWriMo February 5, 2017 daily writing prompt: BECKONING.
-NaHaiWriMo
-NaHaiWriMo February 17, 2017 daily writing prompt: MOON.
-NaHaiWriMo
-NaHaiWriMo February 22, 2017 daily writing prompt: LEAF.
-NaHaiWriMo
-NaHaiWriMo February 21, 2017 daily writing prompt: FALLING.
-NaHaiWriMo
-NaHaiWriMo February 10, 2017 daily writing prompt: WIPED.
-NaHaiWriMo
-NaHaiWriMo February 9, 2017 daily writing prompt: A MIRROR.
+* February 1, 2017 daily writing prompt: HAIKU (write a serious haiku ABOUT haiku, which is hard to do well).
+* February 2, 2017 daily writing prompt: IS (write about existence itself, or the existence of something, but don’t use the word “is” in your poem).
+* February 3, 2017 daily writing prompt: A (yes, just this letter of the alphabet—where will it take you? a what? or something starting with a?).
+* February 4, 2017 daily writing prompt: HAND.
+* February 5, 2017 daily writing prompt: BECKONING.
+* February 6, 2017 daily writing prompt: A DOOR.
+* February 7, 2017 daily writing prompt: HALF.
+* February 8, 2017 daily writing prompt: OPENED.
+*  February 9, 2017 daily writing prompt: A MIRROR.
+*  February 10, 2017 daily writing prompt: WIPED.
+* February 11, 2017 daily writing prompt: CLEAN.
+* February 12, 2017 daily writing prompt: IT (use this word in your poem, but try not to say what “it” is).
+* February 13, 2017 daily writing prompt: IS (use this specific word in your poem, but try to be wary of introducing too much judgment into the poem).
+* February 14, 2017 daily writing prompt: A WAY OF (either fill in a word after “of” or write a poem about a “way” of some kind).
+* February 15, 2017 daily writing prompt: RETURNING TO (what have you often returned to in life, or would you like to return to?).
+* February 16, 2017 daily writing prompt: NATURE (write about something natural rather than human-made that you can see right now).
+* February 17, 2017 daily writing prompt: MOON.
+* February 18, 2017 daily writing prompt: NATURE (again, but something you’ve experienced in another season rather than this one).
+* February 19, 2017 daily writing prompt: CHERRY BLOSSOM (also, the submission period for this year’s Vancouver Cherry Blossom Festival Haiku Invitational runs from March 1 to June 1).
+* February 20, 2017 daily writing prompt: NATURE (yet again, but this time think of something seasonal that’s unique or special where you live).
+* February 21, 2017 daily writing prompt: FALLING.
+* February 22, 2017 daily writing prompt: LEAF.
+* February 23, 2017 daily writing prompt: NATURE (once more, but think of human nature this time).
