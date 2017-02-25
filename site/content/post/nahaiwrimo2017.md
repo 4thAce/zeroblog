@@ -18,12 +18,19 @@ topics = []
 ```
 25
 ```
+all the way back
+last fall's kim chee lifts
+up the lid
 ```
 24
 ```
+father's ashes   the morning fog
 ```
 23
 ```
+some noisy kid
+on the train   our knees nearly
+touch
 ```
 22
 ```
@@ -182,3 +189,4 @@ shines with dew
 * February 21, 2017 daily writing prompt: FALLING.
 * February 22, 2017 daily writing prompt: LEAF.
 * February 23, 2017 daily writing prompt: NATURE (once more, but think of human nature this time).
+* February 24, 2017 daily writing prompt: IN SHORT (write a very brief/minimal haiku).
