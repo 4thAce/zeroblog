@@ -1,20 +1,36 @@
 +++
 date = "2017-02-21T21:18:26-08:00"
-description = ""
-draft = true
-tags = []
-title = "nahaiwrimo2017"
-topics = []
+description = "Twenty eight short poems for the shortest month"
+draft = false
+tags = [
+  "poetry",
+  "personal",
+]
+title = "NaHaiWriMo 2017"
+topics = [
+  "writing",
+  "pastime,"
+]
 
 +++
+
 28
 ```
+two dozen eggs
+and four besides,
+some of them cracked
 ```
 27
 ```
+the teakettle sings
+we achieve
+enlightenment
 ```
 26
 ```
+spit drips
+from her lips;    her boy stoops for
+a good rock
 ```
 25
 ```
@@ -190,3 +206,7 @@ shines with dew
 * February 22, 2017 daily writing prompt: LEAF.
 * February 23, 2017 daily writing prompt: NATURE (once more, but think of human nature this time).
 * February 24, 2017 daily writing prompt: IN SHORT (write a very brief/minimal haiku).
+* February 25, 2017 daily writing prompt: TO (write a poem in which you use the word “to”).
+* February 26, 2017 daily writing prompt: OUR (our what? see where that will take you, and try to use “our” in your poem).
+* February 27, 2017 daily writing prompt: BUDDHA.
+* February 28, 2017 daily writing prompt: NATURE (yet again—whatever you want to write about from the natural word, and try to keep it a pure-nature poem).
