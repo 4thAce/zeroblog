@@ -52,7 +52,7 @@ touch
 ```
 then might they know:   someone passed this way
 ```
-https://www.shutterstock.com/image-photo/fossil-leaf-coal-486364069
+<a href=https://www.shutterstock.com/image-photo/fossil-leaf-coal-486364069><img src=https://thumb1.shutterstock.com/display_pic_with_logo/924506/486364069/stock-photo-fossil-leaf-coal-486364069.jpg /><a /><br />
 21
 ```
 eighty year old
@@ -143,7 +143,7 @@ two people
 but one hearth:  the cherry
 and its stone
 ```
-https://www.flickr.com/photos/92079962@N00/197777002/
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/92079962@N00/197777002/" title="I gave my love a cherry..."><img src="https://c1.staticflickr.com/1/67/197777002_bf0b89349f.jpg" width="500" height="375" alt="I gave my love a cherry..."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br />
 6
 ```
 I jab the button
