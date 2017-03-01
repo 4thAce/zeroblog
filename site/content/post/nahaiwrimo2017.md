@@ -1,6 +1,6 @@
 +++
 date = "2017-02-21T21:18:26-08:00"
-description = "Twenty eight short poems for the shortest month"
+description = "A selection of short poems for the shortest month"
 draft = false
 tags = [
   "poetry",
@@ -14,173 +14,134 @@ topics = [
 
 +++
 
+For a number of years
+[Michael Dylan Welch](http://www.graceguts.com/) has been organizing National Haiku
+Writing Month, more commonly known as
+[NaHaiWriMo](http://www.nahaiwrimo.com/) during the month of February where
+anyone can post their minimalistic poetic contributions every day.
+
+
 28
-```
+<pre>
 two dozen eggs
 and four besides,
 some of them cracked
-```
-27
-```
-the teakettle sings
-we achieve
-enlightenment
-```
+</pre>
 26
-```
+<pre>
 spit drips
 from her lips;    her boy stoops for
 a good rock
-```
+</pre>
 25
-```
+<pre>
 all the way back
 last fall's kim chee lifts
 up the lid
-```
-24
-```
-father's ashes   the morning fog
-```
-23
-```
-some noisy kid
-on the train   our knees nearly
-touch
-```
+</pre>
 22
-```
+<pre>
 then might they know:   someone passed this way
-```
-<a href=https://www.shutterstock.com/image-photo/fossil-leaf-coal-486364069><img src=https://thumb1.shutterstock.com/display_pic_with_logo/924506/486364069/stock-photo-fossil-leaf-coal-486364069.jpg /><a /><br />
+</pre>
+<a href=https://www.shutterstock.com/image-photo/fossil-leaf-coal-486364069>
+<img src=https://thumb1.shutterstock.com/display_pic_with_logo/924506/486364069/stock-photo-fossil-leaf-coal-486364069.jpg />
+</a><br />
 21
-```
+<pre>
 eighty year old
-teacup -   its shards in
+teacup --   its shards in
 your two hands
-```
+</pre>
 20
-```
+<pre>
 early September
 the smoke plume a
 lurid red
-```
-19
-```
-you wave farewell...
-something indistinct
-blocks my sight
-```
-18
-```
-bagging the
-lawn clippings  the scent of
-wild onion
-```
-17
-```
-tossed out
-with the suds, a crescent of
-pearly light
-```
+</pre>
 16
-```
+<pre>
 the place where
 you used to park -  leaves
 from last autumn
-```
+</pre>
 15
-```
+<pre>
 to begin again:
 share your things,
 try to be kind
-```
+</pre>
 14
-```
+<pre>
 through life's
 twenty thousand missteps we learn
 the Tao
-```
+</pre>
 13
-```
+<pre>
 camp twenty-three
 the place you knew
 no longer is
-```
-12
-```
-a sudden arc
-from the hose is it now
-July?
-```
+</pre>
 11
-```
+<pre>
 before mother comes
 hide the bacon,
 this raw shrimp
-```
-10
-```
-an empty cup
-he removes all
-trace of lipstick
-```
+</pre>
 9
-```
+<pre>
 mass job cuts
 I look at myself...
 could have been me
-```
+</pre>
 8
-```
+<pre>
 ancient oyster
 one kimono fold
 in the flow
-```
+</pre>
 7
-```
+<pre>
 two people
 but one hearth:  the cherry
 and its stone
-```
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/92079962@N00/197777002/" title="I gave my love a cherry..."><img src="https://c1.staticflickr.com/1/67/197777002_bf0b89349f.jpg" width="500" height="375" alt="I gave my love a cherry..."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br />
+</pre>
+<a data-flickr-embed="true"  
+href="https://www.flickr.com/photos/92079962@N00/197777002/"
+title="I gave my love a cherry...">
+<img src="https://c1.staticflickr.com/1/67/197777002_bf0b89349f.jpg"
+width="500" height="375" alt="I gave my love a cherry..."></a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br />
 6
-```
+<pre>
 I jab the button
 twice...   still
 no elevator
-```
+</pre>
 5
-```
+<pre>
 she has them look:
 the transport that holds
 their father
-```
+</pre>
 4
-```
+<pre>
 the harlequin's
 salute -- just a few
 fingers short
-```
+</pre>
 3
-```
+<pre>
 tap of
 a hammer... violet on
 violet...
-```
-https://www.flickr.com/photos/134915614@N02/29170233281/
-2
-```
-sitting practice:
-the first mosquito
-of summer
-```
-1
-```
-too much plum wine
-the moonlit path home
-shines with dew
-```
+</pre>
+<a data-flickr-embed="true"  
+href="https://www.flickr.com/photos/134915614@N02/29170233281/in/photostream/"
+title="JadeCity12"><img src="https://c1.staticflickr.com/9/8450/29170233281_dfed90ca37.jpg"
+width="375" height="500" alt="JadeCity12"></a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 * February 1, 2017 daily writing prompt: HAIKU (write a serious haiku ABOUT haiku, which is hard to do well).
 * February 2, 2017 daily writing prompt: IS (write about existence itself, or the existence of something, but don’t use the word “is” in your poem).
