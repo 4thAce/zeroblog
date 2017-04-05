@@ -1,7 +1,7 @@
 +++
 date = "2017-04-05T06:25:21-07:00"
 description = "A list of work projects"
-draft = true
+draft = false
 tags = [
   "web",
   "tech",
@@ -14,10 +14,17 @@ topics = [
 
 +++
 
+<a data-flickr-embed="true"  
+href="https://www.flickr.com/photos/30003321@N00/4424784470/"
+title="Jelly Boats">
+<img src="https://c1.staticflickr.com/3/2775/4424784470_d261e7904f_z.jpg"
+width="640" height="427" alt="Jelly Boats"></a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Here is a list of what I have put together or worked on for some significant
 amount over the last couple of years on the job.
 
-* [Monitoring](/monitoring-work) will get its own post eventually.
+* [Monitoring](/post/monitoring-work) will get its own post eventually.
 * We migrated from a single service which ran on a single instance in Classic
 EC2 to a half dozen services running in separate VPCs, each with autoscaling
 instances behind an elastic load balancer to provide high availability. Getting
@@ -50,4 +57,5 @@ environments (addresses, instance IDs, running state, and so on) and display
 them in a tabular format. This saved me a lot of time switching between
 different dashboards and running things through the command line interface
 just to keep things oriented.
-*
+* Kept track of our hosting costs in order to find out where we could benefit
+from terminating instances or phasing out legacy services.
