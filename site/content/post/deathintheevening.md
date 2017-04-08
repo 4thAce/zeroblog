@@ -3,11 +3,11 @@ date = "2017-02-13T21:02:01-08:00"
 description = ""
 draft = false
 tags = [
-  "California",
   "disaster"
 ]
 title = "Death in the Evening"
 topics = [
+  "California",
   "life",
 ]
 
