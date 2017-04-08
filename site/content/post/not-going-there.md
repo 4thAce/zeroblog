@@ -13,6 +13,13 @@ draft = false
 
 +++
 
+<a data-flickr-embed="true"
+ href="https://www.flickr.com/photos/55211848@N06/18924342590/"
+ title="Shelf cloud panorama 1">
+ <img src="https://c1.staticflickr.com/1/439/18924342590_398bba23c5.jpg"
+ width="500" height="229" alt="Shelf cloud panorama 1"></a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 The office where I am working now is
 going away by the middle of next month, so there is some urgency right now
 to work out some
@@ -65,6 +72,15 @@ routes in a way they didn't used to. Economy class passengers receive an
 objectively worse experience than before, and it isn't clear to me that business-
 and first-class passengers get a lot of value for the higher prices they pay. I
 cannot see myself relying on this for something important to me, not after what we
-have already given up to move here. And so I'm talking to recruiters and hiring
-managers and learning to talk about my marketable job skills again, tiresome as
-this can be.
+have already given up to move here.
+
+<a data-flickr-embed="true"  
+href="https://www.flickr.com/photos/44380239@N08/10272625304/"
+title="James Holden - A Break In The Clouds  #mthood #sunrise">
+<img src="https://c1.staticflickr.com/4/3769/10272625304_963465db0d.jpg"
+width="500" height="500" alt="James Holden - A Break In The Clouds  #mthood #sunrise"></a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And so I'm talking to recruiters and hiring managers and learning to talk about
+my marketable job skills again. It's  tiresome at the same time as it is
+nerve-racking but absolutely necessary.
