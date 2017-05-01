@@ -20,7 +20,7 @@ draft = false
  width="500" height="229" alt="Shelf cloud panorama 1"></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The office where I am working now is
+The job where I am working now is
 going away by the middle of next month, so there is some urgency right now
 to work out some
 alternate work arrangement, and no way to rig up some sort of
