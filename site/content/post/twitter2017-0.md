@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "twitter2017"
-date = 2017-12-22T08:28:14-08:00
+date = 2017-01-01T08:28:14-08:00
 tags = [
   "social",
   "media"
@@ -80,4 +80,9 @@ memorable tweets of the year from my bookmarks.
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I work in an elementary/middle school, so I just had to. <a href="https://twitter.com/hashtag/Halloween?src=hash&amp;ref_src=twsrc%5Etfw">#Halloween</a> <a href="https://twitter.com/hashtag/diy?src=hash&amp;ref_src=twsrc%5Etfw">#diy</a> <a href="https://twitter.com/hashtag/maker?src=hash&amp;ref_src=twsrc%5Etfw">#maker</a> <a href="https://twitter.com/hashtag/makered?src=hash&amp;ref_src=twsrc%5Etfw">#makered</a> <a href="https://twitter.com/hashtag/fidgetspinner?src=hash&amp;ref_src=twsrc%5Etfw">#fidgetspinner</a> <a href="https://t.co/wvVh4fL2pY">pic.twitter.com/wvVh4fL2pY</a></p>&mdash; JD Pirtle (@jd_pirtle) <a href="https://twitter.com/jd_pirtle/status/923919068733861894?ref_src=twsrc%5Etfw">October 27, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## December
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This person listened to their designer. This person was smart. <a href="https://t.co/dbb25rDkJB">pic.twitter.com/dbb25rDkJB</a></p>&mdash; UI Inspiration (@uidesignpattern) <a href="https://twitter.com/uidesignpattern/status/943703899923468288?ref_src=twsrc%5Etfw">December 21, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
