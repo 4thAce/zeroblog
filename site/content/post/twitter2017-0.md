@@ -1,7 +1,7 @@
 +++
-draft = true
-title = "twitter2017"
-date = 2017-01-01T08:28:14-08:00
+draft = false
+title = "Twitter 2017"
+date = 2018-01-05T06:28:14-08:00
 tags = [
   "social",
   "media"
@@ -12,8 +12,9 @@ topics = [
 description = "Best of Twitter 2017"
 +++
 
-Once again the end of the year is a good time to gather up all the most
-memorable tweets of the year from my bookmarks.
+<img src="/dreamstime_xxl_101555379.jpg" alt="Bluebird" width="418" height="287" />
+
+These are the most memorable tweets I collected in 2017.
 
 ## January
 
