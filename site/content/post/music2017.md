@@ -14,7 +14,7 @@ topics = [
 description = "Musical events and a playlist for the end of the year"
 +++
 
-<img src="/dreamstimefree_1268669.jpg" alt="Sheet music" width="350" height="233" /><br />
+<img src="/abovethefold/dreamstimefree_1268669.jpg" alt="Sheet music" width="350" height="233" /><br />
 One of the things I like best about the end of the year has to do with music,
 which is one of the main ways I pass the time all year round. Now, I
 don't hang around in places featuring non-stop Christmas carols on loop so that
