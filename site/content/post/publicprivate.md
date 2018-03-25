@@ -16,13 +16,13 @@ topics = [
 
 +++
 
-<a data-flickr-embed="true"  
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"  
 href="https://www.flickr.com/photos/ignotus/23729629283/in/album-72157663080064965/"
 title="The Work of Art in an Age of Mechanical Reproduction, by Walter Benjamin: first and last pages">
 <img src="https://c1.staticflickr.com/2/1518/23729629283_7079bd1691.jpg"
 width="500" height="333"
 alt="The Work of Art in an Age of Mechanical Reproduction, by Walter Benjamin: first and last pages"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 For every post here I write maybe three for my own use over on
 [Penzu](https://penzu.com/)

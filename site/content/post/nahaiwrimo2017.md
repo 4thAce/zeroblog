@@ -14,12 +14,12 @@ topics = [
 
 +++
 
-<a data-flickr-embed="true"  
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"  
 href="https://www.flickr.com/photos/93212986@N03/15396652999/"
 title="Schwabinger See am Morgen">
 <img src="https://c1.staticflickr.com/4/3954/15396652999_e5645fd5db.jpg"
 width="500" height="500" alt="Schwabinger See am Morgen"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 For a number of years
 [Michael Dylan Welch](http://www.graceguts.com/)

@@ -15,7 +15,9 @@ topics = [
 
 +++
 
-[<img src=http://christianaudio.com/media/catalog/product/cache/1/image/1050x1050/170ec19af00183b5e0368529fc2daa2f/9/7/9781596444799.jpg />](http://christianaudio.com/interior-castle-teresa-of-avila-audiobook-download)
+[
+<img src=http://christianaudio.com/media/catalog/product/cache/1/image/1050x1050/170ec19af00183b5e0368529fc2daa2f/9/7/9781596444799.jpg />
+](http://christianaudio.com/interior-castle-teresa-of-avila-audiobook-download)
 
 Twice a year, during Advent and Lent, I try to do some spiritual reading as a discipline, and this Lent I'm reading St. Teresa of Avila's The Interior Castle, generally accounted to be a masterpiece of contemplation. The idea is that the human soul is pictured as a transparent castle containing many rooms, sort of a diamond cloister, the most impregnable fortress against the dangers of the outside world. It was natural that this member of a cloistered order would write based upon something she knew, of course, but the interesting thing will be how much I can make of this idea living in the world. Is a transparent mansion a cosy place, shiny and pristine as it is, or is it more like a prison to the modern reader?
 

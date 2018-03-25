@@ -12,7 +12,9 @@ topics = [
 description = ""
 +++
 
-<img src="/dreamstime_xxl_102950205.jpg" alt="Bitcoin" width="270" height="192" />
+<div align="center" style="font-size:x-small"><img src="/dreamstime_xxl_102950205.jpg" alt="Bitcoin" width="270" height="192" /><br />
+© Publicdomainphotos
+ID 102950205 | Dreamstime Stock Photos</div>
 
 A couple of years ago I was working for a company that allowed me to sit at
 a desk in their office in midtown Manhattan in lieu of relocating all the way

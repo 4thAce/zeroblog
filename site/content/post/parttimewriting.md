@@ -13,13 +13,14 @@ topics = [
 ]
 
 +++
-<a data-flickr-embed="true"  
+
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"  
 href="https://www.flickr.com/photos/randar/20410970636/in/photostream/"
 title="Somebody thought I was a beggar">
 <img src="https://c1.staticflickr.com/1/494/20410970636_d0351ebe97.jpg"
 width="500" height="359" alt="Somebody thought I was a beggar"></a>
 <script async src="//embedr.flickr.com/assets/client-code.js"
-charset="utf-8"></script>
+charset="utf-8"></script></div>
 
 I've been thinking for some time now of what I'd like to do once it'll be no
 longer viable to continue working in the tech industry. I've dropped out and

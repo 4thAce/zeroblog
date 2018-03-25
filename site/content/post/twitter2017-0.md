@@ -12,7 +12,10 @@ topics = [
 description = "Best of Twitter 2017"
 +++
 
-<img src="/dreamstime_xxl_101555379.jpg" alt="Bluebird" width="418" height="287" />
+<div align="center" style="font-size:x-small">
+<img src="/dreamstime_xxl_101555379.jpg" alt="Bluebird" width="418" height="287" /><br />
+© Publicdomainphotos
+ID 101555379 | Dreamstime Stock Photos</div>
 
 These are the most memorable tweets I collected in 2017.
 

@@ -14,11 +14,11 @@ topics = [
 
 +++
 
-<a data-flickr-embed="true"  
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"  
 href="https://www.flickr.com/photos/48355243@N00/337665284/" title="Quiet Please">
 <img src="https://c1.staticflickr.com/1/138/337665284_1010c08880.jpg"
 width="375" height="500" alt="Quiet Please"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 I have been spending the majority of my time these last four weeks talking about
 myself to people I don't know. It isn't something I would choose to do, but it

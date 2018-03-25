@@ -14,7 +14,7 @@ topics = [
 
 +++
 
-<img src="/30062957192_106119086c_b.jpg" width=204 height=160 alt="Preparedness badge" />
+<div align="center" style="font-size:x-small"><img src="/30062957192_106119086c_b.jpg" width=204 height=160 alt="Preparedness badge" /></div>
 
 ## Apocalypse When?
 

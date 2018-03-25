@@ -14,12 +14,12 @@ topics = [
 
 +++
 
-<a data-flickr-embed="true"  
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"  
 href="https://www.flickr.com/photos/30003321@N00/4424784470/"
 title="Jelly Boats">
 <img src="https://c1.staticflickr.com/3/2775/4424784470_d261e7904f_z.jpg"
 width="640" height="427" alt="Jelly Boats"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 Here is a list of what I have put together or worked on for some significant
 amount over the last couple of years on the job.

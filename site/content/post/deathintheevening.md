@@ -13,11 +13,11 @@ topics = [
 
 +++
 
-<a data-flickr-embed="true"  
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"  
 href="https://www.flickr.com/photos/12252801@N00/4651958738/" title="Train Tracks">
 <img src="https://c1.staticflickr.com/5/4027/4651958738_c6d6348abb.jpg"
 width="375" height="500" alt="Train Tracks"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 On the way home today, my train was delayed because of a fatality on the tracks
 happening about forty-five minutes before I got on. It was on the other side of

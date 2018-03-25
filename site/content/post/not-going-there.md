@@ -13,12 +13,12 @@ draft = false
 
 +++
 
-<a data-flickr-embed="true"
+<div align="center" style="font-size:x-small"><a data-flickr-embed="true"
  href="https://www.flickr.com/photos/55211848@N06/18924342590/"
  title="Shelf cloud panorama 1">
  <img src="https://c1.staticflickr.com/1/439/18924342590_398bba23c5.jpg"
  width="500" height="229" alt="Shelf cloud panorama 1"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 The job where I am working now is
 going away by the middle of next month, so there is some urgency right now

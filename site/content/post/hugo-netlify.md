@@ -14,8 +14,8 @@ topics = [
 
 +++
 
-<img src="/hugo.png" width=202 height=230 alt="Hugo logo" />
-<img src="/netlify.svg" width=278 height=100 alt="Netlify logo" />
+<div align="center" style="font-size:x-small"><img src="/hugo.png" width=202 height=230 alt="Hugo logo" />
+<img src="/netlify.svg" width=278 height=100 alt="Netlify logo" /></div>
 
 It took me a while to get this blog running properly and I think I should
 record what I had to do in case I need to refresh my memory sometime. I've had
