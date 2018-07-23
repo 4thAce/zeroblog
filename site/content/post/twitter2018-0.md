@@ -12,7 +12,7 @@ topics = [
 description = "Best of the first half of Twitter 2018"
 +++
 
-Has it already been a half year since I've done one of these? Let me get These
+Has it already been a half year since I've done one of these? Let me get these
 out in a more timely fashion than waiting till the end of the calendar year.
 
 ## January ##
