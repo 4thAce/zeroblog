@@ -34,7 +34,6 @@ out in a more timely fashion than waiting till the end of the calendar year.
 
 
 ## May ##
-{{<tweet 996037433581023232 >}}<hr>
 {{<tweet 999404443345993728 >}}<hr>
 
 ## June ##

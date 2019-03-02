@@ -30,7 +30,6 @@ These are the most memorable tweets I collected in 2017.
 
 ## April
 
-{{<tweet 850853459171704833>}}
 
 ## June
 

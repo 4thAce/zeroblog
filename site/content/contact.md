@@ -31,6 +31,7 @@ description = "How to contact me"
 * [Vimeo](http://www.vimeo.com/user1339666)
 * [Flickr](http://www.flickr.com/photos/86698126@N00/)
 * [YouTube](http://uk.youtube.com/profile?user=4thace)
+* <a rel="me" href="https://mastodon.host/@coeurdelionwine">Mastodon</a>
 
 # Identity services
 
