@@ -1,7 +1,7 @@
 
 +++
 draft = false
-title = "Five Scifaiku Months"
+title = "Five scifaiku months"
 date = "2019-06-23T16:44:47-07:00"
 tags = [
   "art",
