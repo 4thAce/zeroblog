@@ -2,7 +2,7 @@
 +++
 draft = false
 title = "Five Scifaiku Months"
-date = 2018-12-06T08:31:24-08:00
+date = 2019-06-28T05:31:24-08:00
 tags = [
   "art",
   "poetry",
