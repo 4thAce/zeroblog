@@ -1,6 +1,6 @@
 +++
 date = "2016-12-18T20:18:59-08:00"
-title = "contact"
+title = "Contact"
 sidemenu = "true"
 description = "How to contact me"
 +++
@@ -9,7 +9,7 @@ description = "How to contact me"
 # Email:
 * frab<a href="http://mailhide.recaptcha.net/d?k=01gykQTlOVxQ30CTBQhhXJIA==&amp;c=ys-YxyxH5JsWt3Ja-ZQnWK8n5dRS-NwYIF-rrRhrB6o=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01gykQTlOVxQ30CTBQhhXJIA==&amp;c=ys-YxyxH5JsWt3Ja-ZQnWK8n5dRS-NwYIF-rrRhrB6o', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@magahiz.com
 
-# Wiki
+# Writing
 
 * [evilHow](http://evilhow.com)
 * [Poor Poor Thing](http://poorpoorthing.com)
