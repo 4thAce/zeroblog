@@ -2,9 +2,14 @@
 draft = false
 title = "A death"
 date = 2019-09-27T09:04:43-07:00
-tags = []
-topics = []
-description = ""
+tags = [
+  "personal",
+  "event"
+]
+topics = [
+  "life",
+]
+description = "My brother-in-law has met with a sudden end"
 +++
 
 <div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstimefree_5826399.jpg" alt="Smoke Curves"
