@@ -17,7 +17,7 @@ title="Autumn Flood" width="372" height="404" /><br />
 Free photo  ID 5256427 | Dreamstime.com
 </div><br clear="all" />
 
-We just sent the clocks back an hour and it seems like my sense of where we are during the year has gotten a lot fuzzier than it used to be.
+Not long ago we sent the clocks back an hour and it seems like my sense of where we are during the year has gotten a lot fuzzier than it used to be.
 It used to be that I would look forward to upcoming holidays and vacations and new assignments with particular attention to the passing of the days on the calendar, counting weeks as avidly as an expectant parent might.
 But now, it does seem like time passes by too fast for that, with seasons and big chunks of a year going by as if in a hurry.
 I'm not the first person to remark on the speed of time passing when one is past one's salad days.
