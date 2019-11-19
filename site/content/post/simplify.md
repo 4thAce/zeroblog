@@ -20,16 +20,19 @@ Free photo  ID 5256427 | Dreamstime.com
 Not long ago we sent the clocks back an hour and it seems like my sense of where we are during the year has gotten a lot fuzzier than it used to be.
 It used to be that I would look forward to upcoming holidays and vacations and new assignments with particular attention to the passing of the days on the calendar, counting weeks as avidly as an expectant parent might.
 But now, it does seem like time passes by too fast for that, with seasons and big chunks of a year going by as if in a hurry.
-I'm not the first person to remark on the speed of time passing when one is past one's salad days.
-I find that if I'm am anticipating something I expect to enjoy, it's better if I remember to make a special effort to pay attention to the event so I can wring the experience of everything it has to offer.
-There have been occasions which felt afterwards as if they'd  slipped away before I can get a proper grasp of them, never to be recovered.
-I've met people, become friends, thinking that we would have plenty of opportunities to see one another over the years, only to find ourselves flung in different directions, memorializing our good intentions with what passes for friendly relations on social media (which is practically nothing at all).
-And yet I get the sense that if I tried to pay the correct level of attention to all of these, it would be too much to keep up with.
-It would have to compete with those fixed things I won't skimp on: family responsibilities, church, art, professional duties.
+I'm not the first person to bring up the unreasonable speed of time passing when one's salad days are long gone, it's just that now I can no longer ignore the phenomenon.
+I find that if I'm am anticipating something I expect to enjoy, if I make a special effort to pay attention to the event so I can wring out every pleasurable detail the experience has to offer.
+If not, it might feel like other fleeting moments which managed to slip away before I can get a proper grasp of just what happened, leaving only a hollow shell of itself in my recollection.
+I've met people, become friends, thinking that we would of course have plenty of opportunities to see one another over the years, only to find ourselves flung in different directions.
+All we can end up doing is to memorialize our good intentions with what passes for friendly relations on social media (a thing which is practically nothing at all).
+And so I come up deficient as a friend, worn out by trying to share the moment, wondering what it would take to be truly alive in my relationships.
+The demands of full empathy have a hard time competing with those fixed activities I won't skimp on: family responsibilities, church, art, professional duties.
 I can sort of see why people who are in the public eye, who have heavy expectations laid upon them, really do need to have staff to help them manage their schedules, not just as a token of self-importance.
 I am not the kind of person who can seriously consider going for a minimalistic lifestyle, the kind where you can find all the time for solitude, reflection, genuine appreciation of simple pleasures.
 
-There were times in the past where I've been on retreat, killing long stretches of time, and I know it doesn't make me stir crazy.
+There were times in the past where I've been on retreat, killing long stretches of time, and I know it doesn't necessarily make me stir crazy.
+I knew about mindfulness before this before it became something that was supposed to supercharge everyday life.
+Sometimes I think I'm able to have a glimpse of awareness in the midst of action, something that brings me up short suddenly.
 
 My need for stimulation coming from the outside world is I think less than what your average modern smartphone wearer expects, probably, though not as little as what people ten years older than me probably want.
 So I am pretty well acquainted with stillness, comfortable with it as long as it it not coupled with anxiety.
