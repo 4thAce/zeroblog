@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Simplify"
 date = 2019-11-14T21:30:35-08:00
 tags = [
@@ -17,7 +17,7 @@ title="Autumn Flood" width="372" height="404" /><br />
 Free photo  ID 5256427 | Dreamstime.com
 </div><br clear="all" />
 
-Not long ago we sent the clocks back an hour and it seems like my sense of where we are during the year has gotten a lot fuzzier than it used to be.
+A couple months ago we sent the clocks back an hour and it seems like my sense of where we are during the year has gotten a lot fuzzier than it used to be.
 It used to be that I would look forward to upcoming holidays and vacations and new assignments with particular attention to the passing of the days on the calendar, counting weeks as avidly as an expectant parent might.
 But now, it does seem like time passes by too fast for that, with seasons and big chunks of a year going by as if in a hurry.
 I'm not the first person to bring up the unreasonable speed of time passing when one's salad days are long gone, it's just that now I can no longer ignore the phenomenon.
