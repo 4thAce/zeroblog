@@ -17,7 +17,6 @@ description = "I've made some changes these last few months"
 <div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_95931871.jpg" alt="Beach" width="345" height="518" /><br /><a href="https://www.dreamstime.com/creativecommonsstockphotos_info">© creativecommonsstockphotos</a>
 ID 95931871 | <a href="https://www.dreamstime.com/">Dreamstime.com</a></div>
 
-
 Moving from one part of the the San Francisco Bay Area to another seems like it should be a pretty minor change, but it's actually been the biggest thing that happened with me in the last six months.
 Originally we chose to live in San Mateo because of its location halfway between the tech centers of San Francisco and Silicon Valley.
 It's about forty-five minutes to an hour by train or by car, going north or south respectively, to reach a high concentration of tech companies.
