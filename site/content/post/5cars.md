@@ -34,7 +34,7 @@ Which brings us to the car we had at the beginning of the month, the *Toyota Pri
 We had just paid off car number one last December and were looking forward to not having to make monthly loan payments for a while.
 Two weeks ago, I was on the ferry coming home when my phone rang.
 It was my wife's number but the person on the phone wasn't her, saying that there had been an accident in Alameda involving my wife.
-I asked about whether anyone was hurt and the woman told me that no, but that Pamela was quite upset, as one ight expect. She passed the phone over and it was Pamela telling me that she wouldn't be able to pick me up at the terminal.
+I asked about whether anyone was hurt and the woman told me that no, but that Pamela was quite upset, as one might expect. She passed the phone over and it was Pamela telling me that she wouldn't be able to pick me up at the terminal.
 I told her not to worry about that, since I was able to call for a car to get me home myself, so she can just focus on what she needed to do after the accident.
 It seems that one of those large automobile transport vehicles was making a turn to the lane adjacent to where she was driving, but somehow took the curve too wide and sideswiped the driver's side, causing the side airbags to deploy.
 Pam was pulled out of the other side of the car by the responders only with some difficulty. Because of the extensive damage, we expected the car to be a total loss, which was what the insurance adjuster decided a few days later.
