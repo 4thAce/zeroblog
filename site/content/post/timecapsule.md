@@ -1,7 +1,7 @@
 ---
 title: "Time capsule"
 date: 2020-04-05T21:29:17-07:00
-draft: true
+draft: false
 tags:
   - california
   - health
