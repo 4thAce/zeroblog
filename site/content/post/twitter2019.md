@@ -14,7 +14,6 @@ description = "Best of 2016 in Twitter"
 
 ## January
 
-{{< tweet 1082683968913395712 >}}
 {{< tweet 1084301529006272513 >}}
 {{< tweet 1084853782775767041 >}}
 
