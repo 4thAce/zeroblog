@@ -1,12 +1,12 @@
 [build]
   command = "npm run build"
-  publish = "dist"
+  publish = "zeroblog"
 
 [context.deploy-preview]
   command = "npm run build-preview"
 
 [context.production.environment]
-  HUGO_VERSION = "0.58"
+  HUGO_VERSION = "0.58.3"
 
 [context.deploy-previewn.environment]
-  HUGO_VERSION = "0.58"
+  HUGO_VERSION = "0.58.3"
