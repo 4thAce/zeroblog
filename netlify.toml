@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "zeroblog"
+  publish = "dist"
 
 [context.deploy-preview]
   command = "npm run build-preview"
