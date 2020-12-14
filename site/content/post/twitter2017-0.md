@@ -56,7 +56,7 @@ These are the most memorable tweets I collected in 2017.
 
 {{<tweet 921993977649299456 >}}
 {{<tweet 922290750460694528 >}}
-{{<tweet 923542259836030977 >}}
+<!-- {{<tweet 923542259836030977 >}} -->
 {{<tweet 923919068733861894 >}}
 
 ## December
