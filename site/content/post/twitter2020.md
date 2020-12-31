@@ -28,7 +28,6 @@ description = "Best of 2019 in Twitter"
 
 ## March
 
-{{< tweet 1239196410857340933 >}}
 {{< tweet 1242648876013608960 >}}
 {{< tweet 1242592305783152641 >}}
 
