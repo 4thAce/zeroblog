@@ -9,7 +9,7 @@ tags = [
 topics = [
   "links"
 ]
-description = "Best of 2016 in Twitter"
+description = "Best of 2019 in Twitter"
 +++
 
 ## January
