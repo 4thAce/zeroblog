@@ -54,7 +54,6 @@ description = "Best of 2019 in Twitter"
 ## September
 
 {{< tweet 1299143136879366144 >}}
-{{< tweet 130667224525574963 >}}
 
 ## October
 {{< tweet 1311803806938804224 >}}
