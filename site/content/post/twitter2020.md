@@ -12,6 +12,11 @@ topics = [
 description = "Best of 2019 in Twitter"
 +++
 
+<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_94536757.jpg" alt="Rollercoaster"
+title="Rollercoaster" width="424" height="282" /><br />
+Not your average year, all in all
+</div><br clear="all" />
+
 ## January
 
 {{< tweet 1217904610796392448 >}}
