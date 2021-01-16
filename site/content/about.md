@@ -5,15 +5,14 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-* Here I am<br />
-<img src="/media/20170502_085726.jpg" title="Richard Magahiz" width=640 height=426 />
-* As for the one Frequently Asked Question:  the last name is *Filipino*.  Having been born in this country, I've not had the
-pleasure of visiting the ancestral land.
-* As you can tell, I enjoy creative writing, a habit I have had since childhood. I have been
-[published](http://magahiz.com/frabjous/writing.html "Writing of Rich Magahiz")
-in various venues on the Web and in print.
-I see that I really ought to update that list of publications with more recent stuff
+* Here I am. More or less.<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/GoArt_me.jpg" title="Richard Magahiz" width=270 height=360 />
+* As for the one Frequently Asked Question:  the last name is _Filipino_.
+Having been born in this country, I've not had the pleasure of visiting the ancestral land.
+* As you can maybe tell, I enjoy creative writing, a habit I have had since childhood.
 * My wife Pamela and I live in Alameda, CA.
-This is a picture of her<br />
+This is a picture of her.<br />
 <img src="/media/IMG_0501.JPG" title="Pamela Magahiz" width=245 height=326 />
-* I am a Devops Engineer at [TruvalueLabs](http://truvaluelabs.com), in San Francisco, CA, USA.
+* Besides the links on the sidebar here, you can look at what I've been posting up on [Medium](https://rmagahiz.medium.com/) and at [Mastodon](https://noc.social/web/accounts/27989) or find out what I've been reading on [Goodreads](https://www.goodreads.com/user/show/4964300-richard-magahiz).
+If you follow me at those places, I might follow you back.
+* I am a software engineer at [Factset](http://factset.com) in charge of infrastructure and security.
