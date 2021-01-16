@@ -14,7 +14,7 @@ topics = [
 description = "Musical events and a playlist for the end of the year"
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstimefree_1268669.jpg" alt="Sheet music" width="350" height="233" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstimefree_1268669.jpg" alt="Sheet music" width="350" height="233" /><br />
 © Peter Mautsch / Maranso Gmbh
 ID 1268669 | Dreamstime Stock Photos</div>
 
@@ -56,7 +56,7 @@ upper midwest.
 I also wanted to mention the Spotify streaming service, which did its data
 mining of my picks for the last year and came up with this playlist of a
 hundred songs for me.<br />
-[<img src="/2017-12-14.png" alt="Your Top Songs 2017" title="Your Top Songs 2017" width="263" height="272" />](https://open.spotify.com/user/spotify/playlist/37i9dQZF1E9KLMNe1MbRfP)<br />
+[<img src="https://milkfish08.s3.amazonaws.com/photo/blog/2017-12-14.png" alt="Your Top Songs 2017" title="Your Top Songs 2017" width="263" height="272" />](https://open.spotify.com/user/spotify/playlist/37i9dQZF1E9KLMNe1MbRfP)<br />
 As I mentioned [before](./nano2017/), it's been a tough year to get through,
 accounting for all the selections there I would classify as "self-care" balm
 for the soul. Also a couple of angry screeds which helped in their own way.

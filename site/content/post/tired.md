@@ -13,7 +13,7 @@ topics = [
 description = "The pandemic has me worn out"
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/jason-abdilla-Dfl6S3PIUvg-unsplash.jpg" alt="Endless Column" title="Endless Column" width="640" height="426" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/jason-abdilla-Dfl6S3PIUvg-unsplash.jpg" alt="Endless Column" title="Endless Column" width="640" height="426" /><br />
 
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px"
 href="https://unsplash.com/@jabdilla_creative?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Jason Abdilla"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Jason Abdilla</span></a>
@@ -34,7 +34,7 @@ Marginal institutions such as some in consumer retail are calling it quits, and 
 Unlike war there is no one to bargain with, no one who can be threatened or assassinated to bring the crisis to a quicker close.
 All that can happen when fighting a non-thinking adversary is to make mistakes which drag things out even further, leading to catastrophe.
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_92330223.jpg" alt="Black gouache on photo paper, 2003."
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstime_xxl_92330223.jpg" alt="Black gouache on photo paper, 2003."
 title="Black gouache on photo paper, 2003." width="504" height="417" /><br />ID 92330223 © publicdomainstockphotos | Dreamstime.com
 </div>
 
@@ -53,7 +53,7 @@ Still, given the difficulty of looking at our lives with perspective now, I migh
 I started this as a diary entry, but I'm going to put this up on the blog so we can all see how well it ages.
 I was going to post up some light stuff, amusements from the web, but now I don't feel much like doing that, not for a while.
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_87859106.jpg" alt="Tulip fields"
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstime_xxl_87859106.jpg" alt="Tulip fields"
 title="Tulip fields" width="424" height="282" /><br />ID 87859106
 © publicdomainimages | Dreamstime.com
 </div>

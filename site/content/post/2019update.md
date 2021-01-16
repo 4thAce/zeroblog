@@ -14,7 +14,7 @@ topics = [
 description = "I've made some changes these last few months"
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_95931871.jpg" alt="Beach" width="345" height="518" /><br /><a href="https://www.dreamstime.com/creativecommonsstockphotos_info">© creativecommonsstockphotos</a>
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstime_xxl_95931871.jpg" alt="Beach" width="345" height="518" /><br /><a href="https://www.dreamstime.com/creativecommonsstockphotos_info">© creativecommonsstockphotos</a>
 ID 95931871 | <a href="https://www.dreamstime.com/">Dreamstime.com</a></div>
 
 Moving from one part of the the San Francisco Bay Area to another seems like it should be a pretty minor change, but it's actually been the biggest thing that happened with me in the last six months.

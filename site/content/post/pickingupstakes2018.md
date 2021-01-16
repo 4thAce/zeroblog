@@ -13,7 +13,7 @@ topics = [
 description = "We become homeowners once more"
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstimefree_8616636.jpg" alt="Moving boxes"
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstimefree_8616636.jpg" alt="Moving boxes"
 title="Moving boxes" width="300" height="225" /><br />
 © Alexey Kondratev
 ID 8616636  | Dreamstime.com</div>

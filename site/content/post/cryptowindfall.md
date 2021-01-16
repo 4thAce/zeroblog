@@ -12,7 +12,7 @@ topics = [
 description = ""
 +++
 
-<div align="center" style="font-size:x-small"><img src="/dreamstime_xxl_102950205.jpg" alt="Bitcoin" width="270" height="192" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/dreamstime_xxl_102950205.jpg" alt="Bitcoin" width="270" height="192" /><br />
 © Publicdomainphotos
 ID 102950205 | Dreamstime Stock Photos</div>
 
@@ -59,7 +59,7 @@ sent off a couple of donations along the way, but held on to much more than 0.5
 BTC.
 
 From this start in 2014, here's what the price of bitcoin has done over time.
-<img src="/linearchart.png" alt="Linear bitcoin price chart" width="705" height="261"/>
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/linearchart.png" alt="Linear bitcoin price chart" width="705" height="261"/>
 
 Now that looks impressive, and I'm not complaining about the rise, but that linear
 chart does not really show the way it worked out for me. I'd bought when the
@@ -67,7 +67,7 @@ price was around $900/BTC, just before the MtGox exchange imploded and took the
 luster off the cryptocurrency for a long while. Here's the same data plotted on
 a logarithmic scale so you can see how it felt as though I'd bought high just
 at the wrong time before a two year long slump.<br />
-<img src="/logchart.png" alt="Semilog bitcoin price chart" width="705" height="261"/>
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/logchart.png" alt="Semilog bitcoin price chart" width="705" height="261"/>
 
 So now the dollar value of my wallet has increased over tenfold. How long can
 this behavior continue? There are plenty of

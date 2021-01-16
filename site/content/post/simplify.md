@@ -11,7 +11,7 @@ topics = [
 description = ""
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstimefree_5256427.jpg" alt="Autumn Flood"
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstimefree_5256427.jpg" alt="Autumn Flood"
 title="Autumn Flood" width="372" height="404" /><br />
 © Marilyn Barbone
 Free photo  ID 5256427 | Dreamstime.com

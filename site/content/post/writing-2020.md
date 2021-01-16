@@ -11,7 +11,7 @@ topics = [
 description = "Here is where I was published in 2020."
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/jr-korpa-BRK_oB5xenk-unsplash.jpg" alt="red and white abstract painting" title="red and white abstract painting" width=720 height=480 /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/jr-korpa-BRK_oB5xenk-unsplash.jpg" alt="red and white abstract painting" title="red and white abstract painting" width=720 height=480 /><br />
 
 <span>Photo by <a href="https://unsplash.com/@korpa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jr Korpa</a> on <a href="https://unsplash.com/s/photos/bizarre?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 </div><br clear="all" />

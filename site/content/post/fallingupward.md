@@ -15,7 +15,7 @@ description = "On the end of Lent 2018"
 +++
 
 <div align="center" style="font-size:x-small">
-<img src="/abovethefold/fallingupward.jpg" alt="Falling Upward audiobook" width="300" height="300" />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/fallingupward.jpg" alt="Falling Upward audiobook" width="300" height="300" />
 </div>
 
 I have been attracted to religion from an early age, though I have lots of

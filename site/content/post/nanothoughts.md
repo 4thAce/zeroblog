@@ -12,7 +12,7 @@ topics = [
 description = "My hot takes on NaNoWriMo"
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstimefree_6798221.jpg" alt="Eight ice cubes" width="400" height="291" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstimefree_6798221.jpg" alt="Eight ice cubes" width="400" height="291" /><br />
 © Dejan Brkic
 ID 6798221 | Dreamstime.com</div>
 
@@ -122,5 +122,5 @@ from NaNoWriMo and have to take on these other important writing skills instead.
 Ideally I would not have to choose, but just try to do both, but I also have
 learned over these years that I have limits to what I can do.
 
-<img src="/NaNo-2018-Winner-Badge.png" alt="NaNoWriMo 2018 winner's badge"
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/NaNo-2018-Winner-Badge.png" alt="NaNoWriMo 2018 winner's badge"
 width=197 height=197 align="center"/><br clear="all">

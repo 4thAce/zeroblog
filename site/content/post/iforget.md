@@ -12,7 +12,7 @@ topics: [
 description: "The years hang heavy upon the mind"
 ---
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_82985451.jpg" alt="Rose Petals On Garden Stones"
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstime_xxl_82985451.jpg" alt="Rose Petals On Garden Stones"
 title="Rose Petals On Garden Stones" width="461" height="346" /><br />
 © Creative Commons Zero (CC0)
 Free photo ID 82985451 © creativecommonsstockphotos | Dreamstime.com</div>

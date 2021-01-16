@@ -15,7 +15,7 @@ description = "Forty-four beginnings"
 +++
 
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/dreamstime_xxl_84930337.jpg" alt="multicolored glowing surface"
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstime_xxl_84930337.jpg" alt="multicolored glowing surface"
 title="multicolored glowing surface" width="409" height="273" /><br />
 © publicdomainstockphotos
 Free photo ID 84930337 | Dreamstime.com

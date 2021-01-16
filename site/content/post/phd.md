@@ -14,7 +14,7 @@ topics = [
 description = "On whether all doctorate holders should be called doctor"
 +++
 
-<div align="center" style="font-size:x-small"><img src="/abovethefold/muzammil-soorma-9MByoiBNN1c-unsplash.jpg" alt="Great Dome" title="Great Dome" width="320" height="426" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/muzammil-soorma-9MByoiBNN1c-unsplash.jpg" alt="Great Dome" title="Great Dome" width="320" height="426" /><br />
 <span>Photo by <a href="https://unsplash.com/@muzammilo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Muzammil Soorma</a> on <a href="https://unsplash.com/s/photos/mit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></div>
 
 There is a controversy out just now about whether holders of doctoral degrees other than medical doctors ought to use the title of Doctor before their names. I have some thoughts on the subject as a PhD holder in Physics.

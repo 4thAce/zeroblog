@@ -13,7 +13,7 @@ description = "Best of Twitter 2017"
 +++
 
 <div align="center" style="font-size:x-small">
-<img src="/dreamstime_xxl_101555379.jpg" alt="Bluebird" width="418" height="287" /><br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/dreamstime_xxl_101555379.jpg" alt="Bluebird" width="418" height="287" /><br />
 © Publicdomainphotos
 ID 101555379 | Dreamstime Stock Photos</div>
 
