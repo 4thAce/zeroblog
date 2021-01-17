@@ -42,7 +42,7 @@ story will play out.
 
 ## Geopolitics
 
-<img src="/6029050434_960329feb5.jpg" width=350 height=350 alt="Map on wall" />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/6029050434_960329feb5.jpg" width=350 height=350 alt="Map on wall" />
 
 In Washington, I see a set of moneyed interests taking up residence mainly
 interested in amassing even a larger fraction of the world's wealth. The racism,
@@ -119,7 +119,7 @@ civil authorities are able to put together eventually.
 
 ## Strong and Steady
 
-<img src="/30947468561_89f53ab6e0.jpg" width=312 height=219 alt="Lighthouse beacon" />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/30947468561_89f53ab6e0.jpg" width=312 height=219 alt="Lighthouse beacon" />
 
 One of the most difficult things to do when the world gets strange
 is to adjust your frame of mind to
