@@ -24,7 +24,7 @@ width="640" height="427" alt="Jelly Boats"></a>
 Here is a list of what I have put together or worked on for some significant
 amount over the last couple of years on the job.
 
-* [Monitoring](/post/monitoring-work) will get its own post eventually.
+* Monitoring will get its own post eventually.
 * We migrated from a single service which ran on a single instance in Classic
 EC2 to a half dozen services running in separate VPCs, each with autoscaling
 instances behind an elastic load balancer to provide high availability. Getting

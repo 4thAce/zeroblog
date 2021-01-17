@@ -74,12 +74,6 @@ then there are those who achieve fame and influence during their lives but who
 are forgotten quickly after they are gone, as though they never wrote anything
 of note at all.
 
-<a data-flickr-embed="true"  
-href="https://www.flickr.com/photos/143117861@N04/32426382885/" title="Ahead">
-<img src="https://c1.staticflickr.com/1/773/32426382885_e94f1b3544.jpg"
-width="500" height="333" alt="Ahead"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 People speak of it as a fine system if they one of those who ended up making it
 work for them, or as a terrible system if they have not made it no matter what
 they tried. So it's a gamble, I guess, more than not. Maybe the only thing to

@@ -23,7 +23,7 @@ Was officially over the line between overweight and obese, and now I'm down to d
 It was becoming clear to me that most of my
 long-term health issues were linked with diet and fitness, and that that was going to be the only way to avoid worsening quality of life in my remaining years, I was going to have to do something major about it.
 
-Thanks to the good people at [Enara Health](https://enarahealth.me/) I was able to negotiate the transition to a very low calorie diet (800 kcal/day) with a minimum of pain and hunger, coupled with an exercise program to try conserving as much muscle mass as possible.
+Thanks to the good people at [Enara Health](https://enarahealth.com/) I was able to negotiate the transition to a very low calorie diet (800 kcal/day) with a minimum of pain and hunger, coupled with an exercise program to try conserving as much muscle mass as possible.
 I had support the whole time, weekly in-office checkins, metabolic and body composition tests to refine the weight loss goals during this period.
 It was a busy time, too, with work and vacations and all sorts of different temptations along the way, so I'm just glad I was able to come up with the results I did.
 

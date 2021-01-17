@@ -34,7 +34,7 @@ up until the time of the performance because I came down with a cold a week
 before, and was not completely over it by that weekend.
 
 Last weekend we went to two additional choral performances. The first was the
-[Masterworks Family Holiday Concert](http://masterworks.org/season.html#holiday)
+[Masterworks](https://www.masterworks.org/) Family Holiday Concert
 in which we had two friends singing, and on Sunday it was the 23rd annual
 [Sing-It-Yourself Messiah](http://alamedasingityourselfmessiah.org/) in
 Alameda. Both of these featured participation by the audience, though the first
@@ -57,7 +57,7 @@ I also wanted to mention the Spotify streaming service, which did its data
 mining of my picks for the last year and came up with this playlist of a
 hundred songs for me.<br />
 [<img src="https://milkfish08.s3.amazonaws.com/photo/blog/2017-12-14.png" alt="Your Top Songs 2017" title="Your Top Songs 2017" width="263" height="272" />](https://open.spotify.com/user/spotify/playlist/37i9dQZF1E9KLMNe1MbRfP)<br />
-As I mentioned [before](./nano2017/), it's been a tough year to get through,
+As I mentioned [before](/post/nano2017/), it's been a tough year to get through,
 accounting for all the selections there I would classify as "self-care" balm
 for the soul. Also a couple of angry screeds which helped in their own way.
 I personally wouldn't have picked quite so much Bob Dylan, Steely Dan, and
