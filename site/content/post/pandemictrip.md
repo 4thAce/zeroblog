@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Ecce lignum crucis in quo salus mundi pependit"
 date = 2021-08-04T20:32:03-07:00
 tags = [
