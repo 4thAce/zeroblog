@@ -19,7 +19,6 @@ Not your average year, all in all
 
 ## January
 
-{{< tweet 1217904610796392448 >}}
 {{< tweet 1219790549156278272 >}}
 {{< tweet 1223316704408694784 >}}
 
