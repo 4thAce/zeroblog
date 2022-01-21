@@ -41,10 +41,6 @@ Not your average year, all in all
 {{< tweet 1260390065345368065 >}}
 {{< tweet 1262001318178304002 >}}
 
-## June
-
-{{< tweet 1268640245706186752 >}}
-
 ## July
 
 {{< tweet 1278412684011110403 >}}
