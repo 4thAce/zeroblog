@@ -51,6 +51,10 @@ publishDir = "zeroblog"
     weight = 3
     url = "/contact/"
 
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
