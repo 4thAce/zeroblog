@@ -9,7 +9,7 @@ tags = [
 topics = [
   "links"
 ]
-description = "Best of 2019 in Twitter"
+description = "Best of 2020 in Twitter"
 +++
 
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/dreamstime_xxl_94536757.jpg" alt="Rollercoaster"
