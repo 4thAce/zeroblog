@@ -13,7 +13,8 @@ description = "Best of 2021 in Twitter"
 +++
 
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/2684593473_b60d7f363f_o.jpg" alt="Gobi desert"
-title="Gobi desert" />Fraught, with moments of transcendence.</div><br clear="all" />
+title="Gobi desert" /><br />
+Fraught, with moments of transcendence.</div><br clear="all" />
 
 ## January
 
