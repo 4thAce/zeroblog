@@ -11,7 +11,7 @@ topics = [
 ]
 description = "Best of Twitter 2022 (1 of 4)"
 +++
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/downloaded/17918417164_a8bf136e18_k.jpg"" alt="Koi carp"
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/downloaded/17918417164_a8bf136e18_k.jpg" width="654" height="388" alt="Koi carp"
 title="Koi carp" /><br />
 Making the most of this brief time on Earth.</div><br clear="all" />
 
