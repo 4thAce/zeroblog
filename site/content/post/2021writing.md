@@ -47,16 +47,17 @@ This first group of pieces are the very short micropoems which are supposed to p
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Failed Haiku, 71](https://www.haikuhut.com/FailedHaikuIssue71.pdf)
 * __"[unfolding]"__
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Heliosparrow Poetry Journal, 22 December 2021](https://heliosparrow.com/2021/12/5-28/)
-* __"[if the stones open]"__
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Heliosparrow Poetry Journal, 22 December 2021](https://heliosparrow.com/2021/12/4-38/)
-* __"[two minutes]"__
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.1](https://sfpoetry.com/sl/slarchive.html)
-* __"[she sighs]"__
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Scifaikuest 02/2021](https://www.hiraethsffh.com/magazines)
-* __"[you and I and]"__
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Scifaikuest  02/2021](https://www.hiraethsffh.com/magazines)
-* *__Lithium ion powered__*
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [New Tales from the Round Table](https://www.blurb.ca/b/10783555-new-tales-of-the-round-table)
+* __"[if the stones open]"__ <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Heliosparrow Poetry Journal, 22 December 2021](https://heliosparrow.com/2021/12/4-38/)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/44.1.jpg" title="Star*Line cover 44.1" alt="Star*Line cover 44.1" width=288 height=445 /><br clear="all" />
+
+* __"[two minutes]"__ <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.1](https://sfpoetry.com/sl/slarchive.html)
+* __"[she sighs]"__ <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Scifaikuest 02/2021](https://www.hiraethsffh.com/magazines)
+* __"[you and I and]"__ <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Scifaikuest  02/2021](https://www.hiraethsffh.com/magazines)<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/cover_2.jpeg" title="New Tales from the Round Table cover" alt="New Tales from the Round Table cover" width=360 height=576 /><br clear="all" />
+
+*  *__Lithium ion powered__* <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [New Tales from the Round Table](https://www.blurb.ca/b/10783555-new-tales-of-the-round-table)<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/20211012_151521.jpg" title="D&N 119 cover" alt="D&N 119 cover" width=302 height=403 /><br clear="all" />
+
 * __"[shedding photons]"__
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Dreams and Nightmares 119](http://dreamsandnightmaresmagazine.blogspot.com/2021/09/091621.html)
 
@@ -87,11 +88,17 @@ And here are all the rest. I had been experimenting with all sorts of forms and 
 * *__What they left behind__*
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [SFPA Halloween Page](http://sfpoetry.com/halloween.html) (audio) -- [Star*Line 44.1](https://sfpoetry.com/sl/slarchive.html) (print)
 * *__Parable of the glove__*
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Dreams and Nightmares 119](http://dreamsandnightmaresmagazine.blogspot.com/2021/09/091621.html)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Dreams and Nightmares 119](http://dreamsandnightmaresmagazine.blogspot.com/2021/09/091621.html)<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/44.3.jpg" title="Star*Line cover 44.3" alt="Star*Line cover 44.3" width=288 height=445 /><br clear="all" />
+
 * *__this too solid flesh is not__*
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.3](https://sfpoetry.com/sl/slarchive.html)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.3](https://sfpoetry.com/sl/slarchive.html)<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/44.4.jpg" title="Star*Line cover 44.4" alt="Star*Line cover 44.4" width=288 height=445 /><br clear="all" />
+
 * *__the not-a-dog__*
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.4](https://sfpoetry.com/sl/slarchive.html)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.4](https://sfpoetry.com/sl/slarchive.html)<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/pm6wgn-front-shortedge-384" title="Otoliths Issue sixty-two, part two" alt="Otoliths Issue sixty-two, part two" width=384 height=576 /><br clear="all" />
+
 * *__Mimesis__* -- [otoliths, issue sixty-two, part two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html)
 * *__Why I never became a high school athlete__* -- [otoliths, issue sixty-two, part two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html)
 * *__Aspen lighthouse subscription__* --  [Ygdrasil, VOL XXIX, Issue 8, Number 340](https://www.academia.edu/50038321/Ygdrasil_August_2021_issue?source=swp_share)
