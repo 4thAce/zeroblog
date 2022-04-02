@@ -72,7 +72,7 @@ I had a couple more adventurous works go to publication in 2021. One is a prose 
 
 * *__One without timbers__*
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Sein und Werden, Autumn/Winter 2021](http://www.kissthewitch.co.uk/seinundwerden/autumn21/page39.html)<br />
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/pm6wgn-front-shortedge-384" title="Otoliths Issue sixty-two, part two" alt="Otoliths Issue sixty-two, part two" width=384 height=576 /><br clear="all" />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/pm6wgn-front-shortedge-384.jpg" title="Otoliths Issue sixty-two, part two" alt="Otoliths Issue sixty-two, part two" width=384 height=576 /><br clear="all" />
 
 * *__Why I never became a high school athlete__* -- [otoliths, issue sixty-two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html) -- also [In print](https://www.lulu.com/en/us/shop/mark-young/otoliths-issue-sixty-two-part-two/paperback/product-pm6wgn.html?page=1&pageSize=4)
 
