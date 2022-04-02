@@ -71,12 +71,14 @@ Next come a group of collaborative poems I wrote years back with the Irish poet 
 I had a couple more adventurous works go to publication in 2021. One is a prose poem online where I use a variety of techniques to shape the words in a poetic fashion, but line breaks is not one of them. I liked how this one turned out and am working on a number of others. The other is a visual poem where I chopped a piece of text into short phrases and single words, then photographed them scattered on a sheet of paper mostly at random, an idea suggested by the topic of the original prose. I have a couple of other vispo ideas I'm tossing around so maybe I can take another of them to completion.
 
 * *__One without timbers__*
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Sein und Werden, Autumn/Winter 2021](http://www.kissthewitch.co.uk/seinundwerden/autumn21/page39.html)
-* *__Why I never became a high school athlete__* -- [otoliths, issue sixty-two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Sein und Werden, Autumn/Winter 2021](http://www.kissthewitch.co.uk/seinundwerden/autumn21/page39.html)<br />
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/pm6wgn-front-shortedge-384.jpg" title="Otoliths Issue sixty-two, part two" alt="Otoliths Issue sixty-two, part two" width=384 height=576 /><br clear="all" />
+
+* *__Why I never became a high school athlete__* -- [otoliths, issue sixty-two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html) -- also [In print](https://www.lulu.com/en/us/shop/mark-young/otoliths-issue-sixty-two-part-two/paperback/product-pm6wgn.html?page=1&pageSize=4)
 
 And here are all the rest. I had been experimenting with all sorts of forms and techniques over the last few years and was able to place some of the reults with journals. There is some meter, rhyme, repetition, and ambiguity here, with topics ranging from mainstream subjects to fantasy, horror, and science fiction with some which are in between. Some other similarly constructed pieces I want to put out there. I have been doing a fair amount of reading by other poets and playing with what they have to offer so this is bound to continue influencing my output. Other poems which I came up with were pretty much out of my own head, starting with a phrase or an image (whether observed or imaginary) which I captured into my big storehouse of miscellaneous material. Quite a few were knit together from other works where I would feel some kind of kindred spark between things I had written, or were split off of a larger draft to stand on their own. I find this kind of activity to be fun in itself, which is a good thing considering how big a part of the process it turns out to be.
 
-* *__Mimesis__* -- [otoliths, issue sixty-two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html)
+* *__Mimesis__* -- [otoliths, issue sixty-two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html) -- also [In print](https://www.lulu.com/en/us/shop/mark-young/otoliths-issue-sixty-two-part-two/paperback/product-pm6wgn.html?page=1&pageSize=4)
 * *__If today they shoot me, listen to this__* --  [Mobius: the Journal of Social Change, Vol. 32, No. 2](https://mobiusmagazine.com/poetry/iftodayt.html)
 * *__Dreams of yuggoth__*
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Danse Macabre 136](https://dansemacabreonline.wixsite.com/neudm/richard-magahiz-136)
@@ -96,11 +98,7 @@ And here are all the rest. I had been experimenting with all sorts of forms and 
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/44.4.jpg" title="Star*Line cover 44.4" alt="Star*Line cover 44.4" width=288 height=445 /><br clear="all" />
 
 * *__the not-a-dog__*
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.4](https://sfpoetry.com/sl/slarchive.html)<br />
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/pm6wgn-front-shortedge-384" title="Otoliths Issue sixty-two, part two" alt="Otoliths Issue sixty-two, part two" width=384 height=576 /><br clear="all" />
-
-* *__Mimesis__* -- [otoliths, issue sixty-two, part two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html)
-* *__Why I never became a high school athlete__* -- [otoliths, issue sixty-two, part two](https://the-otolith.blogspot.com/2021/07/richard-magahiz.html)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Star*Line 44.4](https://sfpoetry.com/sl/slarchive.html)
 * *__Aspen lighthouse subscription__* --  [Ygdrasil, VOL XXIX, Issue 8, Number 340](https://www.academia.edu/50038321/Ygdrasil_August_2021_issue?source=swp_share)
 * *__Messenger RNA paean__*
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Ygdrasil, VOL XXIX, Issue 8, Number 340](https://www.academia.edu/50038321/Ygdrasil_August_2021_issue?source=swp_share)
