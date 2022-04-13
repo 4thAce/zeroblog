@@ -1,9 +1,10 @@
 +++
-draft = true
+draft = false
 title = "The business of rejections"
 date = 2022-04-06T18:37:31-07:00
 tags = [
-  "poetry"
+  "poetry",
+  "statistics"
 ]
 topics = [
   "writing"
