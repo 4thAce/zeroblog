@@ -12,7 +12,7 @@ topics = [
 description = "Some numbers about the process of publishing poetry"
 +++
 
-<div align="center" style="font-size:x-small"><img src=https://milkfish08.s3.amazonaws.com/photo/blog/14592293198_4a0aa27714_o.jpg" alt="An iron arm, of Italian workmanship" width="470" height="131" /><br /><a href="https://archive.org/details/sussexarchaeolog08suss/page/316/mode/1up?view=theater">An iron arm, of Italian workmanship</a></div>
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/14592293198_4a0aa27714_o.jpg" alt="An iron arm, of Italian workmanship" width="470" height="131" /><br /><a href="https://archive.org/details/sussexarchaeolog08suss/page/316/mode/1up?view=theater">An iron arm, of Italian workmanship</a></div>
 
 I decided to write about some numbers about receiving rejections after I saw this tweet:
 
