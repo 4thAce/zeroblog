@@ -11,8 +11,8 @@ topics = [
 ]
 description = "Best of Twitter 2022 (2 of 4)"
 +++
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/15427837544_8a85f583df_h.jpg" width="654" height="388" alt="Brain coral Christmas"
-title="Brain coral Christmas" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/15427837544_8a85f583df_h.jpg" width="654" height="388" alt="Brain Coral Christmas"
+title="Brain Coral Christmas" /><br />
 Public domain</div><br clear="all" />
 
 {{< tweet 1499036818276335625 >}}
