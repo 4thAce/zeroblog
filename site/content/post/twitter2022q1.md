@@ -25,3 +25,5 @@ Making the most of this brief time on Earth.</div><br clear="all" />
 {{< tweet 1501968867215777797 >}}
 {{< tweet 1504058348844597251 >}}
 {{< tweet 1504920073349185536 >}}
+{{< tweet 1499036818276335625 >}}
+{{< tweet 1503276042395467786 >}}

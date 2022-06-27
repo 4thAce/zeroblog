@@ -15,10 +15,6 @@ description = "Best of Twitter 2022 (2 of 4)"
 title="Brain Coral Christmas" /><br />
 Public domain</div><br clear="all" />
 
-{{< tweet 1499036818276335625 >}}
-{{< tweet 1503229115024883712 >}}
-{{< tweet 1503276042395467786 >}}
-{{< tweet 1504058348844597251 >}}
 {{< tweet 1510826898959454209 >}}
 {{< tweet 1514967441960488962 >}}
 {{< tweet 1515685708970672133 >}}
