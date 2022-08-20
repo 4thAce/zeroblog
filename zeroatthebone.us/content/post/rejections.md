@@ -16,7 +16,7 @@ description = "Some numbers about the process of publishing poetry"
 
 I decided to write about some numbers about receiving rejections after I saw this tweet:
 
-{{< tweet 1511802744222490624 >}}
+{{< tweet user="Joduckwo" id="1511802744222490624" >}}
 
 I don't have any problem showing how many rejections I get for the poems I'm submitting to journals, drawing on statistics I have available through [Duotrope](https://duotrope.com).
 When I tweet or post on Facebook about something of mine making it all the way to publication, it probably sounds as though I can just do anything and have an editor take it, just the way the tweet I quoted above says.
