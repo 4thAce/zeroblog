@@ -1,0 +1,6 @@
+[submodule "blackburn"]
+	path = blackburn
+	url = git@github.com:yoshiharuyamashita/blackburn.git
+[submodule "zeroatthebone.us/themes/blackburn"]
+	path = zeroatthebone.us/themes/blackburn
+	url = git@github.com:yoshiharuyamashita/blackburn.git
