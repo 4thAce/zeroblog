@@ -25,7 +25,6 @@ Not your average year, all in all
 ## February
 
 {{< tweet user="ultrabrilliant" id="1225473919882289154" >}}
-{{< tweet user="" id="1227962497828839426" >}}
 {{< tweet user="condeferran" id="1228380606427430913" >}}
 {{< tweet user="cait_duffy" id="1233240187741855744" >}}
 
@@ -45,10 +44,6 @@ Not your average year, all in all
 {{< tweet user="phalpern" id="1278412684011110403" >}}
 {{< tweet user="drkastout" id="1279522927004782592" >}}
 
-## August
-
-{{< tweet user="" id="1296774525418377219" >}}
-
 ## September
 
 {{< tweet user="danagould" id="1299143136879366144" >}}
@@ -66,5 +61,3 @@ Not your average year, all in all
 ## December
 
 {{< tweet user="reviewwales" id="1340636881332162561" >}}
-{{< tweet user="" id="1343733741307494400" >}}
-

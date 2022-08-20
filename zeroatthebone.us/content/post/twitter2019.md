@@ -51,9 +51,7 @@ description = "Best of 2019 in Twitter"
 {{< tweet user="DoubleEmMartin" id="1192234093808930816" >}}
 {{< tweet user="BenJamminAsh" id="1197396744876761088" >}}
 {{< tweet user="isabelzawtun" id="1199368635598409728" >}}
-{{< tweet user="" id="1200481429412552704" >}}
 
 ## December
 
 {{< tweet user="vyasay" id="1205336219908898816" >}}
-
