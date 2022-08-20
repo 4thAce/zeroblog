@@ -8,7 +8,7 @@
 
 [build]
   publish = "public"
-  command = "cd zeroatthebone.us; hugo --gc --minify-"
+  command = "hugo --contentDir "./zeroatthebone.us" --gc --minify-"
 
 [context.split1]
   command = "cd zeroatthebone.us; hugo --gc --minify --enableGitInfo"
@@ -22,7 +22,7 @@
 
 
 [context.branch-deploy]
-  command = "cd zeroatthebone.us; hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+  command = "hugo --contentDir "./zeroatthebone.us" --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.101.0"
