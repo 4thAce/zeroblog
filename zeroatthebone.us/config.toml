@@ -9,7 +9,7 @@ canonifyurls = true
 paginate = 10
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "zeroblog"
+publishDir = "public"
 
 [indexes]
   tag = "tags"
