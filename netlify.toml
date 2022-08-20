@@ -8,21 +8,21 @@
 
 [build]
   publish = "public"
-  command = "hugo --gc --minify"
+  command = "cd zeroatthebone.us; hugo --gc --minify"
 
 [context.split1]
-  command = "hugo --gc --minify --enableGitInfo"
+  command = "cd zeroatthebone.us; hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
   HUGO_VERSION = "0.101.0"
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "cd zeroatthebone.us; hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "cd zeroatthebone.us; hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.101.0"
