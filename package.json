@@ -21,7 +21,7 @@
     "babel-plugin-transform-class-properties": "^6.10.2",
     "babel-plugin-transform-object-assign": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
-    "babel-preset": "^1.1.7",
+    "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "browser-sync": "^2.13.0",
     "css-loader": "^0.23.1",
