@@ -10,8 +10,6 @@
   publish = "public"
   command = "hugo --gc --minify"
 
-  [context.production.environment]
-
 [context.split1]
   command = "hugo --gc --minify --enableGitInfo"
 
