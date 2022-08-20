@@ -36,7 +36,7 @@ These are the most memorable tweets I collected in 2017.
 
 ## July
 
-{{<tweet user="Jimbobaroo" id=882946074415161344" >}}
+{{<tweet user="Jimbobaroo" id="882946074415161344" >}}
 {{<tweet user="dodo" id="891056935180447745" >}}
 
 ## August
@@ -58,4 +58,3 @@ These are the most memorable tweets I collected in 2017.
 ## December
 
 {{<tweet user="NFTsAddikt" id="943703899923468288" >}}
-
