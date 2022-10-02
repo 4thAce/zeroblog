@@ -8,7 +8,7 @@
 
 [build]
   publish = "public"
-  command = "hugo -s /opt/build/repo/zeroatthebone.us --gc --minify-"
+  command = "hugo -s /opt/build/repo/zeroatthebone.us --gc --minify"
 
 [context.split1]
   command = "cd zeroatthebone.us; hugo --gc --minify --enableGitInfo"
