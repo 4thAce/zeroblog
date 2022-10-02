@@ -1,12 +1,36 @@
-[build]
-  command = "npm run build"
-  publish = "dist"
-
-[context.deploy-preview]
-  command = "npm run build-preview"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.101.0"
 
 [context.production.environment]
-  HUGO_VERSION = "0.58.3"
+  HUGO_VERSION = "0.101.0"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
-[context.deploy-previewn.environment]
-  HUGO_VERSION = "0.91.2"
+[build]
+  publish = "public"
+  command = "hugo -s /opt/build/repo/zeroatthebone.us --gc --minify-"
+
+[context.split1]
+  command = "cd zeroatthebone.us; hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+  HUGO_VERSION = "0.101.0"
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "cd zeroatthebone.us; hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+
+[context.branch-deploy]
+  command = "hugo -s /opt/build/repo/zeroatthebone.us --gc --minify -D -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.101.0"
+
+[context.next.environment]
+  HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/npmjs/*"
+  to = "/npmjs/"
+  status = 200
