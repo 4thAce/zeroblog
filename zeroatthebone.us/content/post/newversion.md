@@ -1,6 +1,6 @@
 ---
 title: "New version"
-date: 2022-10-2T10:37:08-07:00
+date: 2022-10-02T10:37:08-07:00
 draft: false
 tags: [
     "blog",
