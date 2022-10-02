@@ -1,7 +1,7 @@
 ---
 title: "New version"
-date: 2022-08-20T06:19:08-07:00
-draft: true
+date: 2022-10-2T10:37:08-07:00
+draft: false
 tags: [
     "blog",
     "personal"  
