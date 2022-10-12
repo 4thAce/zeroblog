@@ -11,7 +11,9 @@ topics = [
 ]
 description = "Best of Twitter 2022 (3 of 4)"
 +++
-<div align="center" style="font-size:x-small"></div><br clear="all" />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/8611041080_2e3f770dc4_h.jpg" width="745" height="563" alt="Pink Netting Macro"
+title="Pink Netting Macro" /><br />
+Capture by cobalt123 on Flickr</div><br clear="all" />
 
 ## July
 
