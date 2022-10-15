@@ -59,7 +59,7 @@ This first group of pieces are the very short micropoems which are supposed to p
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/20211012_151521.jpg" title="D&N 119 cover" alt="D&N 119 cover" width=302 height=403 /><br clear="all" />
 
 * __"[shedding photons]"__
-<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Dreams and Nightmares 119](http://dreamsandnightmaresmagazine.blogspot.com/2021/09/091621.html)
+<img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> -- [Dreams and Nightmares 119](https://dreamsandnightmaresmagazine.blogspot.com/2021/09/091621.html)
 
 Next come a group of collaborative poems I wrote years back with the Irish poet Jown W Sexton. These mash up science fiction and fantasy references with a considerable amount of surreal wordplay in the form of linked one-line sequences which we call "scifabulenga." We have gradually been releasing these into the wild and hold on to hope that we can assemble a collection of scifabulenga into a book sometime soon.
 

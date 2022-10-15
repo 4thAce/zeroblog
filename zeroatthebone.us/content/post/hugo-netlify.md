@@ -19,10 +19,10 @@ topics = [
 
 It took me a while to get this blog running properly and I think I should
 record what I had to do in case I need to refresh my memory sometime. I've had
-[plenty](http://t2o.blogspot.com) [of](http://poorpoorthing.posterous.com)
-[before](http://upperrh.wordpress.com) including one which started out
+[plenty](https://t2o.blogspot.com) [of](https://poorpoorthing.com/)
+[before](https://upperrh.wordpress.com) including one which started out
 as a
-[statically generated one](http://frabjoustimes.magahiz.com) (in a Python script
+[statically generated one](https://web.archive.org/web/20080819150735/http://magahiz.com/frabjous/archive.html) (in a Python script
 I hacked together). Things have changed now and I wanted to do something that
 didn't have so many tiers to it, just a simple virtually unhackable set of
 static HTML pages that can be hosted somewhere with a content distribution
@@ -30,11 +30,11 @@ network.
 
 There are [lots and lots of generators](https://staticsitegenerators.net/) out
 there that will take your
-[Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+[Markdown](https://docs.github.com/articles/basic-writing-and-formatting-syntax/)
 files and compile nicely styled static files from partials so that you don't
-need to do any of this on the server side. Among these, [Hugo](http://gohugo.io/)
+need to do any of this on the server side. Among these, [Hugo](https://gohugo.io/)
 appealed because of its efficiency and speed. I spent a lot of time at the end
-of last year trying out [themes](http://themes.gohugo.io/), not all of which
+of last year trying out [themes](https://themes.gohugo.io/), not all of which
 are geared toward a personal blog. I knew I wasn't going to be designing my own
 theme at this point because by now I know that layout isn't one of my talents.
 In the end I went with the [Blackburn](https://github.com/yoshiharuyamashita/blackburn)
@@ -53,11 +53,11 @@ not being kept up to date with the current operation of Github Pages along with
 much of the other pages of advice I could find on the Web.
 
 I think it was when I was looking around the hundreds of
-[Hugo issues area in Github](https://github.com/spf13/hugo/issues) I might have
+[Hugo issues area in Github](https://github.com/gohugoio/hugo/issues) I might have
 first seen mention of free hosting at [Netlify](https://www.netlify.com/) as
 being a less trouble-prone alternative to Github Pages. I set up an account
 there and got it linked with my Github archive. They support a tool called
-[Victor Hugo](https://github.com/netlify/victor-hugo) which allows them to
+[Victor Hugo](https://github.com/netlify-templates/victor-hugo) which allows them to
 automate the site generation using node.js and Gulp. I didn't have too much
 interest doing this on my workstations, but found that I could just adapt the
 structure of my working directory to use it on their end (mainly just pushing my
@@ -68,7 +68,7 @@ to keep the complicated git subtree stuff that Git Pages wanted.
 
 There were still some hiccups with DNS, but here fortunately Netlify had a
 good tutorial on what to do on their
-[blog](https://www.netlify.com/blog/2016/03/14/setting-up-your-custom-domain/#namecheap)
+[blog](https://docs.netlify.com/domains-https/custom-domains/#namecheap)
 and I was finally able to view my site at the domain I'd purchased (for $0.88 US
 annually). All that delay was not in vain because it gave me the time to generate
 some content to start with anyway. Now all I have to do to create a new blog

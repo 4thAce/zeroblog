@@ -14,10 +14,10 @@ categories = [
 
 I'm starting this personal blog as a successor to my previous blogs:
 * [Heavy Heavy Water](http://t2o.blogspot.com)
-* [Poor Poor Thing](http://poorpoorthing.posterous.com)
+* [Poor Poor Thing](https://poorpoorthing.com/)
 * [Frabjous Times](http://frabjoustimes.magahiz.com)
-* [evilHow](http://evilhow.com)
-* [Worlds in the Upper Right Hand Corner](http://upperrh.wordpress.com)
+* [evilHow](https://web.archive.org/web/20180618160513/https://www.evilhow.com/tiki-index.php)
+* [Worlds in the Upper Right Hand Corner](https://upperrh.wordpress.com)
 
 I have some ideas of stashing some of my tech work here, links to my creative
 stuff, pointers to things I've found on the web, and other miscellaneous items.

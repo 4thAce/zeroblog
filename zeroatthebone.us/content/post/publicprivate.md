@@ -68,7 +68,7 @@ my own name on them, but things which I've shaped and cleaned up, mulled over,
 approved to have associated with my public reputation. I've never tried
 freestyle rapping but turning off the internal editor would be a sort of
 challenge I think. (I'm able to keep it at bay during
-[NaNoWrimo](http://nanowrimo.org/) effectively enough, however).
+[NaNoWrimo](https://nanowrimo.org/) effectively enough, however).
 
 This is also why I appreciate the efforts of the
 [EFF](https://www.eff.org/) and others to defend privacy rights in the
