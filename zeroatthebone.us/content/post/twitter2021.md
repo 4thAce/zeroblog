@@ -45,7 +45,6 @@ Fraught, with moments of transcendence.</div><br clear="all" />
 
 {{< tweet user="MyHaikuPond" id="1388852019100856323" >}}
 {{< tweet user="totalspace360" id="1389167385647718403" >}}
-{{< tweet user="babyboymonaghan" id="1390837011414614016" >}}
 {{< tweet user="longwoodgardens" id="1393914394849972225" >}}
 {{< tweet user="mashable" id="1394685963117363200" >}}
 
@@ -88,4 +87,3 @@ Fraught, with moments of transcendence.</div><br clear="all" />
 
 {{< tweet user="DrChrisCombs" id="1466843461869617153" >}}
 {{< tweet user="karjon" id="1476884562840113152" >}}
-

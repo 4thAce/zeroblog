@@ -53,7 +53,6 @@ These are the most memorable tweets I collected in 2017.
 
 {{<tweet user="jonnysun" id="921993977649299456" >}}
 {{<tweet user="bobcorrigan" id="922290750460694528" >}}
-{{<tweet user="jd_pirtle" id="923919068733861894" >}}
 
 ## December
 
