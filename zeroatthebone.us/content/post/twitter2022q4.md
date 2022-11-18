@@ -15,4 +15,9 @@ description = "Best of Twitter 2022 (3 of 4)"
 title="A Field of Dreams" /><br />
 Capture by Steve Jurvetson on Flickr</div><br clear="all" />
 
-## October
+
+## November
+
+{{ tweet user="fotofacade" id="1588067201046773760 "}}
+{{ tweet user="DontShowYourCat" id="1589068615554564096"}}
+{{ tweet user="DavidBrin" id="1591897260295880704" }}
