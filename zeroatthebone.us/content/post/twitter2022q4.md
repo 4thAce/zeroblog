@@ -18,12 +18,6 @@ Capture by Steve Jurvetson on Flickr</div><br clear="all" />
 
 ## November
 
-<<<<<<< HEAD
 {{ tweet user="fotofacade" id="1588067201046773760 "}}
 {{ tweet user="DontShowYourCat" id="1589068615554564096"}}
 {{ tweet user="ranimolla" id="1593432241589346306" }}
-=======
-{{< tweet user="fotofacade" id="1588067201046773760" >}}
-{{< tweet user="DontShowYourCat" id="1589068615554564096" >}}
-{{< tweet user="DavidBrin" id="1591897260295880704" >}}
->>>>>>> 64883002138b6ceb4ac4b88ad15f0411f74f74ae
