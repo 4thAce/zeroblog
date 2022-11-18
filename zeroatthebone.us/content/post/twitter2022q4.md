@@ -1,7 +1,7 @@
 +++
 title = "Twitter 2022 Oct-Dec"
 date = 2022-10-09T10:07:57-07:00
-draft = true
+draft = false
 tags = [
   "social",
   "media"
@@ -18,6 +18,6 @@ Capture by Steve Jurvetson on Flickr</div><br clear="all" />
 
 ## November
 
-{{ tweet user="fotofacade" id="1588067201046773760 "}}
-{{ tweet user="DontShowYourCat" id="1589068615554564096"}}
-{{ tweet user="DavidBrin" id="1591897260295880704" }}
+{{< tweet user="fotofacade" id="1588067201046773760" >}}
+{{< tweet user="DontShowYourCat" id="1589068615554564096" >}}
+{{< tweet user="DavidBrin" id="1591897260295880704" >}}
