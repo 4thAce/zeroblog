@@ -16,11 +16,28 @@ title="Chesapeake Bay Gold" /><br />
 Capture by Les Halstead on Flickr</div><br clear="all" />
 <!-- https://www.flickr.com/photos/lhalstead/50954363032 -->
 
-* [Captcha](https://noc.social/@tateisu@mastodon.juggler.jp/107642672883258871)
-* [Lizzy](https://noc.social/@infernusgoatus@kvlt.zone/107803022998160588)
-* [Calligraphy](https://noc.social/@welshpixie@mastodon.art/108152039532922682)
-* [Obligatory AI art](https://noc.social/@ai_art_bot@botsin.space/108339620425018842)
-* [Boost thermometer](https://noc.social/@emi@www.librepunk.club/108624605285974195)
-* [Foreshadowing](https://noc.social/@makingarecord@friend.camp/109275534885304468)
-* [Clumping](https://noc.social/@skimlines/109427707165843096)
+## January
+
+{{< stoot "noc.social" "107642672883258871" >}}
+
+## February
+
+{{< stoot "noc.social" "107803022998160588" >}}
+
+## April
+
+{{< stoot "noc.social" "108152039532922682" >}}
+
+## May
+{{< stoot "noc.social" "108339620425018842" >}}
+{{< stoot "noc.social" "108339620425018842" >}}
+
+## July
+{{< stoot "noc.social" "108624605285974195" >}}
+
+## November
+
+{{< stoot "noc.social" "109275534885304468" >}}
+{{< stoot "noc.social" "109427707165843096" >}}
+
 
