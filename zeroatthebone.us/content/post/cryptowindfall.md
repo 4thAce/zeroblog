@@ -73,6 +73,6 @@ So now the dollar value of my wallet has increased over tenfold. How long can
 this behavior continue? There are plenty of
 [skeptics](https://arstechnica.com/tech-policy/2017/12/is-bitcoin-a-bubble-heres-what-two-bubble-experts-told-us/)
 among economists, but also those who see
-[lasting value](http://fortune.com/2017/12/09/cameron-winklevoss-bitcoin-multitrillion-dollar-asset/)
+[lasting value](https://fortune.com/2017/12/09/cameron-winklevoss-bitcoin-multitrillion-dollar-asset/)
 in cryptocurrencies. When is the best time to take profit if there's going to be
 a correction? I have no idea.

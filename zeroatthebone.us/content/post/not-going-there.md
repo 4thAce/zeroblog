@@ -57,7 +57,7 @@ time, and being stuck with only lousy ways to come up to see what's going on wou
 go against the whole point of coming out here.
 
 That is the one thing that looms largest in mind now, not the salary or the kinds
-of problems [to work on](/post/what-ive-done) and not the possibility of working for
+of problems [to work on](/post/what-ive-done/) and not the possibility of working for
 some exciting new company of which there are many all up and down the region. The
 living costs in California are unreasonable now, with our small apartment
 giving us a third less area than our old house did, at a rent nearly three

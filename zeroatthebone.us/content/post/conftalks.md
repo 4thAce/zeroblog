@@ -17,7 +17,7 @@ topics = [
 
 In 2016 I went to a bunch of technical talks, none of which I intend to discuss
 right now, and all of which armed with a cameraphone along with everybody else
-in the audience. In this day of [Slideshare](http://www.slideshare.net/) and
+in the audience. In this day of [Slideshare](https://www.slideshare.net/) and
 official corporate tech blogs many of the presentations will make it up to the
 web in pristine form, so why would anyone want to take a crooked, out of focus,
 keystone distorted, and sometimes half second too late picture of the screen?

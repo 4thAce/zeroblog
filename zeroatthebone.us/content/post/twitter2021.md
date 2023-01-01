@@ -86,4 +86,3 @@ Fraught, with moments of transcendence.</div><br clear="all" />
 
 {{< tweet user="DrChrisCombs" id="1466843461869617153" >}}
 {{< tweet user="karjon" id="1476884562840113152" >}}
-

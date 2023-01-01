@@ -22,10 +22,10 @@ width="500" height="500" alt="Schwabinger See am Morgen"></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 For a number of years
-[Michael Dylan Welch](http://www.graceguts.com/)
+[Michael Dylan Welch](https://www.graceguts.com/)
 has been organizing National Haiku
 Writing Month, more commonly known as
-[NaHaiWriMo](http://www.nahaiwrimo.com/) during the month of February where
+[NaHaiWriMo](https://www.nahaiwrimo.com/) during the month of February where
 anyone can post their minimalistic poetic contributions every day. There would
 be a prompt for each day the participants could, if they wanted, use as a
 theme for that day's installment. I had fun
@@ -38,7 +38,7 @@ adaptations to English, and some have more to do with the group setting of
 many people posting their work all set off by a single image or idea.
 
 1. The 5-7-5 rule in Japanese corresponds to something much more compact in
-[English](http://www.nahaiwrimo.com/home/why-no-5-7-5). I aim for twelve English
+[English](https://www.nahaiwrimo.com/home/why-no-5-7-5). I aim for twelve English
 syllables in the three-line form, nine for single line poems.
 1. Poems should hae two images or ideas juxtaposed hard against one another.
 This corresponds to the cutting word or *kireji* in Japanese.

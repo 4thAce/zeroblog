@@ -95,7 +95,7 @@ taught us the virtue of having a few basic survival items on hand no
 matter what happens outside. Now that we've moved out to the West Coast
 my jump bag doubles as an earthquake preparedness kit too. Now, I'm not any kind
 of
-[prepper](http://www.prepperwebsite.com/) -- I haven't even gone camping since
+[prepper](https://www.prepperwebsite.com/) -- I haven't even gone camping since
 I was ten -- but I recognize the benefit of knowing that I have enough on hand
 to get by for a few days while waiting for things to settle down.
 
@@ -154,8 +154,8 @@ Image credits:
 
 * [Rehearsing for disaster](https://www.flickr.com/photos/rmagahiz/193075468/in/photolist-i4yBo)
 * <a href="https://www.flickr.com/photos/88442983@N00/6029050434/">taberandrew</a>
-Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+Flickr via <a href="https://web.archive.org/web/20200307181548/http://compfight.com/">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a>
 * <a href="https://www.flickr.com/photos/77174816@N04/30062957192/">PreparedBC</a>
-Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+Flickr via <a href="https://web.archive.org/web/20200307181548/http://compfight.com/">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
 * <a href="https://www.flickr.com/photos/76028037@N08/30947468561/">W. Tipton</a>
-Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+Flickr via <a href="https://web.archive.org/web/20200307181548/http://compfight.com/">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a>
