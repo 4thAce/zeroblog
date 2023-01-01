@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2022"
-date = 2022-12-26T06:29:31-08:00
+date = 2023-01-01T06:29:31-08:00
 draft = false
 tags = [
   "social",
@@ -16,8 +16,9 @@ title="Chesapeake Bay Gold" /><br />
 Capture by Les Halstead on Flickr</div><br clear="all" />
 <!-- https://www.flickr.com/photos/lhalstead/50954363032 -->
 
-I've been on the platform for a number of years, but have been following the crowd reducing the exposure to the turmoil on Twitter. Here are a few of the items from the last few months I marked as favourites.
+I've been on the platform for a number of years, but have been following the crowd reducing the exposure to the turmoil on Twitter. Here are a few of the items from the last few months I marked as favourites. The styling isn't quite what I want, so I might change some of the tooling to bring it more in line with the other pages here.
 
+---
 ## January
 {{< stoot "noc.social" "107642672883258871" >}}
 
