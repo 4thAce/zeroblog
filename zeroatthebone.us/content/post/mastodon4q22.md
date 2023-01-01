@@ -16,6 +16,8 @@ title="Chesapeake Bay Gold" /><br />
 Capture by Les Halstead on Flickr</div><br clear="all" />
 <!-- https://www.flickr.com/photos/lhalstead/50954363032 -->
 
+I've been on the platform for a number of years, but have been following the crowd reducing the exposure to the turmoil on Twitter. Here are a few of the items from the last few months I marked as favourites.
+
 ## January
 {{< stoot "noc.social" "107642672883258871" >}}
 
