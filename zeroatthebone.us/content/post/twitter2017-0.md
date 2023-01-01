@@ -22,7 +22,6 @@ These are the most memorable tweets I collected in 2017.
 ## January
 
 {{<tweet user="_ericelliott" id="816763696135421953" >}}
-{{<tweet user="ShannonDowney" id="821926038687154176" >}}
 {{<tweet user="coreyspowell" id="826240305464762368" >}}
 
 ## March
@@ -53,7 +52,6 @@ These are the most memorable tweets I collected in 2017.
 
 {{<tweet user="jonnysun" id="921993977649299456" >}}
 {{<tweet user="bobcorrigan" id="922290750460694528" >}}
-{{<tweet user="jd_pirtle" id="923919068733861894" >}}
 
 ## December
 

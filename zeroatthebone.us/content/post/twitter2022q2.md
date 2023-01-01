@@ -19,7 +19,6 @@ Public domain</div><br clear="all" />
 
 {{< tweet user="davidleesummers" id="1510826898959454209" >}}
 {{< tweet user="DSBArchitect" id="1514967441960488962" >}}
-{{< tweet user="lasergiant1" id="1515685708970672133" >}}
 {{< tweet user="TheAthletic" id="1522419472371523585" >}}
 {{< tweet user="AlisonFisk" id="1522496666984759296" >}}
 {{< tweet user="griph" id="1524748431834550274" >}}
@@ -28,4 +27,3 @@ Public domain</div><br clear="all" />
 {{< tweet user="toby_wildlife" id="1534775038506942469" >}}
 {{< tweet user="WeirdMedieval" id="1538834599337463808" >}}
 {{< tweet user="PubicZirconium" id="1540009876809601024" >}}
-

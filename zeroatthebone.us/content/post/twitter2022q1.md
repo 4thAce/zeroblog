@@ -23,10 +23,8 @@ Making the most of this brief time on Earth.</div><br clear="all" />
 {{< tweet user="RuprechtMartin" id="1484991519572566016" >}}
 {{< tweet user="colourfulchris" id="1489073962751455235" >}}
 {{< tweet user="BethyBSQU" id="1494483378212532224" >}}
-{{< tweet user="magisternihil" id="1497992997090349057" >}}
 {{< tweet user="DeleteTheNats" id="1501968867215777797" >}}
 {{< tweet user="cinemashoebox" id="1504058348844597251" >}}
-{{< tweet user="clpolk" id="1504920073349185536" >}}
 {{< tweet user="jamestaylor" id="1499036818276335625" >}}
 {{< tweet user="womensart1" id="1503276042395467786" >}}
 

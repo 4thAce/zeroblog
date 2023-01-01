@@ -22,7 +22,6 @@ Capture by cobalt123 on Flickr</div><br clear="all" />
 
 ## August
 
-{{< tweet user="JennyRobb" id="1555322046447509504" >}}
 {{< tweet user="Anna_Snackz" id="1557060972963155969" >}}
 {{< tweet user="maruti_bitamin" id="1560266958729138177" >}}
 {{< tweet user="ninagrewal97" id="1561846490968035329" >}}

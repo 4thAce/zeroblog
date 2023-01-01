@@ -45,7 +45,6 @@ Fraught, with moments of transcendence.</div><br clear="all" />
 
 {{< tweet user="MyHaikuPond" id="1388852019100856323" >}}
 {{< tweet user="totalspace360" id="1389167385647718403" >}}
-{{< tweet user="babyboymonaghan" id="1390837011414614016" >}}
 {{< tweet user="longwoodgardens" id="1393914394849972225" >}}
 {{< tweet user="mashable" id="1394685963117363200" >}}
 
@@ -59,7 +58,6 @@ Fraught, with moments of transcendence.</div><br clear="all" />
 ## July
 
 {{< tweet user="kevinbparry" id="1415001165570400263" >}}
-{{< tweet user="cheatlines" id="1416885969702166528" >}}
 {{< tweet user="womensart1" id="1420331642271453185" >}}
 
 ## August
