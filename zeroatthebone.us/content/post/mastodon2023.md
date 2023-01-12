@@ -1,7 +1,7 @@
 +++
 title = "Mastodon 2023"
 date = 2023-01-08T12:11:56-08:00
-draft = false
+draft = true
 tags = [
   "social",
   "media"
