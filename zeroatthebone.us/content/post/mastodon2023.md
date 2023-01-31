@@ -17,5 +17,8 @@ Capture by Steve Jurvetson on Flickr</div><br clear="all" />
 
 ## January 2023
 
-
 {{< stoot "noc.social" "109614970108124994" >}}
+{{< stoot "noc.social" "109657163233876695" >}}
+{{< stoot "noc.social" "109745807096356284" >}}
+{{< stoot "noc.social" "109751449057445975" >}}
+{{< stoot "noc.social" "109783777600579066" >}}
