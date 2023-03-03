@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2023"
-date = 2023-02-02T12:11:56-08:00
+date = 2023-03-01T12:11:56-08:00
 draft = true
 tags = [
   "social",
@@ -26,3 +26,7 @@ Capture by Steve Jurvetson on Flickr</div><br clear="all" />
 ## February 2023
 
 {{< stoot "noc.social" "109792202481038909" >}}
+{{< stoot "noc.social" "109821122493420547" >}}
+{{< stoot "noc.social" "109922033041403169" >}}
+
+## March 2023
