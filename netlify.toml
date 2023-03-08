@@ -1,5 +1,5 @@
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.111.2"
 
 [context.production.environment]
   HUGO_VERSION = "0.111.2"
@@ -14,7 +14,7 @@
   command = "cd zeroatthebone.us; hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.111.2"
   HUGO_ENV = "production"
 
 [context.deploy-preview]
@@ -25,7 +25,7 @@
   command = "hugo -s /opt/build/repo/zeroatthebone.us --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.111.2"
 
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
