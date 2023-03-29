@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - uses: BoundfoxStudios/action-hugo-link-check@v2.0.1
+      - uses: BoundfoxStudios/action-hugo-link-check@v2
         with:
           hugo-startup-wait-time: 60
           hugo-root: zeroatthebone.us
