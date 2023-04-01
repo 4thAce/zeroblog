@@ -15,4 +15,4 @@ This is a picture of her.<br />
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/media/IMG_0501.JPG" title="Pamela Magahiz" width=245 height=326 />
 * Besides the links on the sidebar here, you can look at what I've been posting up on [Medium](https://rmagahiz.medium.com/) and at [Mastodon](https://noc.social/@Zerofactorial) or find out what I've been reading on [Goodreads](https://www.goodreads.com/user/show/4964300-richard-magahiz).
 If you follow me at those places, I might follow you back.
-* I am a software engineer at [Factset](https://factset.com) in charge of infrastructure and security.
+* I am a software engineer at [Factset](https://www.factset.com) in charge of infrastructure and security.

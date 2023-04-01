@@ -16,7 +16,7 @@ description = "How to contact me"
 # Organizations
 
 * [Northwestern University Alumni](https://www.alumni.northwestern.edu/)
-* [MIT Alumni association](https://alum.mit.edu/index.html)
+* [MIT Alumni association](https://alum.mit.edu/)
 
 # Social networks
 * <a rel="me" href="https://noc.social/@Zerofactorial">Mastodon</a>
