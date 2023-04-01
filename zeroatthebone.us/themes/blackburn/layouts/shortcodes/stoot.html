@@ -1,4 +1,4 @@
-﻿{{ $masIns := .Get 0 }}
+{{ $masIns := .Get 0 }}
 {{ $tootLink := "" }}
 {{ $card := "" }}
 {{ $handleInst := "" }}
@@ -11,7 +11,7 @@
 {{ $jsonHolder := $json }}{{/* Being safe */}}
 
 {{ if isset $json "account" }}
-{{ $tootLink = print "https://" $masIns "@" $json.account.acct "/status/" $id }}
+{{ $tootLink = print "https://" $masIns "/@" $json.account.acct "/status/" $id }}
 {{ $handleInst = print "@" $json.account.acct "@" $masIns }}
 {{ end }}
 

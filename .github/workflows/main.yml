@@ -1,0 +1,19 @@
+name: link-checker
+
+on: [ push ]
+
+jobs:
+  check-broken-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: BoundfoxStudios/action-hugo-link-check@v2
+        with:
+          hugo-startup-wait-time: 60
+          hugo-root: zeroatthebone.us
+          hugo-content-dir: zeroatthebone.us/content
+          hugo-config: zeroatthebone.us/config.toml
+          fail-on-broken-links: 0
+          skip: 'http://localhost:1313//topics/*'

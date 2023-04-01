@@ -34,7 +34,7 @@ had a day job (insurance executive).
 had a day job (physician). I don't
 think there are more than a handful of poets who sustain themselves solely on
 poetry. Among prose writers, there are also notables who have day jobs:
-[Ted Chiang](http://tedchiang.blogspot.com/)
+[Ted Chiang](https://web.archive.org/web/20180614175022/http://tedchiang.blogspot.com/)
  is one who comes to mind outside academia (technical writing), and
 [Kameron Hurley](http://www.kameronhurley.com/made-writing-fiction-2016/) is
 another. Plus there is any number of those
