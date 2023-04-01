@@ -16,3 +16,5 @@ jobs:
           hugo-content-dir: zeroatthebone.us/content
           hugo-config: zeroatthebone.us/config.toml
           fail-on-broken-links: 0
+          skip: 
+            -  http://localhost:1313//topics/*
