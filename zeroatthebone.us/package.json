@@ -1,0 +1,16 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "Build to support action-hugo-link-check for Hugo",
+  "private": true,
+  "scripts": {
+    "start": "hugo server --navigateToChanged",
+    "publish": "hugo --minify"
+  },
+  "hugo-bin": {
+    "buildTags": "extended"
+  },
+  "devDependencies": {
+    "hugo-bin": "0.92.3"
+  }
+}

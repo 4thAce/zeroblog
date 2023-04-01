@@ -55,8 +55,8 @@ upper midwest.
 
 I also wanted to mention the Spotify streaming service, which did its data
 mining of my picks for the last year and came up with this playlist of a
-hundred songs for me.<br />
-[<img src="https://milkfish08.s3.amazonaws.com/photo/blog/2017-12-14.png" alt="Your Top Songs 2017" title="Your Top Songs 2017" width="263" height="272" />](https://open.spotify.com/spotify/playlist/37i9dQZF1E9KLMNe1MbRfP)<br />
+hundred songs for me. (Link to my public profile where this is featured)<br />
+[<img src="https://milkfish08.s3.amazonaws.com/photo/blog/2017-12-14.png" alt="Your Top Songs 2017" title="Your Top Songs 2017" width="263" height="272" />](https://open.spotify.com/user/milkfish/playlists)<br />
 As I mentioned [before](/post/nano2017/), it's been a tough year to get through,
 accounting for all the selections there I would classify as "self-care" balm
 for the soul. Also a couple of angry screeds which helped in their own way.

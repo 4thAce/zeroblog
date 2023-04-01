@@ -38,7 +38,7 @@ adaptations to English, and some have more to do with the group setting of
 many people posting their work all set off by a single image or idea.
 
 1. The 5-7-5 rule in Japanese corresponds to something much more compact in
-[English](https://www.nahaiwrimo.com/home/why-no-5-7-5). I aim for twelve English
+[English](https://www.nahaiwrimo.com/why-no-5-7-5). I aim for twelve English
 syllables in the three-line form, nine for single line poems.
 1. Poems should hae two images or ideas juxtaposed hard against one another.
 This corresponds to the cutting word or *kireji* in Japanese.
