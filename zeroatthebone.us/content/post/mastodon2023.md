@@ -17,16 +17,16 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## January 2023
 
-{{< stoot "noc.social" "109614970108124994" >}}
-{{< stoot "noc.social" "109657163233876695" >}}
-{{< stoot "noc.social" "109745807096356284" >}}
-{{< stoot "noc.social" "109751449057445975" >}}
+{{< stoot "noc.social" "109614970108124994" >}}<hr>
+{{< stoot "noc.social" "109657163233876695" >}}<hr>
+{{< stoot "noc.social" "109745807096356284" >}}<hr>
+{{< stoot "noc.social" "109751449057445975" >}}<hr>
 {{< stoot "noc.social" "109783777600579066" >}}
 
 ## February 2023
 
-{{< stoot "noc.social" "109792202481038909" >}}
-{{< stoot "noc.social" "109821122493420547" >}}
+{{< stoot "noc.social" "109792202481038909" >}}<hr>
+{{< stoot "noc.social" "109821122493420547" >}}<hr>
 {{< stoot "noc.social" "109922033041403169" >}}
 
 ## March 2023
