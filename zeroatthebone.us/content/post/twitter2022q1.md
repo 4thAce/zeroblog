@@ -25,6 +25,5 @@ Making the most of this brief time on Earth.</div><br clear="all" />
 {{< tweet user="BethyBSQU" id="1494483378212532224" >}}
 {{< tweet user="DeleteTheNats" id="1501968867215777797" >}}
 {{< tweet user="cinemashoebox" id="1504058348844597251" >}}
-{{< tweet user="jamestaylor" id="1499036818276335625" >}}
 {{< tweet user="womensart1" id="1503276042395467786" >}}
 
