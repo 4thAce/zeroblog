@@ -32,7 +32,7 @@ I've been on the platform for a number of years, but have been following the cro
 
 ---
 ## May
-{{< stoot "noc.social" "108339620425018842" >}}
+{{< stoot "noc.social" "108339620425018842" >}}<hr>
 {{< stoot "noc.social" "108339620425018842" >}}
 
 ---
@@ -41,7 +41,7 @@ I've been on the platform for a number of years, but have been following the cro
 
 ---
 ## November
-{{< stoot "noc.social" "109275534885304468" >}}
+{{< stoot "noc.social" "109275534885304468" >}}<hr>
 {{< stoot "noc.social" "109427707165843096" >}}
 
 
