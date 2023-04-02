@@ -21,7 +21,6 @@ anyway. These are just snapshots in the moment as they moved me.
 ## August
 
 {{<tweet user="richmagahiz" id="760921636749111296" >}}
-{{<tweet user="exxulansis" id="766115027333939200" >}}
 {{<tweet user="richmagahiz" id="766268215391551488" >}}
 
 ## September
