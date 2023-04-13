@@ -10,7 +10,7 @@ topics = [
   "pastime"
 ]
 
-draft = true
+draft = false
 +++
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/26799566798_1907b4ca89_c.jpg" height="437" width="799" alt="The interior of a violin showing a bright image of a curved F hole" title="violin" /><br />
 Capture by Apple Boutique on Flickr</div><br clear="all" />
@@ -34,6 +34,8 @@ This is what the last fourteen days has reminded me. The progression of musical 
 9. Fluent improvisation or compositional skill
 10. Participant in the musical conversation
 
-It's like the Richter scale, where each step is a multiple beyond the preceding one and below the next. Innate talent will get you so far, persistence will help push that limit, and intelligence may provide a cheat code to allow a person to jump up in a surprising way beyond either of these. The musicians who live on the highest levels are hard to account for with their prodigious amount of musicality that ordinary folk can only witness, sensing no clear way to access this on their own.
+It's like the sound pressure scale in decibels or the seismic Richter scale, where each step is a multiple beyond the preceding one and below the next. Innate talent will get you so far, persistence will help push that limit, and intelligence may provide a cheat code to allow a person to jump up in a surprising way beyond either of these. If you stop working on your technique for some time you will drop down to a lower level, in my case, all the way down to 1 or 2 over many years. The musicians who live on the highest levels are hard to account for with their prodigious amount of musicality that ordinary folk can only witness, sensing no clear way to access this on their own. 
 
-Being a multi-instrumentalist (which includes the voice as an instrument), having a talent for navigating the music business, being able to teach others about music, having the ability to combine disparate genres to create new ones are all abilities orthogonal to this line of progression and valuable in themselves. A person who goes far in any of these in addition to their musical ability will stand out even more strikingly than their peers who stick to the path of musicianship.
+There are other aspects to being a well-rounded musician. Being a multi-instrumentalist (which includes the voice as an instrument), having a talent for navigating the music business, being able to teach others about music, having the ability to combine disparate genres to create new ones are all abilities orthogonal to this line of progression and valuable in themselves. A person who goes far in any of these in addition to their musical ability will stand out even more strikingly than their peers who stick to the path of musicianship.
+
+I think I'm somewhere around 3, with occasional excursions to 4. I'll keep on practicing and see what it looks like over months and years.
