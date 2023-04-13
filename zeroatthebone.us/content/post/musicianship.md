@@ -12,6 +12,8 @@ topics = [
 
 draft = true
 +++
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/26799566798_1907b4ca89_c.jpg" height="437" width="799" alt="The interior of a violin showing a bright image of a curved F hole" title="violin" /><br />
+Capture by Apple Boutique on Flickr</div><br clear="all" />
 
 Over the last two weeks I have been working on relearning the violin, an instrument I haven't played in decades and one with a notoriously tough learning curve which probably means there is no possible route to mastery in my lifetime. I knew it was going to be this way and worked on lowering my expectations on m progress beforehand. With eight hours of practice in, I started thinking about the way people learn things like this in an organized way and wanted to set down my ideas.
 
