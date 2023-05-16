@@ -19,7 +19,6 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 {{< stoot "noc.social" "109614970108124994" >}}<hr>
 {{< stoot "noc.social" "109657163233876695" >}}<hr>
-{{< stoot "noc.social" "109745807096356284" >}}<hr>
 {{< stoot "noc.social" "109751449057445975" >}}<hr>
 {{< stoot "noc.social" "109783777600579066" >}}
 
