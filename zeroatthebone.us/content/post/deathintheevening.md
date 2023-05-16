@@ -46,7 +46,7 @@ Twitter.
 <p lang="en" dir="ltr"><a href="https://twitter.com/trutane">@trutane</a>
 <a href="https://twitter.com/Caltrain">@Caltrain</a>
 <a href="https://twitter.com/ravikanodia">@ravikanodia</a>
-<a href="https://twitter.com/maym86">@maym86</a>
+@maym86
 <a href="https://twitter.com/800273TALK">@800273TALK</a>
 twitter is not the place for caltrain to discuss the mindset of whoever was
 struck.</p>&mdash; Greg Butzi (@GregButzi)
