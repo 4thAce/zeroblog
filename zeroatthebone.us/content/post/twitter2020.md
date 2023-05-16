@@ -20,7 +20,6 @@ Not your average year, all in all
 ## January
 
 {{< tweet user="AMNH" id="1219790549156278272" >}}
-{{< tweet user="BruceHalperin" id="1223316704408694784" >}}
 
 ## February
 
