@@ -42,7 +42,6 @@ These are the most memorable tweets I collected in 2017.
 
 {{<tweet user="JohnBarentine" id="893232341040091137" >}}
 {{<tweet user="martinstaylor" id="894512566629740544" >}}
-{{<tweet user="DeadpoetixTwits" id="900151636747841539" >}}
 
 ## September
 

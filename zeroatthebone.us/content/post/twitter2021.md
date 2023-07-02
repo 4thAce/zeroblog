@@ -51,7 +51,6 @@ Fraught, with moments of transcendence.</div><br clear="all" />
 ## June
 
 {{< tweet user="Teen_Cthulhu" id="1401415188486758402" >}}
-{{< tweet user="paostrology" id="1403828126723936258" >}}
 {{< tweet user="archaeologyart" id="1406695873145360386" >}}
 {{< tweet user="Kaibutsu" id="1410483666380328960" >}}
 
