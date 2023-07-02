@@ -8,7 +8,7 @@ tags = [
 topics = [
   "links"
 ]
-draft = true
+draft = false
 +++
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/3435158870_667ed1b0aa_c.jpg" width="800" height="600" alt="A set of display monitors in a pile of wood chips" title="Art" /><br />
 Capture by Robynne Blume on Flickr</div><br clear="all" />
