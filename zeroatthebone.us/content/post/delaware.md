@@ -17,7 +17,7 @@ draft = true
 
 Once again we are moving, this time all the way back to the East Coast of the United States to the state of Delaware.
 Now that my parents are no longer living the biggest reason for our moving to California is no longer present, and an urge to simplify our lives seems to be calling us.
-Neither of us has ever lived in Deleware previously, but we visited the little state for the first time about nine years ago and gradually came to the realization that this could turn out to be a great place for us to escape some of the bustle and expense of West Coast urban living back to a house of our own again.
+Neither of us has ever lived in Delaware previously, but we visited the little state for the first time about nine years ago and gradually came to the realization that this could turn out to be a great place for us to escape some of the bustle and expense of West Coast urban living back to a house of our own again.
 
 At the present moment we are committed to leaving here, but do not yet have a specific place to move to yet while we conduct a search.
 The wheels are in motion to get us in to a temporary place, we hope for only a few months, while we concentrate on finding our next home.
