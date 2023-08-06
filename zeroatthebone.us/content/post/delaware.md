@@ -26,4 +26,10 @@ We came out to Wilmington earlier this year for a week to do a reality check and
 It happens that the housing market is tight right now, with interest rates up in order to fight inflationary pressures, leading anyone who's looking to obtain a mortgage to doubt whether this is a really good time to be planning this kind of move.
 We think we can make it all work, and if the economy hits a good patch further down the line, do what we've done before to refinance to good benefit.
 
-I do still have family 
+I do still have friends and family around here so we'll be sure to be traveling back and forth in the coming years.
+The lure of being able to connect with our East Coast friends and family is what makes sense for us now, though.
+Although I was born and raised in California, by now I've spent just about half my life outside the state, nearly all of those years in more demanding climates than what is characteristic of our new place, so I am pretty sure I can make the adjustments I need to.
+My plan is to keep working for my present employer remotely, taking advantage of the time zones to be able to be able to attend more of the morning meetings I've had to pass up while three hours behind headquarters.
+And when it's time to retire, I have some ideas about serious traveling that could work better from a base on the East Coast.
+
+Wish us luck.
