@@ -42,17 +42,7 @@ obvious that the train crew hated having to deal with this. Everyone riding
 along with me accepted the state of things placidly, even the hotheads on
 Twitter.
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck">
-<p lang="en" dir="ltr"><a href="https://twitter.com/trutane">@trutane</a>
-<a href="https://twitter.com/Caltrain">@Caltrain</a>
-<a href="https://twitter.com/ravikanodia">@ravikanodia</a>
-<a href="https://twitter.com/maym86">@maym86</a>
-<a href="https://twitter.com/800273TALK">@800273TALK</a>
-twitter is not the place for caltrain to discuss the mindset of whoever was
-struck.</p>&mdash; Greg Butzi (@GregButzi)
-<a href="https://twitter.com/GregButzi/status/831356152386506752">February 14, 2017</a>
-</blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Twitter content removed*
 
 I wonder
 why it is people end up dying in this manner, whether intentionally or not. I

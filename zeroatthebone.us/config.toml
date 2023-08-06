@@ -58,7 +58,6 @@ publishDir = "../public"
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "richmagahiz"
   facebook = "richard.magahiz"
   github = "4thace"
   linkedin = "rmagahiz"
@@ -67,7 +66,6 @@ publishDir = "../public"
   flickr = "rmagahiz"
   keybase = "milkfish"
   reddit = "4thAce"
-  bitbucket = "4thAce"
   instagram = "milkfish2000"
   medium = "rmagahiz"
   goodreads = "4964300-richard-magahiz"
