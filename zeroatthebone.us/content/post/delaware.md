@@ -11,7 +11,7 @@ topics = [
 ]
 draft = true
 +++
-<div align="center" style="font-size:xsmall"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/dreamstime_xxl_95838767.jpg" width=424 height=282 alt="Cnidaria and jellyfish swimming" title="Pelagic invertebrates swimming" /><br />
+<div align="center" style="font-size:xsmall"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/dreamstime_xxl_95838767.jpg" width=565 height=376 alt="Cnidaria and jellyfish swimming" title="Pelagic invertebrates swimming" /><br />
 95838767 © Publicdomainphotos | Dreamstime.com
 </div><br clear="all" />
 
