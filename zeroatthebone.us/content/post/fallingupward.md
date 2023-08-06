@@ -23,7 +23,7 @@ friends and acquaintances who have no interest in it or have an active dislike
 of it. Towards them I bear no ill will, though I understand that this blog post
 is probably not going to be their kind of thing.
 
-For Lent I listened to the [audiobook](https://www.dreamscapepublishing.com/catalog/audiobooks/detail/?falling-upward/richard-rohr+/&id=00000062)
+For Lent I listened to the audiobook
 version of Richard Rohr's book __Falling Upward__ as my assignment and it was an
 experience of a contrary way of looking and doing things. Rohr is a Franciscan
 priest who has written many books on spirituality. This book is one which
