@@ -36,10 +36,6 @@ I've been on the platform for a number of years, but have been following the cro
 {{< stoot "noc.social" "108339620425018842" >}}
 
 ---
-## July
-{{< stoot "noc.social" "108624605285974195" >}}
-
----
 ## November
 {{< stoot "noc.social" "109275534885304468" >}}<hr>
 {{< stoot "noc.social" "109427707165843096" >}}
