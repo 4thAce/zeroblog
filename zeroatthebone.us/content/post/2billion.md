@@ -11,7 +11,7 @@ topics = [
 description = "Another life milestone"
 +++
 
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/26829267114_2a84c285e7_c.jpg" alt="A deep sky view of a multitude of star against black sky" title="Hubble Friday - Heavy Metal Stars" width="400" height="328" /></div><br clear="all" />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/26829267114_2a84c285e7_c.jpg" alt="A deep sky view of a multitude of star against black sky" title="Hubble Friday - Heavy Metal Stars" width="600" height="492" /></div><br clear="all" />
 
 I have a milestone to reach this Tuesday, August 29th, 2023 when I should (by my best estimate, assisted by [Wolfram Alpha](https://www.wolframalpha.com/)) pass the age of 2,000,000,000 seconds. 
 As part of the last few years of the Baby Boom generation I partake in some of its deplorable characteristics I have no doubt. 
