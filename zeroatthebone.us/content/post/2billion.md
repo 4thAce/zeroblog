@@ -11,7 +11,7 @@ topics = [
 description = "Another life milestone"
 +++
 
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/26829267114_2a84c285e7_c.jpg" alt="A deep sky view of a multitude of star against black sky" title="Hubble Friday - Heavy Metal Stars" width="400" height="328" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/26829267114_2a84c285e7_c.jpg" alt="A deep sky view of a multitude of star against black sky" title="Hubble Friday - Heavy Metal Stars" width="400" height="328" /></div><br clear="all" />
 
 I have a milestone to reach this Tuesday, August 29th, 2023 when I should (by my best estimate, assisted by [Wolfram Alpha](https://www.wolframalpha.com/)) pass the age of 2,000,000,000 seconds. 
 As part of the last few years of the Baby Boom generation I partake in some of its deplorable characteristics I have no doubt. 
@@ -29,7 +29,7 @@ I don't know how far along the way we'll be towards racial harmony or abundant c
 There are still a few things I do want to do while I'm around. 
 I might not actually want to be truly immortal because I can believe what they say: old age isn't for wimps.
 
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/4616867629_a174048400_c.jpg" alt="A woman tearing a thick book in half with her hands" title="Telephone Book Torn in Half" width="400" height="320" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/4616867629_a174048400_c.jpg" alt="A woman tearing a thick book in half with her hands" title="Telephone Book Torn in Half" width="400" height="320" /></div><br clear="all" />
 
 Another thing I learned as a kid is that if you take a piece of paper, no matter how large it is or how thin it is, you can't fold it ten times over on itself. 
 And of course that's just because of the exponential nature of folding a piece of paper as it doubles in thickness each time so at the end of ten folds you'd have a thick stack of 1,024 pages. 
