@@ -46,5 +46,15 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## July 2023
 
-{{< stoot "noc.social" "110488630117977471" >}}
-{{< stoot "noc.social" "110747763077401938" >}}
+{{< stoot "mastodon.social" "110488630114275782" >}}
+{{< stoot "mastodon.social" "110747763026556230" >}}
+{{< stoot "sciencemastodon.com" "110761535453159781" >}}
+
+## August 2023
+
+{{< stoot "corteximplant.com" "10949936885112482" >}}
+
+## September 2023
+
+{{< stoot "mastodon.social" "110991377505473992" >}}
+{{< stoot "hachyderm.io" "111126987202104964" >}}
