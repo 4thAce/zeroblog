@@ -52,7 +52,7 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## August 2023
 
-{{< stoot "corteximplant.com" "10949936885112482" >}}
+{{< stoot "noc.social" "110488630117977471" >}}
 
 ## September 2023
 
