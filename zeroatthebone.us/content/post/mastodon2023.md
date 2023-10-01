@@ -26,35 +26,35 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 {{< stoot "noc.social" "109792202481038909" >}}<hr>
 {{< stoot "noc.social" "109821122493420547" >}}<hr>
-{{< stoot "noc.social" "109922033041403169" >}}
+{{< stoot "noc.social" "109922033041403169" >}}<hr>
 
 ## March 2023
 
-{{< stoot "noc.social" "110055387028854927" >}}
+{{< stoot "noc.social" "110055387028854927" >}}<hr>
 
 ## April 2023
 
-{{< stoot "noc.social" "110125679133688980" >}}
-{{< stoot "noc.social" "110128920767184683" >}}
-{{< stoot "noc.social" "110142557028573099" >}}
-{{< stoot "noc.social" "110172247628468888" >}}
+{{< stoot "noc.social" "110125679133688980" >}}<hr>
+{{< stoot "noc.social" "110128920767184683" >}}<hr>
+{{< stoot "noc.social" "110142557028573099" >}}<hr>
+{{< stoot "noc.social" "110172247628468888" >}}<hr>
 
 ## May 2023
 
-{{< stoot "noc.social" "110313179175584771" >}}
-{{< stoot "noc.social" "110367050118086993" >}}
+{{< stoot "noc.social" "110313179175584771" >}}<hr>
+{{< stoot "noc.social" "110367050118086993" >}}<hr>
 
 ## July 2023
 
-{{< stoot "mastodon.social" "110488630114275782" >}}
-{{< stoot "mastodon.social" "110747763026556230" >}}
-{{< stoot "sciencemastodon.com" "110761535453159781" >}}
+{{< stoot "mastodon.social" "110488630114275782" >}}<hr>
+{{< stoot "mastodon.social" "110747763026556230" >}}<hr>
+{{< stoot "sciencemastodon.com" "110761535453159781" >}}<hr>
 
 ## August 2023
 
-{{< stoot "noc.social" "110488630117977471" >}}
+{{< stoot "noc.social" "110488630117977471" >}}<hr>
 
 ## September 2023
 
-{{< stoot "mastodon.social" "110991377505473992" >}}
-{{< stoot "hachyderm.io" "111126987202104964" >}}
+{{< stoot "mastodon.social" "110991377505473992" >}}<hr>
+{{< stoot "hachyderm.io" "111126987202104964" >}}<hr>
