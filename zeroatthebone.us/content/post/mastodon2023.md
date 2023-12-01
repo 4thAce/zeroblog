@@ -56,5 +56,17 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## September 2023
 
+{{< stoot "mastodon.green" "111182596833260041" >}}<hr>
 {{< stoot "mastodon.social" "110991377505473992" >}}<hr>
 {{< stoot "hachyderm.io" "111126987202104964" >}}<hr>
+
+## October 2023
+
+{{< stoot "sauropods.win" "111203864584275897" >}}<hr>
+{{< stoot "mastodon.nz" "111260752607763845" >}}<hr>
+
+## November 2023
+
+{{< stoot "wandering.shop" "111345549084805491" >}}<hr>
+{{< stoot "mastodon.ie" "111373796753411199" >}}<hr>
+{{< stoot "squawk.social" "111387791130407228" >}}<hr>
