@@ -70,3 +70,8 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 {{< stoot "wandering.shop" "111345549084805491" >}}<hr>
 {{< stoot "mastodon.ie" "111373796753411199" >}}<hr>
 {{< stoot "squawk.social" "111387791130407228" >}}<hr>
+
+## December 2023
+
+{{< stoot "octodon.social" "111513477058297564" >}}
+{{< stoot "sunny.garden" "111601432220129914" >}}
