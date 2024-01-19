@@ -83,7 +83,7 @@ One thing I can do, however, is to list out the titles of the threads, to give y
 1. on planet
 1. their Lili Marleen
 
-(The title of \#17 is courtesy of the Zalgo text generator at https://eeemo.net/)
+(The title of \#17 is courtesy of the Zalgo text generator at https://www.zalgo.org/)
 
 The list has been a little quieter this year than it has been various years past, when we would sometimes have a half a dozen postings in a day from a number of different contributors.
 Still, we had several threads which continued with over a half dozen verses added taking the conversation in strange directions.

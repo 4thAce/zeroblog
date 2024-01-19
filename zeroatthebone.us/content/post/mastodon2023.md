@@ -41,8 +41,8 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## May 2023
 
-{{< stoot "noc.social" "110313179175584771" >}}<hr>
-{{< stoot "noc.social" "110367050118086993" >}}<hr>
+{{< stoot "mastodon.xyz" "110313178949344572" >}}<hr>
+{{< stoot "merveilles.town" "110367050144871162" >}}<hr>
 
 ## July 2023
 
@@ -52,7 +52,7 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## August 2023
 
-{{< stoot "noc.social" "110488630117977471" >}}<hr>
+{{< stoot "mastodon.social" "110488630114275782" >}}<hr>
 
 ## September 2023
 
