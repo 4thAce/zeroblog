@@ -14,6 +14,6 @@ jobs:
           hugo-startup-wait-time: 60
           hugo-root: zeroatthebone.us
           hugo-content-dir: zeroatthebone.us/content
-          hugo-config: zeroatthebone.us/config.toml
+          hugo-config: zeroatthebone.us/hugo.toml
           fail-on-broken-links: 0
           skip: 'http://localhost:1313//topics/*'
