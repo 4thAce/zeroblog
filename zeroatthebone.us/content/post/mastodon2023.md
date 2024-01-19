@@ -6,7 +6,7 @@ tags = [
   "social",
   "media"
 ]
-categories = [
+topics = [
   "links"
 ]
 description = "Favorites from Mastodon 2023"
