@@ -68,3 +68,6 @@ publishDir = "../public"
   instagram = "milkfish2000"
   medium = "rmagahiz"
   goodreads = "4964300-richard-magahiz"
+
+[taxonomies]
+  topic = 'topics'
