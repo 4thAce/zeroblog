@@ -36,7 +36,7 @@ I've been on the platform for a number of years, but have been following the cro
 
 ---
 ## November
-{{< stoot "https://friend.camp" "109275534407410130" >}}<hr>
+{{< stoot "friend.camp" "109275534407410130" >}}<hr>
 {{< stoot "noc.social" "109427707165843096" >}}
 
 
