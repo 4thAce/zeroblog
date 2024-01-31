@@ -71,3 +71,4 @@ publishDir = "../public"
 
 [taxonomies]
   topic = 'topics'
+  tag = 'tags'
