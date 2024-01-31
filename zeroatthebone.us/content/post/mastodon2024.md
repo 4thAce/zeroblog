@@ -17,5 +17,5 @@ Capture by helaku h on Flickr</div><br clear="all" />
 
 ## January 2024
 
-{{< stoot "c.im" "111765409688373514" >}}
+{{< stoot "c.im" "111765409688373514" >}}<hr />
 {{< stoot "mastodon.social" "111798763604184821" >}}<hr />
