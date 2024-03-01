@@ -1,12 +1,14 @@
 +++
 title = "What's happening now"
-date = 2024-03-01T07:08:29-05:00
+date = 2024-03-01T12:41:29-05:00
 tags = [
     "now",
     "publishing"
 ]
-draft = true
+draft = false
 +++
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/1684-untitled-engraving-of-sea-monsters-attacking-a-sailing-vessel-49fa31.jpg" alt="1684 engraving of sea monsters attacking a sailing ship. width="512" height="351" title="Sea monsters attacking a sailing ship" /></div><br clear="all" />
+
 
 # Current goings-on
 
@@ -24,9 +26,9 @@ This is one of the perks of not having to hold onto a full-time job.
 
 # Presently reading
 
-* _Orange World_ by Karen Russell
-* _My Family and Other Animals_ by Gerald Durrell (audiobook)
-* _Kingdom of Olives and Ash_ edited by Michael Chabon and Ayelet Waldman (audiobook)
-* _A Master of Djinn_ by P. Djèlí Clark (audiobook)
+* __Orange World__ by Karen Russell
+* __My Family and Other Animals__ by Gerald Durrell (audiobook)
+* __Kingdom of Olives and Ash__ edited by Michael Chabon and Ayelet Waldman (audiobook)
+* __A Master of Djinn__ by P. Djèlí Clark (audiobook)
 
 *Last updated at Fri, 01 Mar 2024 07:08:29 -0500*
