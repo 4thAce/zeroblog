@@ -50,6 +50,12 @@ publishDir = "../public"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
     url = "/contact/"
+  [[menu.main]]
+    name = "Now"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "now"
+    url = "/now/"
 
 [markup]
     [markup.goldmark.renderer]
