@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-03-13T14:24:13-05:00
+date = 2024-03-18T08:35:00-04:00
 tags = [
     "now",
     "publishing"
@@ -12,18 +12,18 @@ draft = false
 
 # Current goings-on
 
-* Soil has been turned in the backyard garden, with plans to sow seeds next week.
-It's still too early to plant anything that might be damaged by a cold snap though.
-* After thirty-eight years of working for paychecks, I am enjoying doing just what I want to do.
-It's a comfortable life.
-* I've had a few more poems appear out there in the past week, online and in print.
-* We are thinking of just what it is we want to do for our big vacation next year and starting to make some plans.
+* There is a garden now, with 22 cubic feet of new topsoil arranged where once there was only zoysia grass.
+There are lettuce, snap pea, and parsley seeds in the ground now in the early vanguard.
+* One of my poems has been accepted and one put on a shortlist of submissions since my last update on the 13th.
+Meanwhile I have sent out one more batch of five, but expect not to hear back for three months.
+* Last night on Mastodon we watched the 1973 movie **Godmonster of Indian Flats** for #monsterdon and let me tell you that is a wild ride.
+This is not a recommendation.
 
 # Presently reading
 
 * __Atomic Habits__ by James Clear
 * __My Family and Other Animals__ by Gerald Durrell (audiobook)
-* __Kingdom of Olives and Ash__ edited by Michael Chabon and Ayelet Waldman (audiobook)
-* __Wild and Precious: A Celebration of Mary Oliver__ (audiobook)
+* __My Man Jeeves__ by P. G. Wodehouse
+* __Ch&#233;ri__ and __The End of Ch&#233;ri__ by Colette, (audiobook, narrated by Gabrielle de Cuir)
 
-*Last updated at Wed, 13 Mar 2024 14:24:13 -0400*
+*Last updated at Mon, 18 Mar 2024 08:35:00 -0400*
