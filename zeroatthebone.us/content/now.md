@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-03-23T13:42:00-04:00
+date = 2024-03-30T16:10:04-04:00
 tags = [
     "now",
     "publishing"
@@ -12,13 +12,14 @@ draft = false
 
 # Current goings-on
 
-* Today we received some heavy rains in Delaware and found the shower stall off the master bedroom inundated with water.
-When it started to run out onto the tiles we had to get out the shop vacuum to suck up forty or fifty gallons so it wouldn't ruin all our stuff.
-We are awaiting a plumber to come in and assess what is going on
-* We have the entire early spring part of the garden except for some of the herbs, because the local garden centers don't have all the plants I want.
-* I am working on a blog post about how I fill the early stage of my writing pipeline.
-My plan is to get this ready to put up in the next few days.
-* The #monsterdon feature tomorrow evening is [The Werewolf of Washington](https://www.imdb.com/title/tt0070908/?ref_=fn_al_tt_1) which looks pretty lousy, therefore perfect.
+* The flood we had in our bathroom last week was because of a broken sewer pipe, requiring some heavy equipment to dig a trench and splice in a new junction.
+Of course this didn't come inexpensively.
+It will be a few more weeks before the insurance company sorts out how much we might receive from our homeowner's policy for this.
+* While it's still to early to get anything new out of the garden, I've been finding a few chances to forage some wild spring crops around the place.
+* We have plans to go off to view the April 8th solar eclipse at a location along the path of totality.
+I was unable to do this during the eclipse of 2017 so I am excited to be finally be able to experience this.
+* Because of the business about the unexpected home repair and the completely expected Easter activities, my blog post about the writing process is still not out yet.
+I hope I'm going to be able to get this out there before the eclipse preparations take hold.
 
 # Presently reading
 
@@ -26,4 +27,4 @@ My plan is to get this ready to put up in the next few days.
 * __My Man Jeeves__ by P. G. Wodehouse
 * __Ch&#233;ri__ and __The End of Ch&#233;ri__ by Colette, (audiobook, narrated by Gabrielle de Cuir)
 
-*Last updated at Sat, 23 Mar 2024 13:42:36 -0400*
+*Last updated at Sat, 30 Mar 2024 16:10:04 -0400*
