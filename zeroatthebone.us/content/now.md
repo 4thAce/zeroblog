@@ -20,6 +20,8 @@ It will be a few more weeks before the insurance company sorts out how much we m
 I was unable to do this during the eclipse of 2017 so I am excited to be finally be able to experience this.
 * Because of the business about the unexpected home repair and the completely expected Easter activities, my blog post about the writing process is still not out yet.
 I hope I'm going to be able to get this out there before the eclipse preparations take hold.
+* A number of my poems have been published this month.
+I shall update the list by the beginning of April.
 
 # Presently reading
 
