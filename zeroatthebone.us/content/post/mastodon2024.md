@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2024"
-date = 2024-03-01T12:11:56-04:00
+date = 2024-03-31T12:11:56-04:00
 draft = false
 tags = [
   "social",
