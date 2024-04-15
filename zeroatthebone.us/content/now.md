@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-03-30T16:10:04-04:00
+date = 2024-04-15T08:50:04-04:00
 tags = [
     "now",
     "publishing"
@@ -12,21 +12,17 @@ draft = false
 
 # Current goings-on
 
-* The flood we had in our bathroom last week was because of a broken sewer pipe, requiring some heavy equipment to dig a trench and splice in a new junction.
-Of course this didn't come inexpensively.
-It will be a few more weeks before the insurance company sorts out how much we might receive from our homeowner's policy for this.
-* While it's still to early to get anything new out of the garden, I've been finding a few chances to forage some wild spring crops around the place.
-* We have plans to go off to view the April 8th solar eclipse at a location along the path of totality.
-I was unable to do this during the eclipse of 2017 so I am excited to be finally be able to experience this.
-* Because of the business about the unexpected home repair and the completely expected Easter activities, my blog post about the writing process is still not out yet.
-I hope I'm going to be able to get this out there before the eclipse preparations take hold.
-* A number of my poems have been published this month.
-I shall update the list by the beginning of April.
+* We went on a few days' vacation to San Antonio, Texas, partly to view the total solar eclipse, partly to visit a few friends.
+We knew about the likelihood of cloud cover before we went so we kept our expectations in check, yet the experience still managed to surprise us.
+* We have some herbs we are snipping in the garden to have something fresh until the main spring crops mature.
+* My complete [first quarter writing update](post/1q2024) is up on the blog.
+I am still surprised one of these poems from January was recognized with a special award from _[Heliotrope Poetry Magazine](https://heliosparrow.com/wp-content/uploads/2024/04/The-2024-Haiku-Frontier-Awards-FINAL-Apr-4.pdf)_.
+
 
 # Presently reading
 
 * __The Fortress of Solitude__ by Jonathan Lethem (audiobook)
 * __My Man Jeeves__ by P. G. Wodehouse
-* __Ch&#233;ri__ and __The End of Ch&#233;ri__ by Colette, (audiobook, narrated by Gabrielle de Cuir)
+* __Mind Games__ by Robert Masters and Jean Houston
 
-*Last updated at Sat, 30 Mar 2024 16:10:04 -0400*
+*Last updated at Mon, 15 Apr 2024 08:50:27 -0400*
