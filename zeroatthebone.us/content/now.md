@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-04-15T08:50:04-04:00
+date = 2024-04-24T05:27:04-04:00
 tags = [
     "now",
     "publishing"
@@ -12,17 +12,16 @@ draft = false
 
 # Current goings-on
 
-* We went on a few days' vacation to San Antonio, Texas, partly to view the total solar eclipse, partly to visit a few friends.
-We knew about the likelihood of cloud cover before we went so we kept our expectations in check, yet the experience still managed to surprise us.
-* We have some herbs we are snipping in the garden to have something fresh until the main spring crops mature.
-* My complete [first quarter writing update](post/1q2024) is up on the blog.
-I am still surprised one of these poems from January was recognized with a special award from _[Heliotrope Poetry Magazine](https://heliosparrow.com/wp-content/uploads/2024/04/The-2024-Haiku-Frontier-Awards-FINAL-Apr-4.pdf)_.
-
+* This last weekend we had some relatives come visit us so we had our first housewarming, which was very nice.
+* The whole garden is planted for the early spring and summer crops now that we have passed our last frost date.
+I scattered some wildflower seed on the bare patch in front of the house caused by sewer pipe repairs in hopes that it will take off after a period of daily watering.
+* April is looking like it will feature more micropoetry of mine in print than anything else.
+It isn't a matter of what I'm trying to sell but what what is finding traction.
 
 # Presently reading
 
 * __The Fortress of Solitude__ by Jonathan Lethem (audiobook)
 * __My Man Jeeves__ by P. G. Wodehouse
-* __Mind Games__ by Robert Masters and Jean Houston
+* __The Gift__ by Lewis Hyde
 
-*Last updated at Mon, 15 Apr 2024 08:50:27 -0400*
+*Last updated at Wed, 24 Apr 2024 05:28:04 -0400*
