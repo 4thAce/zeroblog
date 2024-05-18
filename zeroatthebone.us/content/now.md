@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-04-30T20:49:04-04:00
+date = 2024-05-16T15:22:04-04:00
 tags = [
     "now",
     "publishing"
@@ -11,15 +11,16 @@ draft = false
 
 # Current goings-on
 
-* The cold weather has pretty much left this area and we've been feeling days of summer-like weather recently.
-Time to rotate the wardrobe, clean things up around the house, and change my daily routine.
-* I've put up a post about the latest batch of micropoetry out there, the start of my second quarter writing summary.
+* We got our car serviced a week ago so that we'll be prepared for the summer driving trips we have planned.
+* There was a car accident at the big intersection near us, which took the life of a twelve-year old boy, who was struck as a pedestrian.
+A memorial to him went up overnight on a lawn at the scene.
+<br clear="all" /><img src="https://milkfish08.s3.amazonaws.com/photo/blog/IMG_1775.jpg" width=800 height=600 alt="A large pile of flowers and toys on the grass" title="Memorial to a child" /><br clear="all" />
 
 # Presently reading
 
-* __Saving Time__ by Jenny Odell (audiobook)
-* __The Fortress of Solitude__ by Jonathan Lethem (audiobook)
+* __Crying in H Mart__ by Michelle Zauner (audiobook)
+* __The English Patient__ by Michael Ondatatje (audiobook)
 * __My Man Jeeves__ by P. G. Wodehouse
 * __The Gift__ by Lewis Hyde
 
-*Last updated at Tue, 30 Apr 2024 20:49:04 -0400*
+*Last updated at Thu, 16 May 2024 15:22:29 -0400*
