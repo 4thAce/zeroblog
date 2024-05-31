@@ -21,7 +21,7 @@ The real fix is to remove the evergreen trees whose roots are infiltrating the l
 
 # Presently reading
 
-* __Thieve's World__ ed. Robert Asprin (audiobook)
+* __Thieves' World__ ed. Robert Asprin (audiobook)
 * __Dual Memory__ by Sue Burke (audiobook)
 * __My Man Jeeves__ by P. G. Wodehouse
 * __The Gift__ by Lewis Hyde
