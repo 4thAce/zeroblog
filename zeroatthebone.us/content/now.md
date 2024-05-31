@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-05-31T13:38:04-04:00
+date = 2024-05-31T14:07:04-04:00
 tags = [
     "now",
     "publishing"
@@ -23,7 +23,6 @@ The real fix is to remove the evergreen trees whose roots are infiltrating the l
 
 * __Thieves' World__ ed. Robert Asprin (audiobook)
 * __Dual Memory__ by Sue Burke (audiobook)
-* __My Man Jeeves__ by P. G. Wodehouse
 * __The Gift__ by Lewis Hyde
 
-*Last updated at Fri, 31 May 2024 13:38:21 -0400*
+*Last updated at Fri, 31 May 2024 14:07:21 -0400*
