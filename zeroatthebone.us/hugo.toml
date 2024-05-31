@@ -49,6 +49,7 @@ publishDir = "../public"
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
+    identifier = "contact"
     url = "/contact/"
   [[menu.main]]
     name = "Now"
