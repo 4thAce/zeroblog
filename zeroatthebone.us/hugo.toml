@@ -58,6 +58,7 @@ publishDir = "../public"
     url = "/now/"
 
 [markup]
+    defaultMarkdownHandler = 'goldmark' 
     [markup.goldmark.renderer]
       unsafe = true
 
