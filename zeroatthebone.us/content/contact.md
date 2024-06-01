@@ -19,5 +19,5 @@ draft = false
 # Social networks (see also the sidebar)
 * <a rel="me" href="https://noc.social/@Zerofactorial">Mastodon</a>
 * Recent [book reviews](https://books.theunseen.city/user/4thace/books)
-* [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
 
+* [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
