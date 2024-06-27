@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-05-31T14:07:04-04:00
+date = 2024-06-27T15:24:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,18 +11,19 @@ draft = false
 
 # Current goings-on
 
-* The problems we had with the drain pipes for the front of the house a month ago recurred, so we had to call in a service to jet the lines clean again.
-The real fix is to remove the evergreen trees whose roots are infiltrating the line, but we will need to replace them with something else to block the traffic noise.
-* The fixes to the plumbing on the other side of the house are now finished, fortunately.
-* We are starting to go out and enjoy the warm season out here.
-<img src="https://pixey.org/storage/m/_v2/515736985118386604/7321b8e85-c3df53/BlJS2Cp814pK/UqX7s4q64wwXPHVgAeBJxPluDSLbngCcAVtaVoss.jpg" alt="Pamela is in the foreground with a crowd and booths behind her" title="At the Riverfront Foodfest in Wilmington Delaware" width=604 height=806 />
-<img src="https://pixey.org/storage/m/_v2/515736985118386604/7321b8e85-c3df53/3x0nJdIWJlc6/gX9W9CTfNV1XGTJecOuhIv7BSKjLe3SvGg9pYijK.jpg" alt="A large white flower against dark green foliage" title="One of many peonies at the Winterthur garden in Wilmington DE" width=608 height=806 />
-<img src="https://pixey.org/storage/m/_v2/515736985118386604/7321b8e85-c3df53/TtPQg7itgTkm/wqK7VdsfMJMb7HNf5loNtr4PUG8gKrvlT6NZbpCF.jpg" alt="Cottontail rabbit on alert sitting on grass" title="Seen during a walk" width=604 height=806 />
+* We went away for about a week to visit a bunch of Pamela's relatives in Vermont.
+It was all by car, a very long drive up the first day to Barre, where we stayed in a hundred-year-old home via AirBnB.
+Coming back home we stopped for one night in the NY Capital District area where we lived in the 1980s, to visit a friend and to see how the area had changed.
+* We returned to Delaware in the middle of a pattern of hot and humid weather over the entire region.
+Our little garden suffered a few losses from the heat wave, but a few of the native plants we have seemed to enjoy the change.
+
 
 # Presently reading
 
 * __Thieves' World__ ed. Robert Asprin (audiobook)
-* __Dual Memory__ by Sue Burke (audiobook)
+* __Wired for Story__ by Lisa Cron (audiobook)
+* __Invisible Cities__ by Italo Calvino
+* __The Impossible Man__ by Patchen Barss
 * __The Gift__ by Lewis Hyde
 
-*Last updated at Fri, 31 May 2024 14:07:21 -0400*
+*Last updated at Thu, 27 June 2024 15:24:52 -0400*
