@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-06-30T16:47:52-04:00
+date = 2024-06-30T18:21:52-04:00
 tags = [
     "now",
     "publishing"
@@ -17,7 +17,7 @@ Coming back home we stopped for one night in the NY Capital District area where 
 * We returned to Delaware in the middle of a pattern of hot and humid weather over the entire region.
 Our little garden suffered a few losses from the heat wave, but a few of the native plants we have seemed to enjoy the change.
 * Writing progress for the first half of the year is now summarized in the [Writing update 2024 (2/4)](../post/2q2024) blog post here.
-
+For the month of June I wrote a total of 18063 words out of 86043 total words on the year so far plus spent 5 hours 58 minutes revising/editing
 
 # Presently reading
 
@@ -26,4 +26,4 @@ Our little garden suffered a few losses from the heat wave, but a few of the nat
 * __Invisible Cities__ by Italo Calvino
 * __The Impossible Man__ by Patchen Barss
 
-*Last updated at Sun, 30 June 2024 16:47:52 -0400*
+*Last updated at Sun, 30 June 2024 18:21:52 -0400*
