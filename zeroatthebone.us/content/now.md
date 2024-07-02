@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-06-27T15:24:52-04:00
+date = 2024-06-30T18:21:52-04:00
 tags = [
     "now",
     "publishing"
@@ -16,14 +16,14 @@ It was all by car, a very long drive up the first day to Barre, where we stayed 
 Coming back home we stopped for one night in the NY Capital District area where we lived in the 1980s, to visit a friend and to see how the area had changed.
 * We returned to Delaware in the middle of a pattern of hot and humid weather over the entire region.
 Our little garden suffered a few losses from the heat wave, but a few of the native plants we have seemed to enjoy the change.
-
+* Writing progress for the first half of the year is now summarized in the [Writing update 2024 (2/4)](../post/2q2024) blog post here.
+For the month of June I wrote a total of 18063 words out of 86043 total words on the year so far plus spent 5 hours 58 minutes revising/editing
 
 # Presently reading
 
-* __Thieves' World__ ed. Robert Asprin (audiobook)
+* __Of the Social contract__ Jean-Jacques Rousseau (audiobook)
 * __Wired for Story__ by Lisa Cron (audiobook)
 * __Invisible Cities__ by Italo Calvino
 * __The Impossible Man__ by Patchen Barss
-* __The Gift__ by Lewis Hyde
 
-*Last updated at Thu, 27 June 2024 15:24:52 -0400*
+*Last updated at Sun, 30 June 2024 18:21:52 -0400*
