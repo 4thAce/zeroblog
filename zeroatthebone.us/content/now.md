@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-07-19T17:08:52-04:00
+date = 2024-07-27T21:23:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,18 +11,16 @@ draft = false
 
 # Current goings-on
 
-* We just emerged from the hottest stretch of weather last week with one day close to 100&deg;F (38&deg;C) with thunderstorm action.
-The pattern has been to have five to seven days of heat until a cool front passes through and temperatures drop for a couple of days, then on to the next hot stretch.
-We do have air conditioning in the house which we run at the height of the day, but have also been going off to cool down at libraries, stores, and malls when we wanted to escape the conditions.
-* We returned to Delaware in the middle of a pattern of hot and humid weather over the entire region.
-Our little garden suffered a few losses from the heat wave, but a few of the native plants we have seemed to enjoy the change.
-* Writing progress is continuing with my individual poetry submissions, but I am also working on getting a couple of collections into print.
+* We were away for about a week by the beach in south Delaware.
+Most of the time was rainy but we had one mostly sunny day when we could enjoy the seashore.
+* It's time to turn over the garden to Fall crops, including taking out the early plants which did not yield well.
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
+* __The Creative Act__ by Rick Rubin (audiobook)
 * __Water Moon__ by Samantha Sotto Yambao
 * __The Three-Body Problem__ by Cixin Liu
 
-*Last updated at Sun, 19 July 2024 17:08:52 -0400*
+*Last updated at Sat, 27 July 2024 21:23:52 -0400*
