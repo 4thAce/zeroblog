@@ -56,7 +56,6 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 ## September 2023
 
-{{< stoot "mastodon.green" "111182596833260041" >}}<hr>
 {{< stoot "mastodon.social" "110991377505473992" >}}<hr>
 {{< stoot "hachyderm.io" "111126987202104964" >}}<hr>
 
