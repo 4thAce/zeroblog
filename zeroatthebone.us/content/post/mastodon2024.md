@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2024"
-date = 2024-06-30T17:02:56-04:00
+date = 2024-07-31T17:41:56-04:00
 draft = false
 tags = [
   "social",
@@ -48,3 +48,11 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot "mastodon.social" "112590330296163479" >}}<hr />
 {{< stoot "mastodon.social" "112626857039453078" >}}<hr />
 {{< stoot "post.lurk.org" "112686733393689685" >}}<hr />
+
+## July 2024
+
+{{< stoot "neuromatch.social" "112748602440969513" >}}<hr />
+{{< stoot "beige.party" "112803026930245432" >}}<hr />
+{{< stoot "kind.social" "112807648821215973" >}}<hr />
+{{< stoot "c.im" "112832276599626970" >}}<hr />
+{{< stoot "mastodon.social" "112836616156673726" >}}<hr />
