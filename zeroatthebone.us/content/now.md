@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-07-27T21:23:52-04:00
+date = 2024-08-06T09:06:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,16 +11,17 @@ draft = false
 
 # Current goings-on
 
-* We were away for about a week by the beach in south Delaware.
-Most of the time was rainy but we had one mostly sunny day when we could enjoy the seashore.
-* It's time to turn over the garden to Fall crops, including taking out the early plants which did not yield well.
+* At the end of this month we'll have been living in Delaware for a year!
+Accordingly, I am starting to get a feeling of what is coming up now, instead of feeling like things are happening for the first time.
+* A bunch of kabocha squash seeds germinated in the compost pile and I decided to let three of them grow, just to see what happens.
+It's nice because these are really the only big, lush-looking plants out there now.
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __The Creative Act__ by Rick Rubin (audiobook)
+* __The Creative Act: A Way of Being__ by Rick Rubin (audiobook)
 * __Water Moon__ by Samantha Sotto Yambao
-* __The Three-Body Problem__ by Cixin Liu
+* __Modern Poetry__ by Diane Seuss
 
-*Last updated at Sat, 27 July 2024 21:23:52 -0400*
+*Last updated at Sat, 06 August 2024 09:06:52 -0400*
