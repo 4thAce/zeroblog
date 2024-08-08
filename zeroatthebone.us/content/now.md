@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-06T09:06:52-04:00
+date = 2024-08-08T06:02:52-04:00
 tags = [
     "now",
     "publishing"
@@ -20,8 +20,7 @@ It's nice because these are really the only big, lush-looking plants out there n
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __The Creative Act: A Way of Being__ by Rick Rubin (audiobook)
+* __Nothing to Fear__ by Julie McFadden, R.N. (audiobook)
 * __Water Moon__ by Samantha Sotto Yambao
-* __Modern Poetry__ by Diane Seuss
 
-*Last updated at Sat, 06 August 2024 09:06:52 -0400*
+*Last updated at Sat, 08 August 2024 06:02:52 -0400*
