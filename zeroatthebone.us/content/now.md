@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-08T06:02:52-04:00
+date = 2024-08-14T18:26:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,16 +11,18 @@ draft = false
 
 # Current goings-on
 
-* At the end of this month we'll have been living in Delaware for a year!
-Accordingly, I am starting to get a feeling of what is coming up now, instead of feeling like things are happening for the first time.
-* A bunch of kabocha squash seeds germinated in the compost pile and I decided to let three of them grow, just to see what happens.
-It's nice because these are really the only big, lush-looking plants out there now.
+* We are enjoying a week's respite from the oppressive heat and humidity right now.
+Taking walks and running errands is quite a bit more manageable without having to feel like we are running a gauntlet.
+* A year ago at this time I was busy arranging for containers to put all our stuff into so they could be shipped out east.
+Life back then and life right now are worlds apart for both of us now, with new daily and weekly routines, new friends to see, new sights to see.
+
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Nothing to Fear__ by Julie McFadden, R.N. (audiobook)
+* __My Year of Rest and Relaxation__ by Ottessa Moshfegh
 * __Water Moon__ by Samantha Sotto Yambao
 
-*Last updated at Sat, 08 August 2024 06:02:52 -0400*
+*Last updated at Sat, 14 August 2024 18:26:52 -0400*
