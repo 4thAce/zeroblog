@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-14T19:56:52-04:00
+date = 2024-08-23T17:54:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,18 +11,18 @@ draft = false
 
 # Current goings-on
 
-* After a tornado touched down [two miles from our place](https://www.cbsnews.com/philadelphia/news/tornado-warning-new-castle-county-delaware-weather/), we are enjoying a nearly a week's respite from the oppressive heat and humidity right now.
-Taking walks and running errands is quite a bit more manageable without having to feel like we are running a gauntlet.
-* A year ago at this time I was busy arranging for containers to put all our stuff into so they could be shipped out east.
-Life back then and life right now are worlds apart for both of us now, with new daily and weekly routines, new friends to see, new sights to see.
-
+* Today marks the one year anniversary of our living in Delaware.
+We are happy the way things turned out.
+* Last weekend we went to the Philadelphia Museum of Art to take in a docent-guided tour of the Mary Cassatt exhibit.
+I learned a lot about the artist and enjoyed the tour (and the luncheon afterwards with my grad school alumni group) very much.
+* We have been watching the Democratic National Convention over the last several days and are struck by the change in mood from the first half of the summer.
+It is as though the party has turned a knob and brought itself back into focus now.
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __Nothing to Fear__ by Julie McFadden, R.N. (audiobook)
-* __My Year of Rest and Relaxation__ by Ottessa Moshfegh
+* __My Year of Rest and Relaxation__ by Ottessa Moshfegh (audiobook)
 * __Water Moon__ by Samantha Sotto Yambao
 
-*Last updated at Sat, 14 August 2024 19:56:52 -0400*
+*Last updated at Friday, 23 August 2024 17:54:52 -0400*
