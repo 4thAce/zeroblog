@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-28T13:28:52-04:00
+date = 2024-08-28T17:18:52-04:00
 tags = [
     "now",
     "publishing"
@@ -22,5 +22,6 @@ The volunteer kabocha squashes that emerged from the compost pile have great big
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Balladz__ by Sharon Olds
+* __Too Much and Never Enough__ by Mary Trump
 
-*Last updated at Wednesday, 28 August 2024 13:28:52 -0400*
+*Last updated at Wednesday, 28 August 2024 17:18:52 -0400*
