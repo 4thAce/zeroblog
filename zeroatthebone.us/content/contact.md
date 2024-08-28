@@ -1,5 +1,5 @@
 +++
-date = "2024-05-18T11:50:34-04:00"
+date = "2024-08-28T13:42:34-04:00"
 title = "Contact"
 sidemenu = "true"
 description = "How to contact me"
@@ -20,3 +20,4 @@ draft = false
 * <a rel="me" href="https://noc.social/@Zerofactorial">Mastodon</a>
 * Recent [book reviews](https://books.theunseen.city/user/4thace/books)
 * [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
+* Letterboxd film [reviews](https://letterboxd.com/anderson_petaQ/films/reviews/)
