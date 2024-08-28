@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-28T13:09:52-04:00
+date = 2024-08-28T13:28:52-04:00
 tags = [
     "now",
     "publishing"
@@ -15,6 +15,7 @@ draft = false
 The kale is still AWOL.
 We are enjoying watching the new morning glory blooms when we get up.
 The volunteer kabocha squashes that emerged from the compost pile have great big flowers and a couple of small fruit.
+* I started revewing movies I have watched at Letterboxd where you can read my reviews [here](https://letterboxd.com/anderson_petaQ/films/reviews/).
 
 # Presently reading
 
@@ -22,4 +23,4 @@ The volunteer kabocha squashes that emerged from the compost pile have great big
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Balladz__ by Sharon Olds
 
-*Last updated at Wednesday, 28 August 2024 13:09:52 -0400*
+*Last updated at Wednesday, 28 August 2024 13:28:52 -0400*
