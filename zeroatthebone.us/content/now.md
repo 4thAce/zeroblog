@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-23T17:54:52-04:00
+date = 2024-08-28T13:28:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,18 +11,16 @@ draft = false
 
 # Current goings-on
 
-* Today marks the one year anniversary of our living in Delaware.
-We are happy the way things turned out.
-* Last weekend we went to the Philadelphia Museum of Art to take in a docent-guided tour of the Mary Cassatt exhibit.
-I learned a lot about the artist and enjoyed the tour (and the luncheon afterwards with my grad school alumni group) very much.
-* We have been watching the Democratic National Convention over the last several days and are struck by the change in mood from the first half of the summer.
-It is as though the party has turned a knob and brought itself back into focus now.
+* The autumn garden is coming along now, with some arugula, pak choi, and spinach in the seedling stage.
+The kale is still AWOL.
+We are enjoying watching the new morning glory blooms when we get up.
+The volunteer kabocha squashes that emerged from the compost pile have great big flowers and a couple of small fruit.
+* I started revewing movies I have watched at Letterboxd where you can read my reviews [here](https://letterboxd.com/anderson_petaQ/films/reviews/).
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __My Year of Rest and Relaxation__ by Ottessa Moshfegh (audiobook)
-* __Water Moon__ by Samantha Sotto Yambao
+* __Balladz__ by Sharon Olds
 
-*Last updated at Friday, 23 August 2024 17:54:52 -0400*
+*Last updated at Wednesday, 28 August 2024 13:28:52 -0400*
