@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-08-28T17:18:52-04:00
+date = 2024-09-04T20:44:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,17 +11,15 @@ draft = false
 
 # Current goings-on
 
-* The autumn garden is coming along now, with some arugula, pak choi, and spinach in the seedling stage.
-The kale is still AWOL.
-We are enjoying watching the new morning glory blooms when we get up.
-The volunteer kabocha squashes that emerged from the compost pile have great big flowers and a couple of small fruit.
-* I started revewing movies I have watched at Letterboxd where you can read my reviews [here](https://letterboxd.com/anderson_petaQ/films/reviews/).
+* Last weekend was a holiday weekend here and it was a busy one here.
+Part of it was unpleasant (car troubles) and part of it quite lovely (a visit to a winery with friends).
+I am reminded that it is just a matter of weeks before we are into autumn, and the daily routine will change from the way it's been the past few months.
+* A link to my Letterboxd account is now on my [Contact page](../contact) in case you want to see what I've been viewing on video.
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __Balladz__ by Sharon Olds
 * __Too Much and Never Enough__ by Mary Trump
 
-*Last updated at Wednesday, 28 August 2024 17:18:52 -0400*
+*Last updated at Wednesday, 4 September 2024 20:44:52 -0400*
