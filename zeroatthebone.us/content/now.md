@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-09-04T20:44:52-04:00
+date = 2024-09-07T18:54:52-04:00
 tags = [
     "now",
     "publishing"
@@ -21,5 +21,6 @@ I am reminded that it is just a matter of weeks before we are into autumn, and t
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Too Much and Never Enough__ by Mary Trump
+* __The Great Gatsby__ by F. Scott Fitzgerald
 
-*Last updated at Wednesday, 4 September 2024 20:44:52 -0400*
+*Last updated at Wednesday, 7 September 2024 18:54:52 -0400*
