@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-09-07T18:54:52-04:00
+date = 2024-09-12T06:13:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,16 +11,21 @@ draft = false
 
 # Current goings-on
 
-* Last weekend was a holiday weekend here and it was a busy one here.
-Part of it was unpleasant (car troubles) and part of it quite lovely (a visit to a winery with friends).
-I am reminded that it is just a matter of weeks before we are into autumn, and the daily routine will change from the way it's been the past few months.
-* A link to my Letterboxd account is now on my [Contact page](../contact) in case you want to see what I've been viewing on video.
+* The pace of activity around our bird feeders and occasional sightings in the neighborhood of white-tailed deer tell me that autumn is soon to be here.
+I'll be happy to not have to cut the lawn every two weeks in a few months, instead switching over to raking up all the leaves from the neighbor's properties.
+It will be a long several months before we have this many flowers outdoors.
+* In a couple days it will have been an entire year of retirement for me.
+I do not miss my most recent job too much, but sometimes think about previous workplaces with mixed emotions.
+The key thing is that we're still solvent now without employment.
+It's as though we did okay with all that planning we did, not taking too many big risks or too few overall.
+* I have been working on a prose project for the last couple of years and am now reaching the end of the first phase.
+It isn't much like any other thing I've read and I'm still making up my mind wheether I like the way it is.
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __Too Much and Never Enough__ by Mary Trump
+* __Wuthering Heights__ by Emily Bront&euml;
 * __The Great Gatsby__ by F. Scott Fitzgerald
 
-*Last updated at Wednesday, 7 September 2024 18:54:52 -0400*
+*Last updated at Wednesday, 12 September 2024 06:13:52 -0400*
