@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-09-12T06:13:52-04:00
+date = 2024-09-17T17:10:52-04:00
 tags = [
     "now",
     "publishing"
@@ -11,13 +11,10 @@ draft = false
 
 # Current goings-on
 
-* The pace of activity around our bird feeders and occasional sightings in the neighborhood of white-tailed deer tell me that autumn is soon to be here.
-I'll be happy to not have to cut the lawn every two weeks in a few months, instead switching over to raking up all the leaves from the neighbor's properties.
-It will be a long several months before we have this many flowers outdoors.
-* In a couple days it will have been an entire year of retirement for me.
-I do not miss my most recent job too much, but sometimes think about previous workplaces with mixed emotions.
-The key thing is that we're still solvent now without employment.
-It's as though we did okay with all that planning we did, not taking too many big risks or too few overall.
+* Next week we'll be resuming weekly choir practice at our church and will begin singing at Mass starting in October.
+I am really looking forward to seeing my choir friends and hope we'll be seeing some new people too.
+We had only three men singing last year and could accommodate a few more to come up with a better sound, I think.
+I took a look at some of the new music we'll be doing and appreciate some of the challenges we're going to take on to them justice.
 * I have been working on a prose project for the last couple of years and am now reaching the end of the first phase.
 It isn't much like any other thing I've read and I'm still making up my mind wheether I like the way it is.
 
@@ -25,7 +22,8 @@ It isn't much like any other thing I've read and I'm still making up my mind whe
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
-* __Wuthering Heights__ by Emily Bront&euml;
+* __Wuthering Heights__ by Emily Bront&euml; (audiobook)
+* __The Southern Book Club's Guide to Slaying Vampires__ by Grady Hendrix
 * __The Great Gatsby__ by F. Scott Fitzgerald
 
-*Last updated at Wednesday, 12 September 2024 06:13:52 -0400*
+*Last updated at Wednesday, 17 September 2024 17:10:52 -0400*
