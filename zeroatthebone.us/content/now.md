@@ -11,6 +11,8 @@ draft = false
 
 # Current goings-on
 
+<div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/20240920_152618.jpg" height=510 width=382 alt="Row of evergeen trees at the edge of a road" title="Junipers and arborvitae" /></div><br clear="all" />
+
 * We had eleven tall arborvitae trees in our front yard which were causing trouble with our sewer line, more than once, so we finally had them pulled up.
 The arborist told us it was odd because this isn't a species with a deep taproot, but it seems like the pipes under the nearby curb were old and shallow as well.
 I was afraid that there would be a big increase in road noise in the house without the trees shielding us from this busy road, but so far at this time of year, it isn't that noticeable.
