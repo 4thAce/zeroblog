@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-09-26T12:27:27-04:00
+date = 2024-09-29T20:52:27-04:00
 tags = [
     "now",
     "publishing"
@@ -21,6 +21,6 @@ draft = false
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
-* __The Southern Book Club's Guide to Slaying Vampires__ by Grady Hendrix
+* __Intermezzo__ by Sally Rooney
 
-*Last updated at Wednesday, 26 September 2024 12:27:52 -0400*
+*Last updated at Sunday, 29 September 2024 20:52:52 -0400*
