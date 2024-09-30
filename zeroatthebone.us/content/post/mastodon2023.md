@@ -20,7 +20,6 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 {{< stoot instance="dice.camp" id="109614970073892369" >}}<hr>
 {{< stoot instance="fosstodon.org" id="109657162946819748" >}}<hr>
 {{< stoot instance="smores.town" id="109751449029104617" >}}<hr>
-{{< stoot instance="tilde.zone" id="109783774660604075" >}}
 
 ## February 2023
 
