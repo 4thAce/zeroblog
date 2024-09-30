@@ -7,7 +7,7 @@
 {{ $votesCount := 0 }}
 {{ $id := .Get 1 }}
 {{ $urlToGet := print "https://" $masIns "/api/v1/statuses/" $id }}
-{{ $json := getJSON $urlToGet }}
+{{ $json := resources.GetRemote $urlToGet | transform.Unmarshal }}
 {{ $jsonHolder := $json }}{{/* Being safe */}}
 
 {{ if isset $json "account" }}
