@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-09-29T20:52:27-04:00
+date = 2024-10-01T06:38:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,8 +13,11 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* 
-* 
+* We have been in a sort of drought this last month, with only about a quarter the amount of precipitation as the average.
+I have been spending the last ten days making the wild flowers I set over the bare soil left by the tree removal were watered three times a day.
+They have just begun to sprout so I'm hoping they will help hold the spoil this winter.
+* My most recent month of publications is longer than usual this month not from an excessive amount of work on my part but just a fluctuation in the results.
+As far as I can tell this month will probably go back to the ordinary level.
 
 # Presently reading
 
@@ -23,4 +26,4 @@ draft = false
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Intermezzo__ by Sally Rooney
 
-*Last updated at Sunday, 29 September 2024 20:52:52 -0400*
+*Last updated at Sunday, 1 October 2024 06:38:52 -0400*

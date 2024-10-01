@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2024"
-date = 2024-09-03T15:40:56-04:00
+date = 2024-10-01T06:45:56-04:00
 draft = false
 tags = [
   "social",
@@ -62,3 +62,7 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot instance="neuromatch.social" id="112986621151365373" >}}<hr />
 
 ## September 2024
+
+{{< stoot instance="infosec.exchange" id="113100297264256852" >}}<hr />
+{{< stoot instance="mastodon.social" id="113182758247218103" >}}<hr />
+{{< stoot instance="coales.co" id="113206794640414645" >}}<hr />
