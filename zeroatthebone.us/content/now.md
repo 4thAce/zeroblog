@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-09-29T20:52:27-04:00
+date = 2024-10-01T06:38:27-04:00
 tags = [
     "now",
     "publishing"
@@ -11,15 +11,13 @@ draft = false
 
 # Current goings-on
 
-<div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/20240920_152618.jpg" height=510 width=382 alt="Row of evergeen trees at the edge of a road" title="Junipers and arborvitae" /></div><br clear="all" />
+<div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* We had eleven tall arborvitae trees in our front yard which were causing trouble with our sewer line, more than once, so we finally had them pulled up.
-The arborist told us it was odd because this isn't a species with a deep taproot, but it seems like the pipes under the nearby curb were old and shallow as well.
-I was afraid that there would be a big increase in road noise in the house without the trees shielding us from this busy road, but so far at this time of year, it isn't that noticeable.
-Now I'm trying to get some flowers to grow in the disturbed soil so we don't have bare mud all winter.
-* If everything goes smoothly we expect to be welcoming two new kids into the family around February next year.
-These are to be our grand-nieces or -nephews, one on each side of the family (and each side of the country).
-Baby showers are coming soon.
+* We have been in a sort of drought this last month, with only about a quarter the amount of precipitation as the average.
+I have been spending the last ten days making the wild flowers I set over the bare soil left by the tree removal were watered three times a day.
+They have just begun to sprout so I'm hoping they will help hold the spoil this winter.
+* My most recent month of publications is longer than usual this month not from an excessive amount of work on my part but just a fluctuation in the results.
+As far as I can tell this month will probably go back to the ordinary level.
 
 # Presently reading
 
@@ -28,4 +26,4 @@ Baby showers are coming soon.
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Intermezzo__ by Sally Rooney
 
-*Last updated at Sunday, 29 September 2024 20:52:52 -0400*
+*Last updated at Sunday, 1 October 2024 06:38:52 -0400*

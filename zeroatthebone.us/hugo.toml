@@ -6,11 +6,13 @@ theme = "blackburn"
 author = "Richard Magahiz"
 copyright = "&copy; 2016 -- 2024. All rights reserved."
 canonifyurls = true
-paginate = 10
 contentDir = "content"
 layoutDir = "layouts"
 publishDir = "../public"
 
+[pagination]
+  pagerSize = 10
+  
 [indexes]
   tag = "tags"
   topic = "topics"

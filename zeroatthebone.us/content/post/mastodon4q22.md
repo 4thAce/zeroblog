@@ -20,23 +20,23 @@ I've been on the platform for a number of years, but have been following the cro
 
 ---
 ## January
-{{< stoot "mastodon.juggler.jp" "107642672855043164" >}}
+{{< stoot instance="mastodon.juggler.jp" id="107642672855043164" >}}
 
 ---
 ## February
-{{< stoot "kvlt.zone" "107803023020746957" >}}
+{{< stoot instance="kvlt.zone" id="107803023020746957" >}}
 
 ---
 ## April
-{{< stoot "mastodon.art" "108152038613854616" >}}
+{{< stoot instance="mastodon.art" id="108152038613854616" >}}
 
 ---
 ## May
-{{< stoot "botsin.space" "108339613986260223" >}}<hr>
+{{< stoot instance="botsin.space" id="108339613986260223" >}}<hr>
 
 ---
 ## November
-{{< stoot "friend.camp" "109275534407410130" >}}<hr>
-{{< stoot "noc.social" "109427707165843096" >}}
+{{< stoot instance="friend.camp" id="109275534407410130" >}}<hr>
+{{< stoot instance="noc.social" id="109427707165843096" >}}
 
 
