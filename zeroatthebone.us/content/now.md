@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-10-01T06:38:27-04:00
+date = 2024-10-01T09:14:27-04:00
 tags = [
     "now",
     "publishing"
@@ -18,6 +18,9 @@ I have been spending the last ten days making the wild flowers I set over the ba
 They have just begun to sprout so I'm hoping they will help hold the spoil this winter.
 * My most recent month of publications is longer than usual this month not from an excessive amount of work on my part but just a fluctuation in the results.
 As far as I can tell this month will probably go back to the ordinary level.
+* I put on a new set of strings on my violin and it sounds so much better, exceeding my expectations.
+I have no idea how old the previous set was, because it came with the instrument itself, which had been languishing in a closet for a very long time.
+The new strings are much less prone to squeal, and have a nice singing tone I didn't think possible coming from an instrument without a pedigree.
 
 # Presently reading
 
@@ -25,5 +28,6 @@ As far as I can tell this month will probably go back to the ordinary level.
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Intermezzo__ by Sally Rooney
+* __A Night in the Lonesome October__ by Roger Zelazny
 
-*Last updated at Sunday, 1 October 2024 06:38:52 -0400*
+*Last updated at Sunday, 1 October 2024 09:14:52 -0400*
