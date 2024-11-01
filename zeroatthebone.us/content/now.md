@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-10-01T09:14:27-04:00
+date = 2024-10-31T20:26:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,21 +13,19 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* We have been in a sort of drought this last month, with only about a quarter the amount of precipitation as the average.
-I have been spending the last ten days making the wild flowers I set over the bare soil left by the tree removal were watered three times a day.
-They have just begun to sprout so I'm hoping they will help hold the spoil this winter.
-* My most recent month of publications is longer than usual this month not from an excessive amount of work on my part but just a fluctuation in the results.
-As far as I can tell this month will probably go back to the ordinary level.
-* I put on a new set of strings on my violin and it sounds so much better, exceeding my expectations.
-I have no idea how old the previous set was, because it came with the instrument itself, which had been languishing in a closet for a very long time.
-The new strings are much less prone to squeal, and have a nice singing tone I didn't think possible coming from an instrument without a pedigree.
+* People are getting mighty concerned about the continuing drought, which has broken all records now.
+After we pulled the trees in front of the house, I've been continuing to water the ground cover in that area every other day, and the little seedlings are doing pretty well.
+* I have another set of publications for the last month up on the blog now.
+I am expecting another group over the next two months I'm eager to have people read.
+* Our church choir has sung at three Masses now and we have been getting nice comments from people in the assembly.
+We are already starting to work on some hymns for the Christmas season, starting to get familiarized with them.
+It's all still a work in progress, but it is also just good to sing something new together.
 
 # Presently reading
 
 * __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
 * __Fault Tolerance__ by Valerie Valdes (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
-* __Intermezzo__ by Sally Rooney
-* __A Night in the Lonesome October__ by Roger Zelazny
+* __Heaven and Hell__ by Bart Ehrman
 
-*Last updated at Sunday, 1 October 2024 09:14:52 -0400*
+*Last updated at Thursday, 31 October 2024 20:26:52 -0400*
