@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-10-31T20:26:27-04:00
+date = 2024-11-01T06:31:27-04:00
 tags = [
     "now",
     "publishing"
@@ -23,9 +23,9 @@ It's all still a work in progress, but it is also just good to sing something ne
 
 # Presently reading
 
-* __Of the Social Contract__ Jean-Jacques Rousseau (audiobook)
-* __Fault Tolerance__ by Valerie Valdes (audiobook)
+* __Range of Ghosts__ by Elizabeth Bear (audiobook)
+* __Wanderlust__ by Rebecca Solnit (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Heaven and Hell__ by Bart Ehrman
 
-*Last updated at Thursday, 31 October 2024 20:26:52 -0400*
+*Last updated at Thursday, 1 November 2024 06:37:52 -0400*
