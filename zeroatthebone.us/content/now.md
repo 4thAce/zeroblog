@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-11-01T06:31:27-04:00
+date = 2024-11-17T05:38:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,19 +13,19 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* People are getting mighty concerned about the continuing drought, which has broken all records now.
-After we pulled the trees in front of the house, I've been continuing to water the ground cover in that area every other day, and the little seedlings are doing pretty well.
-* I have another set of publications for the last month up on the blog now.
-I am expecting another group over the next two months I'm eager to have people read.
-* Our church choir has sung at three Masses now and we have been getting nice comments from people in the assembly.
-We are already starting to work on some hymns for the Christmas season, starting to get familiarized with them.
-It's all still a work in progress, but it is also just good to sing something new together.
+* I am leaning into music and writing mostly now, trying to finish out the year strong.
+These feel like such fleeting experiences, but I have not found anything that gives the same kind of satisfaction in the moment.
+They both take solitary effort beforehand, the kind that can seem like it's not yielding results, but the work leaves a mark in you that makes a difference.
+* This year's gardening is done with, and I'm starting to plan what will happen starting next year.
+I learned some lessons about the long hot summer and the dry spell afterwards and with luck will be better prepared then.
+* We aren't planning to travel far for the Thanksgiving holiday but do plan to see some family.
+Christmas is already all over the stores so it will be time to put up a few decorations as usual.
 
 # Presently reading
 
-* __Range of Ghosts__ by Elizabeth Bear (audiobook)
+* __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
 * __Wanderlust__ by Rebecca Solnit (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Heaven and Hell__ by Bart Ehrman
 
-*Last updated at Thursday, 1 November 2024 06:37:52 -0400*
+*Last updated at Sunday, 17 November 2024 06:08:52 -0400*
