@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-11-25T05:33:27-04:00
+date = 2024-11-27T17:54:27-04:00
 tags = [
     "now",
     "publishing"
@@ -15,14 +15,12 @@ draft = false
 
 * I put up a new article about my last year of poetry publication on Medium: [I'm still getting rejections, hooray!](https://medium.com/@rmagahiz/im-still-getting-rejections-hooray-26c9487b0d08)
 It is an update to a story I did three years ago with more analysis how this writing journey is going.
-* It took months, but the drought in our area is finally broken.
-The leaves are off the trees, the nights are chilly, and I've put the garden to bed.
 
 # Presently reading
 
 * __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
-* __Wanderlust__ by Rebecca Solnit (audiobook)
+* __They Knew__ by Sarah Kendzior (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Heaven and Hell__ by Bart Ehrman
 
-*Last updated at Monday, 25 November 2024 05:33:52 -0400*
+*Last updated at Wednesday, 27 November 2024 17:54:52 -0400*
