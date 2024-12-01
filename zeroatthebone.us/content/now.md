@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-11-27T17:54:27-04:00
+date = 2024-12-01T06:11:27-04:00
 tags = [
     "now",
     "publishing"
@@ -18,7 +18,7 @@ It is an update to a story I did three years ago with more analysis how this wri
 
 # Presently reading
 
-* __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
+* __Cherished Belonging__ by Gregory Boyle (audiobook)
 * __They Knew__ by Sarah Kendzior (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Heaven and Hell__ by Bart Ehrman
