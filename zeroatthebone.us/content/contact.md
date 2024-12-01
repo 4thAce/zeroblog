@@ -1,5 +1,5 @@
 +++
-date = "2024-11-17T15:41:34-04:00"
+date = "2024-12-01T15:15:34-04:00"
 title = "Contact"
 sidemenu = "true"
 description = "How to contact me"
@@ -21,6 +21,7 @@ draft = false
 * Recent [book reviews](https://books.theunseen.city/user/4thace/books)
 * [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
 * Letterboxd film [reviews](https://letterboxd.com/anderson_petaQ/films/reviews/)
+* Throw a little money in my direction at [Ko-Fi](https://ko-fi.com/richmagahiz)
 
 <hr />
 

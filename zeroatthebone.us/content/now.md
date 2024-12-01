@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-12-01T06:11:27-04:00
+date = 2024-12-01T15:16:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,8 +13,10 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I put up a new article about my last year of poetry publication on Medium: [I'm still getting rejections, hooray!](https://medium.com/@rmagahiz/im-still-getting-rejections-hooray-26c9487b0d08)
-It is an update to a story I did three years ago with more analysis how this writing journey is going.
+* On my [contact page](./contact) I put up a form so you can send me a message whch I will get the next time I log in to the [Netlify account](https://app.netlify.com/) I use to host this blog.
+Use this if you would like to get in touch with me privately and don't already have my email address.
+* On that same page you will find links to me on [Medium](https://rmagahiz.medium.com/) and [Everything2](https://www.everything2.com/user/milkfish)
+Lately I've become more active on both of those locations wth some stuff I've wanted to share.
 
 # Presently reading
 
@@ -23,4 +25,4 @@ It is an update to a story I did three years ago with more analysis how this wri
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Heaven and Hell__ by Bart Ehrman
 
-*Last updated at Wednesday, 27 November 2024 17:54:52 -0400*
+*Last updated at Wednesday, 1 December 2024 15:16:52 -0400*
