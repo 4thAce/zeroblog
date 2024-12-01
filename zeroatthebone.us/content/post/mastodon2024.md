@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2024"
-date = 2024-10-31T16:32:56-04:00
+date = 2024-12-01T06:02:21-04:00
 draft = false
 tags = [
   "social",
@@ -75,7 +75,18 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot instance="mstdn.ca" id="113379351104637721" >}}<hr />
 {{< stoot instance="mastodon.online" id="113397256948996785" >}}<hr />
 
-<!-- ## November 2024 -->
+## November 2024 
 
+{{< stoot instance="mstdn.social" id="113427271515155954" >}}<hr />
+{{< stoot instance="masto.ai" id="113445086198804023" >}}<hr />
+{{< stoot instance="hcommons.social" id="113455652567152155" >}}<hr />
+{{< stoot instance="sakurajima.moe" id="113467843807255677" >}}<hr />
+{{< stoot instance="infosec.exchange" id="113479253413559728" >}}<hr />
+{{< stoot instance="mathstodon.xyz" id="113510985272139947" >}}<hr />
+{{< stoot instance="indieauthors.social" id="113512141116871490" >}}<hr />
+{{< stoot instance="birdbutt.com" id="113545601476213123" >}}<hr />
+{{< stoot instance="mstdn.social" id="113560698342751705" >}}<hr />
+{{< stoot instance="mastodon.social" id="113563280258081302" >}}<hr />
+{{< stoot instance="socel.net" id="113566863454677758" >}}<hr />
 
 <!-- ## December 2024 -->
