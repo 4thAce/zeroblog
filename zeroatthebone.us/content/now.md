@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-12-01T06:11:27-04:00
+date = 2024-12-09T09:49:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,14 +13,17 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I put up a new article about my last year of poetry publication on Medium: [I'm still getting rejections, hooray!](https://medium.com/@rmagahiz/im-still-getting-rejections-hooray-26c9487b0d08)
-It is an update to a story I did three years ago with more analysis how this writing journey is going.
+* December is a busy month for music.
+Our church choir does not put on a Christmas recital, but we do have new hymns to learn and more times where we sing them in a service.
+I am also going to be leading the congregation in song at more Masses all the way up till New Year's Eve.
+The nice thing is that all this activity takes me in the opposite direction from the heavy commercialism that increases every year.
+* We will be having a mostly quiet time for the holiday season, having gone to one Christmas party thrown by friends and preparing for a few day's get-togethers with my wife's family just before Christmas.
 
 # Presently reading
 
 * __Cherished Belonging__ by Gregory Boyle (audiobook)
 * __They Knew__ by Sarah Kendzior (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
-* __Heaven and Hell__ by Bart Ehrman
+* __Those Who Leave and Those Who Stay__ by Elena Ferrante
 
-*Last updated at Wednesday, 27 November 2024 17:54:52 -0400*
+*Last updated at Monday, 9 December 2024 09:49:52 -0400*
