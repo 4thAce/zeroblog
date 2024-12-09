@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-12-01T15:16:27-04:00
+date = 2024-12-09T09:49:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,16 +13,17 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* On my [contact page](./contact) I put up a form so you can send me a message whch I will get the next time I log in to the [Netlify account](https://app.netlify.com/) I use to host this blog.
-Use this if you would like to get in touch with me privately and don't already have my email address.
-* On that same page you will find links to me on [Medium](https://rmagahiz.medium.com/) and [Everything2](https://www.everything2.com/user/milkfish)
-Lately I've become more active on both of those locations wth some stuff I've wanted to share.
+* December is a busy month for music.
+Our church choir does not put on a Christmas recital, but we do have new hymns to learn and more times where we sing them in a service.
+I am also going to be leading the congregation in song at more Masses all the way up till New Year's Eve.
+The nice thing is that all this activity takes me in the opposite direction from the heavy commercialism that increases every year.
+* We will be having a mostly quiet time for the holiday season, having gone to one Christmas party thrown by friends and preparing for a few day's get-togethers with my wife's family just before Christmas.
 
 # Presently reading
 
 * __Cherished Belonging__ by Gregory Boyle (audiobook)
 * __They Knew__ by Sarah Kendzior (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
-* __Heaven and Hell__ by Bart Ehrman
+* __Those Who Leave and Those Who Stay__ by Elena Ferrante
 
-*Last updated at Wednesday, 1 December 2024 15:16:52 -0400*
+*Last updated at Monday, 9 December 2024 09:49:52 -0400*
