@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-12-09T09:49:27-04:00
+date = 2024-12-13T21:07:27-04:00
 tags = [
     "now",
     "publishing"
@@ -25,5 +25,6 @@ The nice thing is that all this activity takes me in the opposite direction from
 * __They Knew__ by Sarah Kendzior (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Those Who Leave and Those Who Stay__ by Elena Ferrante
+* __A Field Guide to Awkward Silences__ by Alexandra Petry
 
-*Last updated at Monday, 9 December 2024 09:49:52 -0400*
+*Last updated at Friday, 13 December 2024 21:07:52 -0400*
