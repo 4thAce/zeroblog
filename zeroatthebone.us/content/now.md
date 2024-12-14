@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-12-13T21:07:27-04:00
+date = 2024-12-14T12:48:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,11 +13,9 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* December is a busy month for music.
-Our church choir does not put on a Christmas recital, but we do have new hymns to learn and more times where we sing them in a service.
-I am also going to be leading the congregation in song at more Masses all the way up till New Year's Eve.
-The nice thing is that all this activity takes me in the opposite direction from the heavy commercialism that increases every year.
-* We will be having a mostly quiet time for the holiday season, having gone to one Christmas party thrown by friends and preparing for a few day's get-togethers with my wife's family just before Christmas.
+* I started putting up some blog posts on Substack, starting with a piece on [disposable rough drafts](https://substack.com/home/post/p-153065067).
+The idea is to pick out some pieces of my writing and publishing workflow to see if these appeal to other writers.
+I think this topic is one of the most popular ones on both Medium and Substack.
 
 # Presently reading
 
@@ -25,6 +23,6 @@ The nice thing is that all this activity takes me in the opposite direction from
 * __They Knew__ by Sarah Kendzior (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Those Who Leave and Those Who Stay__ by Elena Ferrante
-* __A Field Guide to Awkward Silences__ by Alexandra Petry
+* __A Field Guide to Awkward Silences__ by Alexandra Petri
 
-*Last updated at Friday, 13 December 2024 21:07:52 -0400*
+*Last updated at Saturday, 14 December 2024 12:48:52 -0400*
