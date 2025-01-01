@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2024"
-date = 2024-12-01T06:02:21-04:00
+date = 2025-01-01T16:07:21-04:00
 draft = false
 tags = [
   "social",
@@ -89,4 +89,9 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot instance="mastodon.social" id="113563280258081302" >}}<hr />
 {{< stoot instance="socel.net" id="113566863454677758" >}}<hr />
 
-<!-- ## December 2024 -->
+## December 2024
+
+{{<stoot instance="mastodon.social" id="113600069171794655" >}}<hr />
+{{<stoot instance="romancelandia.club" id="113601833982031605" >}}<hr />
+{{<stoot instance="mastodon.online" id="113691789641950263" >}}<hr />
+{{<stoot instance="mathstodon.xyz" id="113692139860729882" >}}<hr />

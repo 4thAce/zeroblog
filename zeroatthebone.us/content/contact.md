@@ -1,5 +1,5 @@
 +++
-date = "2024-12-01T15:15:34-04:00"
+date = "2025-01-01T16:26:34-04:00"
 title = "Contact"
 sidemenu = "true"
 description = "How to contact me"
@@ -8,6 +8,7 @@ draft = false
 
 # Writing
 
+* [Substack](https://substack.com/@richmagahiz)
 * [Medium](https://rmagahiz.medium.com/)
 * [Everything2](https://www.everything2.com/user/milkfish)
 
