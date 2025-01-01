@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2024-12-27T20:20:27-04:00
+date = 2025-01-01T10:43:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,12 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I put up [a post on Substack](https://substack.com/home/post/p-153672536) for writers who are interested in boosting their commitment to writing by publicizing their progress statistics on social media.
-I found this technique helpful and hopeit can be useful to others.
-* In a few hours I will be part of the Midnight Mass choir at church.
-It will be like a regular service but with a half hour of instrumental and choral hymns beforehand.
-This weekend we will be reprising that program of hymns at the other church in our parish, and then that will cover what we've been spending the last few months practicing.
-All in all, though, Christmas is lot less work as the lead-in to Easter when it comes to the time commitment in church and at practice.
+* In 2024 I wrote a total of 193328 words plus spent 3 days 21 hours 53 minutes revising/editing
+My mix of activities is changing so I don't intend to focus on these stats over the new year.
+But I do intend to write something every day and to keep working to get my pieces out there.
+* A few days ago, I happened to find out about the sudden death of a friend of mine.
+He and I used to work in a team together about five years ago before moving on to a couple of other jobs since.
+I didn't keep in close touch with him, but kept an eye on what he was up to on Mastodon.
+That is where I saw a note by his wife saying that he passed away without warning and without suffering.
+I added my words of condolence to his family to those of many others he knew, telling them how good a person he was.
 
 # Presently reading
 
@@ -27,4 +29,4 @@ All in all, though, Christmas is lot less work as the lead-in to Easter when it 
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Those Who Leave and Those Who Stay__ by Elena Ferrante
 
-*Last updated at Friday, 27 December 2024 20:20:52 -0400*
+*Last updated at Wednesday, 1 January 2025 10:43:52 -0400*
