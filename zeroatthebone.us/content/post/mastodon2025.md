@@ -10,7 +10,7 @@ topics = [
   "links"
 ]
 description = "Favorites from Mastodon 2025"
-draft = false
+draft = true
 +++
 
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/3200885535_a83e4e29f3_k.jpg" width="597" height="400" alt="Abstract picture showing incoherent patches against a set of dark grids"
