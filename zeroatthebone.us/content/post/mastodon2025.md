@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-01-31T20:03:29-05:00
+date = 2025-02-01T06:59:29-05:00
 
 tags = [
   "social",
@@ -10,7 +10,7 @@ topics = [
   "links"
 ]
 description = "Favorites from Mastodon 2025"
-draft = true
+draft = false
 +++
 
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/3200885535_a83e4e29f3_k.jpg" width="597" height="400" alt="Abstract picture showing incoherent patches against a set of dark grids"
