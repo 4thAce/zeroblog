@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-01-18T10:25:27-04:00
+date = 2025-01-31T19:55:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,7 +13,8 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I put up a post about my experience doing [automatic writing](https://open.substack.com/pub/richmagahiz/p/turning-off-the-rational-mind?r=gnwin&showWelcomeOnShare=true) for over ten years, an indispensable part of my writing workflow.
+* On Substack I posted something about how I replaced my old phone with another one with [better security and privacy](https://richmagahiz.substack.com/p/de-billionairizing-my-phone?r=gnwin).
+The idea was to keep the apps from getting to cozy with one another and sharing data without my permission among one another and with the phone's hardware.
 
 # Presently reading
 
@@ -22,4 +23,4 @@ draft = false
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Those Who Leave and Those Who Stay__ by Elena Ferrante
 
-*Last updated at Saturdday, 18 January 2025 10:25:52 -0400*
+*Last updated at Friday, 31 January 2025 19:55:52 -0400*
