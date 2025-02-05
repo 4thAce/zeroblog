@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-01-31T19:55:27-04:00
+date = 2025-02-05T16:25:27-04:00
 tags = [
     "now",
     "publishing"
@@ -19,8 +19,9 @@ The idea was to keep the apps from getting to cozy with one another and sharing 
 # Presently reading
 
 * __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
-* __They Knew__ by Sarah Kendzior (audiobook)
+* __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
 * __Those Who Leave and Those Who Stay__ by Elena Ferrante
+* __On Tyranny__ by Timothy Snyder (audiobook)
 
-*Last updated at Friday, 31 January 2025 19:55:52 -0400*
+*Last updated at Wednesday, 5 February 2025 16:25:52 -0400*
