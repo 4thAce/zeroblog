@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-02-12T12:16:27-04:00
+date = 2025-02-12T17:27:27-04:00
 tags = [
     "now",
     "publishing"
@@ -21,5 +21,6 @@ I talk about how my first attepnt to keep this in order did not work for me, and
 * __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
 * __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
+* __Then There Were Five__ by Elizabeth Enright 
 
-*Last updated at Wednesday, 12 February 2025 12:16:52 -0400*
+*Last updated at Wednesday, 12 February 2025 17:27:52 -0400*
