@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-02-07T18:38:27-04:00
+date = 2025-02-12T12:11:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,14 +13,13 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* On Substack I posted something about how I replaced my old phone with another one with [better security and privacy](https://richmagahiz.substack.com/p/de-billionairizing-my-phone?r=gnwin).
-The idea was to keep the apps from getting to cozy with one another and sharing data without my permission among one another and with the phone's hardware.
+* I have another Substack post [No two pairs of eyeballs alike](https://open.substack.com/pub/richmagahiz/p/no-two-pairs-of-eyeballs-alike?r=gnwin&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) about the trouble I had when I was starting out writing seriously managing multiple journals which were soliciting work.
+I talk about how my first attepnt to keep this in order did not work for me, and tell what solutions I chose to use instead.
 
 # Presently reading
 
 * __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
 * __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
-* __On Tyranny__ by Timothy Snyder (audiobook)
 
-*Last updated at Friday, 7 February 2025 18:38:52 -0400*
+*Last updated at Wednesday, 12 February 2025 12:11:52 -0400*
