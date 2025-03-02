@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-02-01T06:59:29-05:00
+date = 2025-03-01T20:40:29-05:00
 
 tags = [
   "social",
@@ -23,7 +23,11 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 {{< stoot instance="infosec.exchange" id="113878581801173595" >}}<hr />
 {{< stoot instance="mastodon.cloud" id="113913551584778031" >}}<hr />
 
-<!-- ## February 2025 -->
+## February 2025
+
+{{< stoot instance="mstdn.social" id="114014440688456270" >}}<hr />
+{{< stoot instance="noc.social" id="114050169144828948" >}}<hr />
+{{< stoot instance="mastodon.social" id="114082482479800234" >}}<hr />
 
 <!-- ## March 2025 -->
 
