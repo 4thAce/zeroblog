@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-02-12T17:27:27-04:00
+date = 2025-03-01T19:10:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,14 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I have another Substack post ["No two pairs of eyeballs alike"](https://open.substack.com/pub/richmagahiz/p/no-two-pairs-of-eyeballs-alike?r=gnwin&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) about the trouble I had when I was starting out writing seriously managing multiple journals which were soliciting work.
-I talk about how my first attepnt to keep this in order did not work for me, and tell what solutions I chose to use instead.
+* In 2024 I had a number of speculative, science fiction, and fantasy poems published which are eligible for the [special Hugo Award](https://seattlein2025.org/wsfs/hugo-awards/hugo-awards-information/) at Seattle Worldcon 2025.
+For the convenience of nominators, my eligible works are listed on this blog in updates for each calendar quarter ([1](https://zeroatthebone.us/post/1q2024/), [2](https://zeroatthebone.us/post/1q2024/), [3](https://zeroatthebone.us/post/3q2024/), and [4](https://zeroatthebone.us/post/4q2024/)) by a special icon <img src="https://milkfish08.s3.amazonaws.com/photo/blog/award_star_gold_1.png" width=16 height=16 title="gold star" /> in the listing.
 
 # Presently reading
 
-* __The Warmth of Other Suns__ by Isabel Wilkerson (audiobook)
+* __The Jesuit Guide to (Almost) Everything__ by James Martin, SJ
 * __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __Wuthering Heights__ by Emily Bront&euml; (audiobook)
-* __Then There Were Five__ by Elizabeth Enright 
+* __Consider Phlebas__ by Iain M. Banks
 
-*Last updated at Wednesday, 12 February 2025 17:27:52 -0400*
+*Last updated at Saturday, 1 March 2025 19:10:52 -0400*
