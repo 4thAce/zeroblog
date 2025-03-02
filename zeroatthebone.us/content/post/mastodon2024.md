@@ -47,7 +47,6 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot instance="hachyderm.io" id="112589942908605682" >}}<hr />
 {{< stoot instance="mastodon.social" id="112590330296163479" >}}<hr />
 {{< stoot instance="mastodon.social" id="112626857039453078" >}}<hr />
-{{< stoot instance="post.lurk.org" id="112686733393689685" >}}<hr />
 
 ## July 2024
 
