@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-04-03T10:50:27-04:00
+date = 2025-04-08T05:26:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,9 +13,10 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* On March 25th we returned from a weeklong trip to the San Francisco Bay Area a week ago to visit friends and family.
-We enjoyed the vacation, but it was not without incident because of a pedestrian accident that has left my wife unable to get around much with a leg injury.
-My priority now is to help her as she starts to recover from this.
+* My main responsibility now is to help my wife who still ostly bedridden with a leg injury caused by an accident late in March.
+I've never been a caregiver before so I'm learning tricks on how to keep everyone's spirits up and how not to burn out.
+As a result, I've scaled back some of my other activities to the extent I can do so without inconveniencing others.
+It just feels like the thoughtful thing to do.
 
 # Presently reading
 
@@ -24,4 +25,4 @@ My priority now is to help her as she starts to recover from this.
 * __The Children of Men__ by PD James (audiobook)
 * __The Hours__ by Michael Cunningham
 
-*Last updated at Sunday, 3 April 2025 10:50:52 -0400*
+*Last updated at Sunday, 8 April 2025 05:26:52 -0400*
