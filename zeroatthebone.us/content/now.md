@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-04-08T05:26:27-04:00
+date = 2025-04-18T19:57:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,16 +13,15 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* My main responsibility now is to help my wife who still ostly bedridden with a leg injury caused by an accident late in March.
-I've never been a caregiver before so I'm learning tricks on how to keep everyone's spirits up and how not to burn out.
-As a result, I've scaled back some of my other activities to the extent I can do so without inconveniencing others.
-It just feels like the thoughtful thing to do.
+* I put up a [post on Substack](https://richmagahiz.substack.com/p/a-hundred-titles-in-search-of-an?r=gnwin) about how to use titles to stimulate new writing ideas.
+* Gardening season is coming into full swing now, with new beds at our place with new crops.
+Let's see what thrives and what turns out to be a dud this time around.
 
 # Presently reading
 
-* __The Jesuit Guide to (Almost) Everything__ by James Martin, SJ (audiobook)
-* __An Oral History of Atlantis__ by Ed Park (ebook)
+* __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __The Children of Men__ by PD James (audiobook)
 * __The Hours__ by Michael Cunningham
+* __Consider Phlebas__ by Iain M. Banks
 
-*Last updated at Sunday, 8 April 2025 05:26:52 -0400*
+*Last updated at Sunday, 18 April 2025 19:57:52 -0400*
