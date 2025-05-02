@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-04-18T19:57:27-04:00
+date = 2025-04-30T07:04:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,15 +13,12 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I put up a [post on Substack](https://richmagahiz.substack.com/p/a-hundred-titles-in-search-of-an?r=gnwin) about how to use titles to stimulate new writing ideas.
-* Gardening season is coming into full swing now, with new beds at our place with new crops.
-Let's see what thrives and what turns out to be a dud this time around.
+* I put up a [post on Substack](https://richmagahiz.substack.com/p/when-the-world-is-spiraling?r=gnwin) about how to remain creative when the world has your alarm bells ringing.
 
 # Presently reading
 
-* __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __The Children of Men__ by PD James (audiobook)
-* __The Hours__ by Michael Cunningham
 * __Consider Phlebas__ by Iain M. Banks
+* __Everything is Tuberculosis__ by John Green (audiobook)
 
-*Last updated at Sunday, 18 April 2025 19:57:52 -0400*
+*Last updated at Wednesday, 30 April 2025 07:04:52 -0400*
