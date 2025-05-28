@@ -1,5 +1,5 @@
 +++
-date = "2025-05-16T18:01:51-04:00"
+date = "2025-05-25T13:47:51-04:00"
 title = "About"
 sidemenu = "true"
 description = "About me and this site"
@@ -16,4 +16,4 @@ This is a picture of her.<br />
 <img src="https://milkfish08.s3.amazonaws.com/photo/blog/media/IMG_0501.JPG" title="Pamela Magahiz" alt="A picture of my wife sitting at a cafe in France" width=245 height=326 />
 * Besides the links on the sidebar here, you can look at what I've been posting up on [Medium](https://rmagahiz.medium.com/) now and then and at [Mastodon](https://noc.social/@Zerofactorial) or find out what I've been reading on [The Library of the Uncommons](https://books.theunseen.city/).
 If you follow me at those places, I might follow you back.
-* I have a [storefront site where you can order some of my writing](https://ko-fi.com/richmagahiz/shop)
+* I have a storefront site where you can order some of my writing <a href="https://ko-fi.com/richmagahiz/shop"><img src="https://milkfish08.s3.us-east-1.amazonaws.com/photo/blog/richmagahiz-Sharable-Shop-Horizontal.jpg" width=400 height=200 alt="Link to my ko-fi shop" /></a>
