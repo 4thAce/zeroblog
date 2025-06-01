@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-05-16T17:58:27-04:00
+date = 2025-06-01T10:01:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,7 +13,8 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I posted a new [Substack blog note](https://richmagahiz.substack.com/p/writing-to-themes?r=gnwin) about using themed calls for submission to create new pieces of writing.
+* Starting yesterday May 31 I am leader of song at five consecutive Saturday vigil Masses.
+I have the list of what I'm to sing in advance and it's all pretty familiar to me so I just have to refresh my memory on my own before going into each weekend.
 
 # Presently reading
 
@@ -22,4 +23,4 @@ draft = false
 * __Consider Phlebas__ by Iain M. Banks
 * __Everything is Tuberculosis__ by John Green (audiobook)
 
-*Last updated at Friday, 16 May 2025 17:58:52 -0400*
+*Last updated at Sunday, 1 June 2025 10:01:52 -0400*
