@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-06-01T10:01:27-04:00
+date = 2025-06-05T10:03:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,14 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Starting yesterday May 31 I am leader of song at five consecutive Saturday vigil Masses.
-I have the list of what I'm to sing in advance and it's all pretty familiar to me so I just have to refresh my memory on my own before going into each weekend.
+* Summer weather is here in Delaware and it is hard to remember how hard this was to imagine five months ago.
+* My wife Pamela is gradually recovering from the accident that has been making it hard for her to get around for over two months now.
+With luck this might mean we could even be able to arrange for a little vacation before autumn.
 
 # Presently reading
 
 * __Sharing Space__ by Cady Coleman (audiobook)
 * __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __Consider Phlebas__ by Iain M. Banks
-* __Everything is Tuberculosis__ by John Green (audiobook)
 
-*Last updated at Sunday, 1 June 2025 10:01:52 -0400*
+*Last updated at Thursday, 5 June 2025 10:03:52 -0400*
