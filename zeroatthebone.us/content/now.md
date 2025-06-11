@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-06-05T11:15:27-04:00
+date = 2025-06-10T21:15:27-04:00
 tags = [
     "now",
     "publishing"
@@ -21,7 +21,7 @@ With luck this might mean we could even be able to arrange for a little vacation
 
 * __Sharing Space__ by Cady Coleman (audiobook)
 * __Pale Fire__ by Vladimir Nabokov (audiobook)
-* __Consider Phlebas__ by Iain M. Banks
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
+* __84, Charing Cross Road__ by Helene Hanff
 
-*Last updated at Thursday, 5 June 2025 11:15:52 -0400*
+*Last updated at Tuesday, 10 June 2025 21:15:52 -0400*
