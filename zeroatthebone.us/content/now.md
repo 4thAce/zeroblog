@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-06-10T21:15:27-04:00
+date = 2025-06-18T20:11:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,15 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Summer weather is here in Delaware and it is hard to remember how hard this was to imagine five months ago.
-* My wife Pamela is gradually recovering from the accident that has been making it hard for her to get around for over two months now.
-With luck this might mean we could even be able to arrange for a little vacation before autumn.
+* Last weekend's "No Kings" parade and rally in Wilmington DE coordinated by Indivisible Highlands and Beyond was uplifting and inspiring.
+It wasn't covered in the media, as far as I know, but the estimate is that it attracted three thousand people of all ages.
 
 # Presently reading
 
 * __Sharing Space__ by Cady Coleman (audiobook)
 * __Pale Fire__ by Vladimir Nabokov (audiobook)
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
-* __84, Charing Cross Road__ by Helene Hanff
+* __Sight Lines__ by Arthur Sze
 
-*Last updated at Tuesday, 10 June 2025 21:15:52 -0400*
+*Last updated at Wednesday, 18 June 2025 20:11:52 -0400*
