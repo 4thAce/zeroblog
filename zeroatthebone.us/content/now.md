@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-06-20T06:45:27-04:00
+date = 2025-06-20T20:10:27-04:00
 tags = [
     "now",
     "publishing"
@@ -18,9 +18,9 @@ It wasn't covered in the media, as far as I know, but the estimate is that it at
 
 # Presently reading
 
-* __Sharing Space__ by Cady Coleman (audiobook)
 * __Swann's Way__ by Marcel Proust, translated by Lydia Davis
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
-* __Sight Lines__ by Arthur Sze
+* __Service Model__ by Adrian Tchaikovsky (audiobook)
+* __Here One Moment__ by Liane Moriarty (audiobook)
 
-*Last updated at Friday, 20 June 2025 06:45:52 -0400*
+*Last updated at Friday, 20 June 2025 20:10:52 -0400*
