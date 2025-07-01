@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-06-20T20:10:27-04:00
+date = 2025-06-30T17:27:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,8 +13,11 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Last weekend's "No Kings" parade and rally in Wilmington DE coordinated by Indivisible Highlands and Beyond was uplifting and inspiring.
-It wasn't covered in the media, as far as I know, but the estimate is that it attracted three thousand people of all ages.
+* From the garden I got a couple of good harvests of bush beans.<br />
+<img alt="A colander filled with green beans" src="https://milkfish08.s3.us-east-1.amazonaws.com/photo/blog/IMG_20250624_174003_830.jpg" width=307 height=408 /><br />
+The salad greens have been producing pretty steadily over the last month and a half too.
+Skimpy results from the snap peas and the sweet peppers so far.
+The tomatoes look like they're still pretty healthy and might ripen in another month maybe.
 
 # Presently reading
 
@@ -23,4 +26,4 @@ It wasn't covered in the media, as far as I know, but the estimate is that it at
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Here One Moment__ by Liane Moriarty (audiobook)
 
-*Last updated at Friday, 20 June 2025 20:10:52 -0400*
+*Last updated at Monday, 30 June 2025 17:27:52 -0400*
