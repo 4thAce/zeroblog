@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-06-30T17:27:27-04:00
+date = 2025-07-06T06:54:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,17 +13,16 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* From the garden I got a couple of good harvests of bush beans.<br />
-<img alt="A colander filled with green beans" src="https://milkfish08.s3.us-east-1.amazonaws.com/photo/blog/IMG_20250624_174003_830.jpg" width=307 height=408 /><br />
-The salad greens have been producing pretty steadily over the last month and a half too.
-Skimpy results from the snap peas and the sweet peppers so far.
-The tomatoes look like they're still pretty healthy and might ripen in another month maybe.
+* My mood is still dominated by the current leadership crisis in the United States.
+The hope is in our ability to continue to act as a people to assert what we want of our country.
+Times have seemed dark in the past and I have not been able to foresee how we would see our way out of trouble then, so I won't offer my opinion now.
+It's just that the last six months have seemed as hard a stretch as I've ever seen, and I hope we can make it.
 
 # Presently reading
 
-* __Swann's Way__ by Marcel Proust, translated by Lydia Davis
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Here One Moment__ by Liane Moriarty (audiobook)
+* __The Hours__ by Michael Cunningham
 
-*Last updated at Monday, 30 June 2025 17:27:52 -0400*
+*Last updated at Sunday, 6 July 2025 06:54:52 -0400*
