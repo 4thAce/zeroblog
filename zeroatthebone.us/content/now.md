@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-07-13T09:58:27-04:00
+date = 2025-07-24T15:11:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,11 +13,9 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Somehow one of my folders in Obsidian changed the case of one letter, causing it to reindex and re-sync to the cloud.
-I only noticed this when my Android phone app became unresponsive when taking  a long time to sync with the cloud.
-It looks like sync was interrupted so a bunch of files got lost in the shuffle.
-Fortunately, I save a copy of my vault to a USB drive monthly so I was able to restore from that disk over the last two days, using Git bash and WSL Debian.
-I don't know how I would have recovered my setup using pure Windows tools
+* Figured out what caused the weird Obsidian problem when it cropped up again, which had to do with cross platform sync.
+* I've been working on a non-poetry project for three years and reached a milestone a couple days ago.
+It's on to the next phase of editing and revising so that it can achieve its potential for strangeness someday.
 
 # Presently reading
 
@@ -25,5 +23,6 @@ I don't know how I would have recovered my setup using pure Windows tools
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Here One Moment__ by Liane Moriarty (audiobook)
 * __Wool__ by Hugh Howey
+* __Little Mr. Prose Poem__ by Russell Edson (ebook)
 
-*Last updated at Monday, 14 July 2025 09:58:52 -0400*
+*Last updated at Monday, 24 July 2025 15:11:52 -0400*
