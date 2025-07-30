@@ -47,7 +47,6 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 {{< stoot instance="mastodon.social" id="110488630114275782" >}}<hr>
 {{< stoot instance="mastodon.social" id="110747763026556230" >}}<hr>
-{{< stoot instance="sciencemastodon.com" id="110761535453159781" >}}<hr>
 
 ## August 2023
 
