@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-07-25T06:41:27-04:00
+date = 2025-07-29T20:26:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,10 +13,12 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Figured out what caused the weird Obsidian problem when it cropped up again, which had to do with cross platform sync.
-Didn't lose any data that I had to restore from backup, as far as I know, because I decided to let sync just do its thing.
 * I've been working on a non-poetry project for three years and reached a milestone a couple days ago.
 It's on to the next phase of editing and revising so that it can achieve its potential for strangeness someday.
+* We're in that part of the country suffering under unusually hot and humid weather this summer.
+I've been doing most all my outdoors stuff in the early morning or toward nightfall, just dashing out for little trips to air conditioned areas during the peak of the heat each day.
+It's still not as bad as when the wildfire smoke got to us in California.
+Plus, the garden is going pretty well with all the sun and moisture.
 
 
 # Presently reading
@@ -25,6 +27,6 @@ It's on to the next phase of editing and revising so that it can achieve its pot
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Here One Moment__ by Liane Moriarty (audiobook)
 * __Raising Hare__ by Chloe Dalton
-* __Little Mr. Prose Poem__ by Russell Edson (ebook)
+* __Piranesi__ by Susanna Clarke (ebook)
 
-*Last updated at Monday, 25 July 2025 06:41:52 -0400*
+*Last updated at Monday, 29 July 2025 20:26:52 -0400*

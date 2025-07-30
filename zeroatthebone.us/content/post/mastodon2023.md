@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2023"
-date = 2025-07-26T20:06:56-04:00
+date = 2025-07-29T20:38:56-04:00
 draft = false
 tags = [
   "social",
@@ -47,10 +47,6 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 {{< stoot instance="mastodon.social" id="110488630114275782" >}}<hr>
 {{< stoot instance="mastodon.social" id="110747763026556230" >}}<hr>
-
-## August 2023
-
-{{< stoot instance="mastodon.social" id="110488630114275782" >}}<hr>
 
 ## September 2023
 
