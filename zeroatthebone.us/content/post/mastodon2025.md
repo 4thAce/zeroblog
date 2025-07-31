@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-06-30T17:20:29-04:00
+date = 2025-07-31T15:29:29-04:00
 
 tags = [
   "social",
@@ -59,7 +59,15 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 {{< stoot instance="urbanists.social" id="114690487447931648" >}}<hr />
 {{< stoot instance="meemu.org" id="114769354855336444" >}}<hr />
 
-<!-- ## July 2025 -->
+## July 2025
+
+{{< stoot instance="berlin.social" id="114789612021747961" >}}<hr />
+{{< stoot instance="mastodon.online" id="114792305521327245" >}}<hr />
+{{< stoot instance="mastodon.social" id="114826354464507418" >}}<hr />
+{{< stoot instance="ohai.social" id="114836269849282066" >}}<hr />
+{{< stoot instance="cupoftea.social" id="114858073120654643" >}}<hr />
+{{< stoot instance="hci.social" id="114918300771296576" >}}<hr />
+{{< stoot instance="berlin.social" id="114929852979763388" >}}<hr />
 
 <!-- ## August 2025 -->
 
