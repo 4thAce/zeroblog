@@ -62,7 +62,6 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 ## July 2025
 
 {{< stoot instance="berlin.social" id="114789612021747961" >}}<hr />
-{{< stoot instance="mastodon.online" id="114792305521327245" >}}<hr />
 {{< stoot instance="mastodon.social" id="114826354464507418" >}}<hr />
 {{< stoot instance="ohai.social" id="114836269849282066" >}}<hr />
 {{< stoot instance="cupoftea.social" id="114858073120654643" >}}<hr />
