@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-07-29T20:26:27-04:00
+date = 2025-08-01T08:26:27-04:00
 tags = [
     "now",
     "publishing"
@@ -26,7 +26,6 @@ Plus, the garden is going pretty well with all the sun and moisture.
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Here One Moment__ by Liane Moriarty (audiobook)
-* __Raising Hare__ by Chloe Dalton
 * __Piranesi__ by Susanna Clarke (ebook)
 
-*Last updated at Monday, 29 July 2025 20:26:52 -0400*
+*Last updated at Friday, 1 August 2025 08:25:52 -0400*
