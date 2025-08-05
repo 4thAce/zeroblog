@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-08-05T06:32:27-04:00
+date = 2025-08-05T06:41:27-04:00
 tags = [
     "now",
     "publishing"
@@ -15,6 +15,7 @@ draft = false
 
 * It's time for a push to submitting work to journals because I'll be taking a week off soon.
 Fortunately a lot of submission windows have opened up at the beginning of the month so it's mainly just a matter of finding pieces which are suitable for some editor to see.
+* I am happy that my 2024 poem *[side effects may include]* which appeared in Password was one of the 100 notable poems by 100 authors chosen to be reprinted in the respected Modern Haiku Press anthology this year, [Haiku 2025](https://www.modernhaiku.org/mhbooks/Haiku2025.html).
 
 # Presently reading
 
@@ -24,4 +25,4 @@ Fortunately a lot of submission windows have opened up at the beginning of the m
 * __Piranesi__ by Susanna Clarke (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 
-*Last updated at Tuesday, 5 August 2025 06:32:52 -0400*
+*Last updated at Tuesday, 5 August 2025 06:41:52 -0400*
