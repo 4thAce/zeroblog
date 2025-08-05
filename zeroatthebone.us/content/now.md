@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-08-01T08:26:27-04:00
+date = 2025-08-05T06:32:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,13 +13,8 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I've been working on a non-poetry project for three years and reached a milestone a couple days ago.
-It's on to the next phase of editing and revising so that it can achieve its potential for strangeness someday.
-* We're in that part of the country suffering under unusually hot and humid weather this summer.
-I've been doing most all my outdoors stuff in the early morning or toward nightfall, just dashing out for little trips to air conditioned areas during the peak of the heat each day.
-It's still not as bad as when the wildfire smoke got to us in California.
-Plus, the garden is going pretty well with all the sun and moisture.
-
+* It's time for a push to submitting work to journals because I'll be taking a week off soon.
+Fortunately a lot of submission windows have opened up at the beginning of the month so it's mainly just a matter of finding pieces which are suitable for some editor to see.
 
 # Presently reading
 
@@ -27,5 +22,6 @@ Plus, the garden is going pretty well with all the sun and moisture.
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Here One Moment__ by Liane Moriarty (audiobook)
 * __Piranesi__ by Susanna Clarke (ebook)
+* __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 
-*Last updated at Friday, 1 August 2025 08:25:52 -0400*
+*Last updated at Tuesday, 5 August 2025 06:32:52 -0400*
