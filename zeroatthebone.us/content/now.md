@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-08-05T06:41:27-04:00
+date = 2025-08-09T09:15:27-04:00
 tags = [
     "now",
     "publishing"
@@ -13,16 +13,16 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* It's time for a push to submitting work to journals because I'll be taking a week off soon.
-Fortunately a lot of submission windows have opened up at the beginning of the month so it's mainly just a matter of finding pieces which are suitable for some editor to see.
-* I am happy that my 2024 poem *[side effects may include]* which appeared in Password was one of the 100 notable poems by 100 authors chosen to be reprinted in the respected Modern Haiku Press anthology this year, [Haiku 2025](https://www.modernhaiku.org/mhbooks/Haiku2025.html).
+* I am trying hard to remember what is good and beautiful about this time so six months from now when the ground freezes outside I can still enter into the experience in some way.
+I also want to be able to remember the way the snow changed the landscape during winter, the first snowdrops during early spring, the way the green vanished from the lawn in late autumn.
+So much of my first ten years of life comes through only in tiny flakes that I know I can't even be sure about any more, not just objective facts but emotions and attitude, and I wish it weren't this way.
 
 # Presently reading
 
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
-* __Here One Moment__ by Liane Moriarty (audiobook)
+* __Life On Purpose__ by Victor J. Strecher (audiobook)
 * __Piranesi__ by Susanna Clarke (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 
-*Last updated at Tuesday, 5 August 2025 06:41:52 -0400*
+*Last updated at Saturday, 9 August 2025 09:15:52 -0400*
