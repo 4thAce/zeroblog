@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-08-09T09:15:27-04:00
+date = 2025-08-20T19:24:25-04:00
 tags = [
     "now",
     "publishing"
@@ -13,16 +13,16 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I am trying hard to remember what is good and beautiful about this time so six months from now when the ground freezes outside I can still enter into the experience in some way.
-I also want to be able to remember the way the snow changed the landscape during winter, the first snowdrops during early spring, the way the green vanished from the lawn in late autumn.
-So much of my first ten years of life comes through only in tiny flakes that I know I can't even be sure about any more, not just objective facts but emotions and attitude, and I wish it weren't this way.
+* Summer is slowly slipping away.
+We are remembering to visit local Italian ice and Mexican ice cream establishments while we still can.
+If we are lucky we might still have a chance to pick some fruit at an orchard not too far away.
 
 # Presently reading
 
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
 * __Service Model__ by Adrian Tchaikovsky (audiobook)
 * __Life On Purpose__ by Victor J. Strecher (audiobook)
-* __Piranesi__ by Susanna Clarke (ebook)
+* __When the Tiger Came Down the Mountain__ by Nghi Vo (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 
-*Last updated at Saturday, 9 August 2025 09:15:52 -0400*
+*Last updated at Wednesday, 20 Aug 2025 19:24:25 -0400*
