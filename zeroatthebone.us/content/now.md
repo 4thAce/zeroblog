@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-08-28T13:10:38-04:00
+date = 2025-08-30T20:06:58-04:00
 tags = [
     "now",
     "publishing"
@@ -18,8 +18,8 @@ draft = false
 # Presently reading
 
 * __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
-* __Falling Upward__ by Richard Rohr, OFM (audiobook)
+* __Real Help__ by Ayodeji Awosika (audiobook)
 * __When the Tiger Came Down the Mountain__ by Nghi Vo (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 
-*Last updated at Thursday, 28 Aug 2025 13:10:38 -0400*
+*Last updated at Saturday, 30 Aug 2025 20:06:58 -0400*
