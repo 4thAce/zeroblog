@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-08-05T06:47:29-04:00
+date = 2025-09-01T11:51:49-04:00
 
 tags = [
   "social",
@@ -67,7 +67,13 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 {{< stoot instance="hci.social" id="114918300771296576" >}}<hr />
 {{< stoot instance="berlin.social" id="114929852979763388" >}}<hr />
 
-<!-- ## August 2025 -->
+## August 2025
+
+{{< stoot instance="mas.to" id="114963744542240946" >}}<hr />
+{{< stoot instance="mastodonapp.uk" id="114975041843404015" >}}<hr />
+{{< stoot instance="mas.to" id="115004610364642634" >}}<hr />
+{{< stoot instance="mathstodon.xyz" id="115049490241833844" >}}<hr />
+{{< stoot instance="noc.social" id="115070111964719703" >}}<hr />
 
 <!-- ## September 2025 -->
 
@@ -77,4 +83,4 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 
 <!-- ## December 2025 -->
 
-<div font-size="small">Updated Tuesday, 05 Aug 2025 06:46:23 -0400</div>
+<div font-size="small">Updated Monday, 01 Sep 2025 11:51:49 -0400</div>
