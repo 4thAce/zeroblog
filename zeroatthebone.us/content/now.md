@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-08-31T17:34:12-04:00
+date = 2025-09-04T15:23:01-04:00
 tags = [
     "now",
     "publishing"
@@ -13,13 +13,15 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I wrote a [blog post](https://open.substack.com/pub/richmagahiz/p/getting-your-kicks-writing-speculative?r=gnwin&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) devoted to the immediate rewards of writing which don't include wealth and renown.
+* I'm playing with an idea I've seen other poets use successfully and wondering whether it is something I can run with.
+I've written three pieces along similar lines and had two of them accepted for publication in the last several months, so maybe I'll see if I can keep on with it.
+Maybe I'll grow tired of this technique, but it's been kicking around in my head for so long I think that won't happen right away.
 
 # Presently reading
 
-* __Long Island Compromise__ by Taffy Brodesser-Akner (audiobook)
 * __Real Help__ by Ayodeji Awosika (audiobook)
 * __Artificial Condition__ by Martha Wells (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
+* __Picnic by the Roadside__ by Arkady and Boris Strugatski
 
-*Last updated at Sunday, 31 Aug 2025 17:34:12 -0400*
+*Last updated at Thursday, 04 Sep 2025 15:23:01 -0400*
