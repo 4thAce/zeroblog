@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-09-04T15:23:01-04:00
+date = 2025-09-08T12:17:49-04:00
 tags = [
     "now",
     "publishing"
@@ -20,8 +20,8 @@ Maybe I'll grow tired of this technique, but it's been kicking around in my head
 # Presently reading
 
 * __Real Help__ by Ayodeji Awosika (audiobook)
-* __Artificial Condition__ by Martha Wells (ebook)
+* __Rogue Protocol__ by Martha Wells (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __Picnic by the Roadside__ by Arkady and Boris Strugatski
 
-*Last updated at Thursday, 04 Sep 2025 15:23:01 -0400*
+*Last updated at Monday, 08 Sep 2025 12:17:49 -0400*
