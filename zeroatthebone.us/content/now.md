@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-09-18T12:50:30-04:00
+date = 2025-09-18T12:52:30-04:00
 tags = [
     "now",
     "publishing"
@@ -14,7 +14,7 @@ draft = false
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
 * It seems odd that engaging in the usual soothing pastimes now doesn't quite offset the feeling that we in the United States are being boiled alive, at first lowly, then more quickly.
-And I don't think that it's only me with this sensation.c
+And I don't think that it's only me with this sensation.
 
 # Presently reading
 
@@ -23,4 +23,4 @@ And I don't think that it's only me with this sensation.c
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __How to Listen to Jazz__ by Ted Gioia
 
-*Last updated at Thursday, 18 Sep 2025 12:50:30 -0400*
+*Last updated at Thursday, 18 Sep 2025 12:52:30 -0400*
