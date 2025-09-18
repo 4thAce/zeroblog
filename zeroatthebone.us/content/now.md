@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-09-08T12:17:49-04:00
+date = 2025-09-18T12:50:30-04:00
 tags = [
     "now",
     "publishing"
@@ -13,15 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I'm playing with an idea I've seen other poets use successfully and wondering whether it is something I can run with.
-I've written three pieces along similar lines and had two of them accepted for publication in the last several months, so maybe I'll see if I can keep on with it.
-Maybe I'll grow tired of this technique, but it's been kicking around in my head for so long I think that won't happen right away.
+* It seems odd that engaging in the usual soothing pastimes now doesn't quite offset the feeling that we in the United States are being boiled alive, at first lowly, then more quickly.
+And I don't think that it's only me with this sensation.c
 
 # Presently reading
 
 * __Real Help__ by Ayodeji Awosika (audiobook)
-* __Rogue Protocol__ by Martha Wells (ebook)
+* __I Have No Mouth and I Must Scream__ by Harlan Ellison (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
-* __Picnic by the Roadside__ by Arkady and Boris Strugatski
+* __How to Listen to Jazz__ by Ted Gioia
 
-*Last updated at Monday, 08 Sep 2025 12:17:49 -0400*
+*Last updated at Thursday, 18 Sep 2025 12:50:30 -0400*
