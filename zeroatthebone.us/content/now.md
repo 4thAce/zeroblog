@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-09-18T12:57:30-04:00
+date = 2025-09-21T08:04:25-04:00
 tags = [
     "now",
     "publishing"
@@ -13,8 +13,11 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* It seems odd that engaging in the usual soothing pastimes now doesn't quite offset the feeling that we in the United States are being boiled alive, at first slowly, then more quickly.
-And I don't think that it's only me with this sensation.
+* I allowed my Microsoft 365 subscription to lapse out of frustration with the way that company keeps pushing AI assistance into every corner of its products.
+I was mainly using Word, which I've replaced with LibreOffice, occasionally Excel.
+I had done a search indicating that OneDrive was part of 365 and thought that that was going to stop working after my subscription ended, but this appears not to be the case.
+It was not doing a great job of running anyway, continually detecting file locks which shouldn't have been there.
+By way of preparation I had signed up the Proton Drive privacy-focused cloud storage app which seems to be a good replacement anyway.
 
 # Presently reading
 
@@ -23,4 +26,4 @@ And I don't think that it's only me with this sensation.
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __How to Listen to Jazz__ by Ted Gioia
 
-*Last updated at Thursday, 18 Sep 2025 12:57:30 -0400*
+*Last updated at Sunday, 21 Sep 2025 08:04:25 -0400*
