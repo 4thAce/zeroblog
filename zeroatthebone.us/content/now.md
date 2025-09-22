@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-09-21T08:04:25-04:00
+date = 2025-09-22T13:39:46-04:00
 tags = [
     "now",
     "publishing"
@@ -18,6 +18,8 @@ I was mainly using Word, which I've replaced with LibreOffice, occasionally Exce
 I had done a search indicating that OneDrive was part of 365 and thought that that was going to stop working after my subscription ended, but this appears not to be the case.
 It was not doing a great job of running anyway, continually detecting file locks which shouldn't have been there.
 By way of preparation I had signed up the Proton Drive privacy-focused cloud storage app which seems to be a good replacement anyway.
+* My poetry chapbook **The Reducing Flame** received an online review at [Razorcake](https://razorcake.org/reducing-flame-the-6-5%c2%bd-x-8%c2%bd-16-pgs/) where they called it "satisfying."
+Copies of this publication are still available in both print and ebook formats at my [Ko-fi shop](https://ko-fi.com/richmagahiz/shop).
 
 # Presently reading
 
@@ -26,4 +28,4 @@ By way of preparation I had signed up the Proton Drive privacy-focused cloud sto
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __How to Listen to Jazz__ by Ted Gioia
 
-*Last updated at Sunday, 21 Sep 2025 08:04:25 -0400*
+*Last updated at Monday, 22 Sep 2025 13:39:46 -0400*
