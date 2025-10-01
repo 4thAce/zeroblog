@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-09-01T11:51:49-04:00
+date = 2025-10-01T14:37:37-04:00
 
 tags = [
   "social",
@@ -75,7 +75,10 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 {{< stoot instance="mathstodon.xyz" id="115049490241833844" >}}<hr />
 {{< stoot instance="noc.social" id="115070111964719703" >}}<hr />
 
-<!-- ## September 2025 -->
+## September 2025 
+
+{{< stoot instance="indieweb.social" id="115136946097918829" >}}<hr />
+{{< stoot instance="mastodon.social" id="115281175957332063" >}}<hr />
 
 <!-- ## October 2025 -->
 
@@ -83,4 +86,4 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 
 <!-- ## December 2025 -->
 
-<div font-size="small">Updated Monday, 01 Sep 2025 11:51:49 -0400</div>
+<div font-size="small">Updated Wednesday, 01 Oct 2025 14:37:37 -0400</div>
