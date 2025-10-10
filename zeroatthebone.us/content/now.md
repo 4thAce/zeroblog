@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-10-01T13:14:52-04:00
+date = 2025-10-10T12:58:44-04:00
 tags = [
     "now",
     "publishing"
@@ -13,9 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* The first two-thirds of the year didn't go as we had planned, but it seems like the health challenges might be mostly behind us soon.
-We hadn't had a chance to go berry picking the way we did last year, never mind the idea of doing some foreign travel for our 40th anniversary, but it seems like we are not too badly off.
-Maybe we can pick up some of the things we didn't get to next year, after the holidays.
+* I am hearing about friends coming down with Covid-19 recently but it seems not to be part of the conversation any more.
+I got my vaccination a couple years ago beecause I was thinking about my trip to the Chicago area this last weekend.
+It was some trouble getting over the vaccine symptoms that week, but I feel like it was worth it.
+But it masked up on my flights anyway since I saw hardly anyone else doing so.
+* The wristwatch I had been wearing for the last year was damaged a couple days ago and the jewelry shop I brought it to told me it could not be repaired because of the solar dial.
+I looked on eBay for a mechanical watch to replace it and the new ones I could afford were all made in either China or Russia.
+I went with one of the latter because it had a [reputation of sturdiness](https://en.wikipedia.org/wiki/Amfibia) and would thus less likely to break on me again.
+<img src=https://milkfish08.s3.us-east-1.amazonaws.com/photo/blog/IMG_20251010_125142_932.jpg width=307 height=408 />
 
 # Presently reading
 
@@ -23,5 +28,6 @@ Maybe we can pick up some of the things we didn't get to next year, after the ho
 * __I Have No Mouth and I Must Scream__ by Harlan Ellison (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __How to Listen to Jazz__ by Ted Gioia
+* __The Night in the Lonesome October__ by Roger Zelazny
 
-*Last updated at Wednesday, 01 Oct 2025 13:14:52 -0400*
+*Last updated at Friday, 10 Oct 2025 12:58:44 -0400*
