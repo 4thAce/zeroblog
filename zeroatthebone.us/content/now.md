@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-10-27T10:06:44-04:00
+date = 2025-10-31T20:55:53-04:00
 tags = [
     "now",
     "publishing"
@@ -13,8 +13,9 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* My wife's birthday is today and we are planning to putter around some towns in Pennsylvania and go out to eat.
-There might even be some foliage to observe.
+* My annual rereading of __The Night in the Lonesome October__ by Roger Zelazny is complete today.
+It's a mix of fantasy, humor, and mystery with a chapter a day for the month, each one illustrated by Gahan Wilson.
+I think it's a cute and comforting story.
 
 # Presently reading
 
@@ -22,6 +23,6 @@ There might even be some foliage to observe.
 * __I Have No Mouth and I Must Scream__ by Harlan Ellison (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __Night Boat to Tangier__ by Kevin Barry (audiobook)
-* __The Night in the Lonesome October__ by Roger Zelazny
+* __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
 
-*Last updated at Monday, 27 Oct 2025 10:06:44 -0400*
+*Last updated at Friday, 31 Oct 2025 20:55:53 -0400*
