@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-11-04T16:49:50-04:00
+date = 2025-11-05T20:50:47-04:00
 tags = [
     "now",
     "publishing"
@@ -13,15 +13,15 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* There are no statewide elections in Delaware this year so we are on the sidelines seeing what the voters are going to say.
-Maybe we'll send Washington another shock the way we did with the mass rallies over the year.
-Maybe we can interfere with the progression toward more and more flagrant corruption at the top.
+* I can't remember an off-year election season in the US that has had so much impact as what happened this week.
+I do expect some cruel punishment to come down to put fear into all the people who voted against the Republican program, but we will see what we response we will need to mount as a citizenry.
 
 # Presently reading
 
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
+* __Knife__ by Salman Rushdie (audiobook)
 * __I Have No Mouth and I Must Scream__ by Harlan Ellison (ebook)
 * __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
 
-*Last updated at Tuesday, 04 Nov 2025 16:49:50 -0500*
+*Last updated at Wednesday, 05 Nov 2025 20:50:47 -0500*
