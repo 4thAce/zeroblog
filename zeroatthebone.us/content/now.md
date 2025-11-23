@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-11-T06:43:23-04:00
+date = 2025-11-23T06:43:23-04:00
 tags = [
     "now",
     "publishing"
