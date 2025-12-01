@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-11-23T06:43:23-04:00
+date = 2025-12-01T06:02:44-04:00
 tags = [
     "now",
     "publishing"
@@ -13,15 +13,16 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Staying active in the cold and dark part of the year is more difficult than during the summer just for reasons of safety.
-I have to remember that being satisfied with a shorter than usual brisk walk is just something that just has to be accepted and celebrated if I put in an honest effort.
+* I hope that this month will shake out a few acceptances as submission deadlines for a number of journals all come due.
+That will give me a nice head start into 2026.
+
 
 # Presently reading
 
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
 * __Mockingbird__ by Walter Tevis (audiobook)
 * __Georgia__ by Charles Sheffield (ebook)
-* __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
+* __One Sun Only__ by Camille Bordas
 
-*Last updated at Sun, 23 Nov 2025 06:43:23 -0500*
+*Last updated at Monday, 01 Dec 2025 06:02:44 -0500*

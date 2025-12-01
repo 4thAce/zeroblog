@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-10-31T21:21:43-04:00
+date = 2025-12-01T05:58:03-04:00
 
 tags = [
   "social",
@@ -91,4 +91,4 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 
 <!-- ## December 2025 -->
 
-<div font-size="small">Updated Tue, 04 Nov 2025 21:00:30 -0500</div>
+<div font-size="small">Updated Monday, 01 Dec 2025 05:58:03 -0500</div>
