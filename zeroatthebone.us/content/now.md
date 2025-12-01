@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-11-30T19:13:12-04:00
+date = 2025-12-01T06:02:44-04:00
 tags = [
     "now",
     "publishing"
@@ -22,8 +22,7 @@ That will give me a nice head start into 2026.
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
 * __Mockingbird__ by Walter Tevis (audiobook)
 * __Georgia__ by Charles Sheffield (ebook)
-* __The Classical Style: Haydn, Mozart, Beethoven__ by Charles Rosen
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
 * __One Sun Only__ by Camille Bordas
 
-*Last updated at Sunday, 30 Nov 2025 19:13:12 -0500*
+*Last updated at Monday, 01 Dec 2025 06:02:44 -0500*
