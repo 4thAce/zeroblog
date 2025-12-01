@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-12-01T05:58:03-04:00
+date = 2025-12-01T06:13:56-04:00
 
 tags = [
   "social",
@@ -87,8 +87,6 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 {{< stoot instance="mastodon.social" id="115386511342339258" >}}<hr />
 {{< stoot instance="universeodon.com" id="115396117301986113" >}}<hr />
 
-<!-- ## November 2025 -->
+## December 2025
 
-<!-- ## December 2025 -->
-
-<div font-size="small">Updated Monday, 01 Dec 2025 05:58:03 -0500</div>
+<div font-size="small">Updated Monday, 01 Dec 2025 06:13:56 -0500</div>
