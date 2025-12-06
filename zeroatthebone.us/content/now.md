@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-12-01T14:47:47-04:00
+date = 2025-12-06T14:22:42-04:00
 tags = [
     "now",
     "publishing"
@@ -13,16 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I hope that this month will shake out a few acceptances as submission deadlines for a number of journals all come due.
-That will give me a nice head start into 2026.
-
+* I am happy to have received a nomination for a Pushcart Prize this year for my work *The New Earth* courtesy of the editor of [Mobius Magazine](https://mobiusmagazine.com/news.html).
 
 # Presently reading
 
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
-* __Mockingbird__ by Walter Tevis (audiobook)
 * __Tattoos on the Heart__ by Gregory Boyle
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
 * __One Sun Only__ by Camille Bordas
+* __The Unbearable Lightness of Being__ by Milan Kundera
 
-*Last updated at Mon, 01 Dec 2025 14:47:47 -0500*
+*Last updated at Saturday, 06 Dec 2025 14:22:42 -0500*
