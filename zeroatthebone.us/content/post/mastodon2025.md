@@ -13,8 +13,7 @@ description = "Favorites from Mastodon 2025"
 draft = false
 +++
 
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/3200885535_a83e4e29f3_k.jpg" width="597" height="400" alt="Abstract picture showing incoherent patches against a set of dark grids"
-title="solvent. P8120446-08" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/3200885535_a83e4e29f3_k.jpg" width="597" height="400" alt="Abstract picture showing incoherent patches against a set of dark grids" title="solvent. P8120446-08" /><br />
 Capture by Sjoerd Los on Flickr</div><br clear="all" />
 
 ## January 2025
@@ -91,4 +90,4 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 
 <!-- ## December 2025 -->
 
-<div font-size="small">Updated Monday, 01 Dec 2025 05:58:03 -0500</div>
+<div style="font-size:small">Updated Sunday, 21 Dec 2025 16:07:38 -0500</div>
