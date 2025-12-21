@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-12-21T15:40:27-04:00
+date = 2025-12-21T16:14:24-04:00
 tags = [
     "now",
     "publishing"
@@ -13,7 +13,7 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I am happy to have received a nomination for a Pushcart Prize this year for my work *The New Earth* courtesy of the editor of [Mobius Magazine](https://mobiusmagazine.com/news.html).
+* Today is the winter solstice in the Northern hemisphere, when the sun says "I won't be long..."
 
 # Presently reading
 
@@ -23,4 +23,4 @@ draft = false
 * __The Unbearable Lightness of Being__ by Milan Kundera
 * __The Classical Style__ by Charles Rosen
 
-*Last updated at Sunday, 21 Dec 2025 15:40:27 -0500*
+*Last updated at Sunday, 21 Dec 2025 16:14:24 -0500*
