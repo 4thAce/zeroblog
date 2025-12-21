@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-12-06T14:22:42-04:00
+date = 2025-12-21T15:40:27-04:00
 tags = [
     "now",
     "publishing"
@@ -18,9 +18,9 @@ draft = false
 # Presently reading
 
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
-* __Tattoos on the Heart__ by Gregory Boyle
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
 * __One Sun Only__ by Camille Bordas
 * __The Unbearable Lightness of Being__ by Milan Kundera
+* __The Classical Style__ by Charles Rosen
 
-*Last updated at Saturday, 06 Dec 2025 14:22:42 -0500*
+*Last updated at Sunday, 21 Dec 2025 15:40:27 -0500*
