@@ -11,8 +11,7 @@ topics = [
 ]
 description = "Favorites from Mastodon 2024"
 +++
-<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/53498675435_aba1ab1236_k.jpg" width="512" height="341" alt="Abstract picture of nighttime light trails"
-title="Accelerating the future" /><br />
+<div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/abovethefold/53498675435_aba1ab1236_k.jpg" width="512" height="341" alt="Abstract picture of nighttime light trails" title="Accelerating the future" /><br />
 Capture by helaku h on Flickr</div><br clear="all" />
 
 ## January 2024
