@@ -91,6 +91,7 @@ Capture by helaku h on Flickr</div><br clear="all" />
 ## December 2024
 
 {{<stoot instance="mastodon.social" id="113600069171794655" >}}<hr />
-{{<stoot instance="romancelandia.club" id="113601833982031605" >}}<hr />
 {{<stoot instance="mastodon.online" id="113691789641950263" >}}<hr />
 {{<stoot instance="mathstodon.xyz" id="113692139860729882" >}}<hr />
+
+<div style="font-size:small">Updated Monday, 22 Dec 2025 11:41:53 -0500</div>
