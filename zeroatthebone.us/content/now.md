@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-12-21T16:14:24-04:00
+date = 2025-12-30T16:52:21-04:00
 tags = [
     "now",
     "publishing"
@@ -13,14 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Today is the winter solstice in the Northern hemisphere, when the sun says "I won't be long..."
+* I am getting the final installment of my [2025 writing updates](/post/4q2025) ready to go up by New Year's day.
 
 # Presently reading
 
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
-* __One Sun Only__ by Camille Bordas
+* __What Is Amazing__ by Heather Christie
 * __The Unbearable Lightness of Being__ by Milan Kundera
 * __The Classical Style__ by Charles Rosen
 
-*Last updated at Sunday, 21 Dec 2025 16:14:24 -0500*
+*Last updated at Tuesday, 30 Dec 2025 16:52:21 -0500*
