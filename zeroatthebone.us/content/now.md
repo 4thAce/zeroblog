@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2025-12-30T16:52:21-04:00
+date = 2025-12-31T14:15:48-04:00
 tags = [
     "now",
     "publishing"
@@ -19,8 +19,7 @@ draft = false
 
 * __The Book of Dust: La Belle Sauvage__ by Phillip Pullman (audiobook)
 * __Lauriat: A Filipino-Chinese Speculative Fiction Anthology__ edited by Charles A. Tan
-* __What Is Amazing__ by Heather Christie
 * __The Unbearable Lightness of Being__ by Milan Kundera
 * __The Classical Style__ by Charles Rosen
 
-*Last updated at Tuesday, 30 Dec 2025 16:52:21 -0500*
+*Last updated at Wednesday, 31 Dec 2025 14:15:48 -0500*
