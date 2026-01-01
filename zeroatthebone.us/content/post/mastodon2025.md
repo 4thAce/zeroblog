@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2025"
-date = 2025-12-01T06:13:56-04:00
+date = 2026-01-01T05:55:30-04:00
 
 tags = [
   "social",
@@ -88,5 +88,9 @@ Capture by Sjoerd Los on Flickr</div><br clear="all" />
 
 ## December 2025
 
+{{< stoot instance="universeodon.com" id="115735175390193762" >}}<hr />
+{{< stoot instance="aus.social" id="115779563966538091" >}}<hr />
+{{< stoot instance="retro.pizza" id="115816883517592855" >}}<hr />
+
 <hr />
-<div style="font-size:small">Updated Sunday, 21 Dec 2025 16:07:38 -0500</div>
+<div style="font-size:small">Updated Thursday, 01 Jan 2026 05:55:30 -0500</div>
