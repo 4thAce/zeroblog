@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-01-14T11:06:59-04:00
+date = 2026-01-26T17:48:32-04:00
 tags = [
     "now",
     "publishing"
@@ -13,15 +13,14 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* My new home Linux server is up and running so I have a place to store all my accumulated files.
-I have another laptop coming to be set up as a new Linux workstation.
+* I repurposed a secondhand laptop with a new installation of Linux and am well on the way to having it set up as my main workstation.
 
 # Presently reading
 
 * __Japanese Death Poems__ edited by Yoel Hoffman
 * __Looking for Alaska__ by John Green
-* __The Unbearable Lightness of Being__ by Milan Kundera
 * __The Classical Style__ by Charles Rosen
 * __The Complete Cosmicomics__ by Italo Calvino
+* __Watering Can__ by Caroline Bird
 
-*Last updated at Wednesday, 14 Jan 2026 11:06:59 -0500*
+*Last updated at Monday, 26 Jan 2026 17:48:32 -0500*
