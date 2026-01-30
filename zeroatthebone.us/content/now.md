@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-01-26T17:48:32-04:00
+date = 2026-01-29T19:24:17-04:00
 tags = [
     "now",
     "publishing"
@@ -13,7 +13,9 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I repurposed a secondhand laptop with a new installation of Linux and am well on the way to having it set up as my main workstation.
+* This is the kind of blog update that no one wants to to make.
+Yesterday I had a second round of blood tests which give strong indications that I have acute leukemia.
+I do not know too much beyond that now but am hoping to face this the best I know how.
 
 # Presently reading
 
@@ -23,4 +25,4 @@ draft = false
 * __The Complete Cosmicomics__ by Italo Calvino
 * __Watering Can__ by Caroline Bird
 
-*Last updated at Monday, 26 Jan 2026 17:48:32 -0500*
+*Last updated at Thursday, 29 Jan 2026 19:24:17 -0500*
