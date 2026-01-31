@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2026"
-date = 2026-01-01T06:28:22-04:00
+date = 2026-01-31T18:29:32-04:00
 
 tags = [
   "social",
@@ -18,6 +18,10 @@ draft = false
 
 ## January 2026
 
+{{< stoot instance="tech.lgbt" id="115833240519350846" >}}<hr />
+{{< stoot instance="boing.world" id="115849477891015309" >}}<hr />
+{{< stoot instance="infosec.exchange" id="115928319775604895" >}}<hr />
+
 <!-- ## February 2026 -->
 <!-- ## March 2026 -->
 <!-- ## April 2026 -->
@@ -30,7 +34,4 @@ draft = false
 <!-- ## November 2026 -->
 <!-- ## December 2026 -->
 
-
-
-<hr />
-<div style="font-size:small">Updated Thursday, 01 Jan 2026 06:28:22 -0500</div>
+<div style="font-size:small">Updated Saturday, 31 Jan 2026 18:29:32 -0500</div>
