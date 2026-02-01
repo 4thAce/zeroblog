@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-01-29T19:24:17-04:00
+date = 2026-01-31T18:33:58-04:00
 tags = [
     "now",
     "publishing"
@@ -13,9 +13,9 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* This is the kind of blog update that no one wants to to make.
-Yesterday I had a second round of blood tests which give strong indications that I have acute leukemia.
-I do not know too much beyond that now but am hoping to face this the best I know how.
+* I put up a new page listing my [published work from January](/post/1q2026).
+I hope to add to this over the next couple of months.
+* I have my first appointment with my hematologist/oncologist doctor on Tuesday to provide my medical history and to make plans for more tests.
 
 # Presently reading
 
@@ -25,4 +25,4 @@ I do not know too much beyond that now but am hoping to face this the best I kno
 * __The Complete Cosmicomics__ by Italo Calvino
 * __Watering Can__ by Caroline Bird
 
-*Last updated at Thursday, 29 Jan 2026 19:24:17 -0500*
+*Last updated at Saturday, 31 Jan 2026 18:33:58 -0500*
