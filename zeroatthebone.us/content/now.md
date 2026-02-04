@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-01-31T18:33:58-04:00
+date = 2026-02-03T20:17:47-04:00
 tags = [
     "now",
     "publishing"
@@ -13,9 +13,10 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I put up a new page listing my [published work from January](/post/1q2026).
-I hope to add to this over the next couple of months.
-* I have my first appointment with my hematologist/oncologist doctor on Tuesday to provide my medical history and to make plans for more tests.
+* At my first appointment with my hematologist/oncologist we arranged to have a bone marrow biopsy done Thursday morning.
+Once this is analyzed, we will be know what the correct therapies should be, I hope some time next week.
+* For now, I am still writing, still submitting my work to journals.
+The topics are colored by real life, but I think it might be possible to continue producing good work.
 
 # Presently reading
 
@@ -25,4 +26,4 @@ I hope to add to this over the next couple of months.
 * __The Complete Cosmicomics__ by Italo Calvino
 * __Watering Can__ by Caroline Bird
 
-*Last updated at Saturday, 31 Jan 2026 18:33:58 -0500*
+*Last updated at Tuesday, 03 Feb 2026 20:17:47 -0500*
