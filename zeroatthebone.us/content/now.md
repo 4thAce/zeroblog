@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-02-03T20:17:47-04:00
+date = 2026-02-14T12:04:14-04:00
 tags = [
     "now",
     "publishing"
@@ -13,10 +13,8 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* At my first appointment with my hematologist/oncologist we arranged to have a bone marrow biopsy done Thursday morning.
-Once this is analyzed, we will be know what the correct therapies should be, I hope some time next week.
-* For now, I am still writing, still submitting my work to journals.
-The topics are colored by real life, but I think it might be possible to continue producing good work.
+* I hope to be beginning a round of immmunotherapy to knock out my blood cancer, perhaps as soon as this next week.
+Wish me luck!
 
 # Presently reading
 
@@ -24,6 +22,5 @@ The topics are colored by real life, but I think it might be possible to continu
 * __Looking for Alaska__ by John Green
 * __The Classical Style__ by Charles Rosen
 * __The Complete Cosmicomics__ by Italo Calvino
-* __Watering Can__ by Caroline Bird
 
-*Last updated at Tuesday, 03 Feb 2026 20:17:47 -0500*
+*Last updated at Saturday, 14 Feb 2026 12:04:14 -0500*
