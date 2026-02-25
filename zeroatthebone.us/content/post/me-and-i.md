@@ -1,6 +1,6 @@
 +++
 title =  "Me and I"
-date = 2026-02-24T19:44:42-05:00
+date = 2026-02-24T19:48:42-05:00
 tags = [
   "poetry",
   "medicine",
