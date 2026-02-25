@@ -1,6 +1,6 @@
 +++
 title =  "Me and I"
-date = 2026-02-24T19:44:42-05:00
+date = 2026-02-24T19:52:42-05:00
 tags = [
   "poetry",
   "medicine",
@@ -10,7 +10,7 @@ topics = [
   "writing"
 ]
 description = "A poem about medication based on a Mastodon prompt"
-draft = true
+draft = false
 +++
 
 <h1>Me and I.</h1>
@@ -46,5 +46,6 @@ will walk out
 followed by one owing
 a great and vital debt.
 </pre>
+
 
 <div style="font-size:small">In response to a <a href="https://pixelfed.social/p/Ourladyofpoetics/932055160085750128">Virtual Poetry Prompt</a> on Mastodon</div>
