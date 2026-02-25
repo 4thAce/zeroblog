@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-02-21T17:51:10-04:00
+date = 2026-02-25T10:40:51-04:00
 tags = [
     "now",
     "publishing"
@@ -13,9 +13,7 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Still haven't started cancer treatments yet, but I hope it is a matter of days only.
-* It seems as though another snowstorm is headed our way in the next couple of days.
-Here's hoping it won't be as onerous to be getting around.
+* I think I have everything in place to begin the first cycle of cancer treatment tomorrow.
 
 # Presently reading
 
@@ -23,6 +21,6 @@ Here's hoping it won't be as onerous to be getting around.
 * __Looking for Alaska__ by John Green
 * __The Classical Style__ by Charles Rosen
 * __The Complete Cosmicomics__ by Italo Calvino
-* __Struck Down, Not Destroyed__ by Coleen Dulle
+* __A High Wind in Jamaica__ by Richard Hughes
 
-*Last updated at Saturday, 21 Feb 2026 17:51:10 -0500*
+*Last updated at Wednesday, 25 February 2026 10:40:51 -0500*
