@@ -1,10 +1,12 @@
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.153.1"
-
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
+  
 [context.production.environment]
   HUGO_VERSION = "0.153.1"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true 
 
 [build]
   publish = "public"
@@ -16,12 +18,14 @@
 [context.split1.environment]
   HUGO_VERSION = "0.153.1"
   HUGO_ENV = "production"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true 
 
 [context.branch-deploy]
   command = "hugo -s /opt/build/repo/zeroatthebone.us --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.153.1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true 
 
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
