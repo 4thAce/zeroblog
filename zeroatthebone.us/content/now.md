@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-03-01T06:14:00-04:00
+date = 2026-03-20T17:39:26-04:00
 tags = [
     "now",
     "publishing"
@@ -13,11 +13,9 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* In February I had four of my submissions accepted for publication.
-These are linked from the current [Writing update](/post/1q2026) page.
-* That month I wrote wrote a total of 10669 words of 23330 total words on the year so far, plus spent 3 hours 45 minutes revising/editing.
-* I thought I was going to receive my immunotherapy to combat acute lymphoblastic leukemia last week, but it looks like it will happen later this week.
-It will have been three weeks since receiving a full diagnosis, so I am ready to be doing something about it.
+* I was laid up in the hospital the last twelve days while they figured out what was causing some concerning symptoms of my cancer treatment, but I'm back home now and feeling better.
+It gave me a lot of time just to take stock of where my life was leading me, without daily concerns sidetracking me, and was actually refreshing in a way I didn't expect.
+I have received many expressions of support from people I have known over the years and am grateful to every one of them.
 
 # Presently reading
 
@@ -25,6 +23,6 @@ It will have been three weeks since receiving a full diagnosis, so I am ready to
 * __Looking for Alaska__ by John Green
 * __The Classical Style__ by Charles Rosen
 * __The Complete Cosmicomics__ by Italo Calvino
-* __A High Wind in Jamaica__ by Richard Hughes
+* __Jack of Shadows__ by Roger Zelazny
 
-*Last updated at Sunday, 1 March 2026 06:14:24 -0500*
+*Last updated at Friday, 20 Mar 2026 17:39:26 -0400*
