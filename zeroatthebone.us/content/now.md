@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-03-20T17:39:26-04:00
+date = 2026-03-27T19:52:25-04:00
 tags = [
     "now",
     "publishing"
@@ -13,16 +13,19 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I was laid up in the hospital the last twelve days while they figured out what was causing some concerning symptoms of my cancer treatment, but I'm back home now and feeling better.
-It gave me a lot of time just to take stock of where my life was leading me, without daily concerns sidetracking me, and was actually refreshing in a way I didn't expect.
-I have received many expressions of support from people I have known over the years and am grateful to every one of them.
+* I am getting healthier now and am out of the hospital now.
+My cancer doctor tells me that I am doing well, which is really good to hear when things get tough.
+My main regret is that I am not in good enough shape to participate in tomorrow's local No Kings III rally, but I will help my wife to attend.
+* My 2025 publication **The Reducing Flame** is one of [the nominees for the 2026 Elgin Awards](https://sfpoetry.org/wp/elgin-award/2026-elgin-awards/) in the chapbook category. 
+The awards willl be voted on by the SFPA membership and winners announced in October.
+You can order **The Reducing Flame** at my [ko-fi store](https://ko-fi.com/richmagahiz/shop) in either pdf or hardcopy format.
+It has ten original speculative poems in it.
+
 
 # Presently reading
 
 * __Japanese Death Poems__ edited by Yoel Hoffman
-* __Looking for Alaska__ by John Green
-* __The Classical Style__ by Charles Rosen
 * __The Complete Cosmicomics__ by Italo Calvino
-* __Jack of Shadows__ by Roger Zelazny
+* __Purgatorio__ by Dante Alighieri
 
-*Last updated at Friday, 20 Mar 2026 17:39:26 -0400*
+*Last updated at Friday, 27 March 2026 19:52:25 -0400*
