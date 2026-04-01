@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2026"
-date = 2026-03-27T19:57:06-04:00
+date = 2026-04-01T06:35:01-04:00
 
 tags = [
   "social",
@@ -30,6 +30,10 @@ draft = false
 ## March 2026
 
 {{< stoot instance="pony.social" id="116302465273011766" >}}<hr />
+{{< stoot instance="vis.social" id="116187286949423181" >}}<hr />
+{{< stoot instance="vmst.io" id="116284785678964091" >}}<hr />
+{{< stoot instance="flipboard.social" id="116303208530919577" >}}<hr />
+{{< stoot instance="mas.to" id="116316056938197289" >}}<hr />
 
 <!-- ## April 2026 -->
 <!-- ## May 2026 -->
@@ -41,4 +45,4 @@ draft = false
 <!-- ## November 2026 -->
 <!-- ## December 2026 -->
 
-<div style="font-size:small">Updated Friday, 27 March 2026 19:57:06 -0400</div>
+<div style="font-size:small">Updated Wednesday, 01 April 2026 06:35:01 -0400</div>
