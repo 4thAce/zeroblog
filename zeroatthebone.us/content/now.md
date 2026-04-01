@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-03-27T19:52:25-04:00
+date = 2026-04-01T06:17:54-04:00
 tags = [
     "now",
     "publishing"
@@ -13,14 +13,12 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I am getting healthier now and am out of the hospital now.
-My cancer doctor tells me that I am doing well, which is really good to hear when things get tough.
-My main regret is that I am not in good enough shape to participate in tomorrow's local No Kings III rally, but I will help my wife to attend.
-* My 2025 publication **The Reducing Flame** is one of [the nominees for the 2026 Elgin Awards](https://sfpoetry.org/wp/elgin-award/2026-elgin-awards/) in the chapbook category. 
+* My 2025 publication **The Reducing Flame** is a [nominee for the 2026 Elgin Awards](https://sfpoetry.org/wp/elgin-award/2026-elgin-awards/) in the chapbook category. 
 The awards willl be voted on by the SFPA membership and winners announced in October.
 You can order **The Reducing Flame** at my [ko-fi store](https://ko-fi.com/richmagahiz/shop) in either pdf or hardcopy format.
 It has ten original speculative poems in it.
-
+* Even though I was laid up in the hospital last month, my word count was close to what I had in January before the leukemia really hit me.
+I started working on my next book of poems again, a full-length volume, and hope I can get it to press before the end of the year.
 
 # Presently reading
 
@@ -28,4 +26,4 @@ It has ten original speculative poems in it.
 * __The Complete Cosmicomics__ by Italo Calvino
 * __Purgatorio__ by Dante Alighieri
 
-*Last updated at Friday, 27 March 2026 19:52:25 -0400*
+*Last updated at Wednesday, 01 April 2026 06:17:54 -0400*
