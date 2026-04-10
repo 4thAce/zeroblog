@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-04-01T06:17:54-04:00
+date = 2026-04-09T19:46:36-04:00
 tags = [
     "now",
     "publishing"
@@ -17,13 +17,13 @@ draft = false
 The awards willl be voted on by the SFPA membership and winners announced in October.
 You can order **The Reducing Flame** at my [ko-fi store](https://ko-fi.com/richmagahiz/shop) in either pdf or hardcopy format.
 It has ten original speculative poems in it.
-* Even though I was laid up in the hospital last month, my word count was close to what I had in January before the leukemia really hit me.
-I started working on my next book of poems again, a full-length volume, and hope I can get it to press before the end of the year.
+* This month I'm concentrating on journal submissions of new poems and ones I've written over the years.
 
 # Presently reading
 
 * __Japanese Death Poems__ edited by Yoel Hoffman
 * __The Complete Cosmicomics__ by Italo Calvino
+* __The Myth of Sisyphus__ by Albert Camus
 * __Purgatorio__ by Dante Alighieri
 
-*Last updated at Wednesday, 01 April 2026 06:17:54 -0400*
+*Last updated at Thursday, 09 April 2026 19:46:36 -0400*
