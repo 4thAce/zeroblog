@@ -51,7 +51,6 @@ Capture by helaku h on Flickr</div><br clear="all" />
 
 {{< stoot instance="neuromatch.social" id="112748602440969513" >}}<hr />
 {{< stoot instance="beige.party" id="112803026930245432" >}}<hr />
-{{< stoot instance="kind.social" id="112807648821215973" >}}<hr />
 {{< stoot instance="c.im" id="112832276599626970" >}}<hr />
 {{< stoot instance="mastodon.social" id="112836616156673726" >}}<hr />
 
@@ -93,4 +92,4 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{<stoot instance="mastodon.online" id="113691789641950263" >}}<hr />
 {{<stoot instance="mathstodon.xyz" id="113692139860729882" >}}<hr />
 
-<div style="font-size:small">Updated Monday, 22 Dec 2025 11:41:53 -0500</div>
+<div style="font-size:small">Updated Saturday, 23 May 2026 10:22:50 -0400</div>
