@@ -68,7 +68,6 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot instance="beige.party" id="113252904760060716" >}}<hr />
 {{< stoot instance="posts.rat.pictures" id="113262678468090943" >}}<hr />
 {{< stoot instance="mastodon.social" id="113332849196888527" >}}<hr />
-{{< stoot instance="mstdn.ca" id="113379351104637721" >}}<hr />
 {{< stoot instance="mastodon.online" id="113397256948996785" >}}<hr />
 
 ## November 2024 
@@ -91,4 +90,4 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{<stoot instance="mastodon.online" id="113691789641950263" >}}<hr />
 {{<stoot instance="mathstodon.xyz" id="113692139860729882" >}}<hr />
 
-<div style="font-size:small">Updated Saturday, 23 May 2026 10:22:50 -0400</div>
+<div style="font-size:small">Updated Saturday, 23 May 2026 10:32:48 -0400</div>
