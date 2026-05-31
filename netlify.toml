@@ -18,7 +18,7 @@
   HUGO_ENV = "production"
 
 [context.branch-deploy]
-  command = "hugo --config hugo.toml --gc --minify -D"
+  command = "hugo -s /opt/build/repo/zeroatthebone.us --config hugo.toml --gc --minify -D"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.161.1"
