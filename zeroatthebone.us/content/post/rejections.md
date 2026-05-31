@@ -14,9 +14,11 @@ description = "Some numbers about the process of publishing poetry"
 
 <div align="center" style="font-size:x-small"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/14592293198_4a0aa27714_o.jpg" alt="An iron arm, of Italian workmanship" width="470" height="131" /><br /><a href="https://archive.org/details/sussexarchaeolog08suss/page/316/mode/1up?view=theater">An iron arm, of Italian workmanship</a></div>
 
-I decided to write about some numbers about receiving rejections after I saw this tweet:
+I decided to write about some numbers about receiving rejections after I saw a tweet:
 
-{{< tweet user="Joduckwo" id="1511802744222490624" >}}
+> Writers don't share every rejection, only the acceptances, so I expect most of us probably have very skewed ideas about each other's levels of success.
+>
+> — Jonathan Louis Duckworth (@Joduckwo) [April 6, 2022](https://twitter.com/Joduckwo/status/1511802744222490624?ref_src=twsrc%5Etfw)
 
 I don't have any problem showing how many rejections I get for the poems I'm submitting to journals, drawing on statistics I have available through [Duotrope](https://duotrope.com).
 When I tweet or post on Facebook about something of mine making it all the way to publication, it probably sounds as though I can just do anything and have an editor take it, just the way the tweet I quoted above says.
@@ -52,3 +54,5 @@ I don't know what other writers find, but would not be surprised to find out tha
 If you are a writer, does this seem like a lot?
 Is it something that you are prepared to accept, and what would you do to maintain a healthy image of what you are doing?
 I would really like to know, so if you could drop a comment in the Disqus box below, or contact me in another way, I'd like that very much.
+
+<div style="font-size:small">Updated Sunday, 31 May 2026 09:01:35 -0400</div>
