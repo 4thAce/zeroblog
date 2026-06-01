@@ -16,7 +16,6 @@
 [context.split1.environment]
   HUGO_VERSION = "0.161.1"
   HUGO_ENV = "production"
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
 
 [context.branch-deploy]
   command = "hugo -s /opt/build/repo/zeroatthebone.us --config hugo.toml --gc --minify -D"
@@ -24,11 +23,9 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.161.1"
   NODE_VERSION="24.15.0"
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
 
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
 
 [[redirects]]
   from = "/npmjs/*"
