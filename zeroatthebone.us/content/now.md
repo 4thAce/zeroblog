@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-03-01T06:14:00-04:00
+date = 2026-06-01T11:50:54-04:00
 tags = [
     "now",
     "publishing"
@@ -13,18 +13,15 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* In February I had four of my submissions accepted for publication.
-These are linked from the current [Writing update](/post/1q2026) page.
-* That month I wrote wrote a total of 10669 words of 23330 total words on the year so far, plus spent 3 hours 45 minutes revising/editing.
-* I thought I was going to receive my immunotherapy to combat acute lymphoblastic leukemia last week, but it looks like it will happen later this week.
-It will have been three weeks since receiving a full diagnosis, so I am ready to be doing something about it.
+* I put up [a list of my poems which were published in May](/post/2q2026)
+* My 2025 publication **The Reducing Flame** is a [nominee for the 2026 Elgin Awards](https://sfpoetry.org/wp/elgin-award/2026-elgin-awards/) in the chapbook category. 
+The awards willl be voted on by the SFPA membership and winners announced in October.
+You can order **The Reducing Flame** at my [ko-fi store](https://ko-fi.com/richmagahiz/shop) in either pdf or hardcopy format.
+It has ten original speculative poems in it.
 
 # Presently reading
 
-* __Japanese Death Poems__ edited by Yoel Hoffman
-* __Looking for Alaska__ by John Green
-* __The Classical Style__ by Charles Rosen
 * __The Complete Cosmicomics__ by Italo Calvino
-* __A High Wind in Jamaica__ by Richard Hughes
+* __Purgatorio__ by Dante Alighieri
 
-*Last updated at Sunday, 1 March 2026 06:14:24 -0500*
+*Last updated at Mon, 01 Jun 2026 11:50:54 -0400*

@@ -42,7 +42,6 @@ Capture by helaku h on Flickr</div><br clear="all" />
 
 ## June 2024
 
-{{< stoot instance="saturation.social" id="112550441449771973" >}}<hr />
 {{< stoot instance="hachyderm.io" id="112589942908605682" >}}<hr />
 {{< stoot instance="mastodon.social" id="112590330296163479" >}}<hr />
 {{< stoot instance="mastodon.social" id="112626857039453078" >}}<hr />
@@ -51,7 +50,6 @@ Capture by helaku h on Flickr</div><br clear="all" />
 
 {{< stoot instance="neuromatch.social" id="112748602440969513" >}}<hr />
 {{< stoot instance="beige.party" id="112803026930245432" >}}<hr />
-{{< stoot instance="kind.social" id="112807648821215973" >}}<hr />
 {{< stoot instance="c.im" id="112832276599626970" >}}<hr />
 {{< stoot instance="mastodon.social" id="112836616156673726" >}}<hr />
 
@@ -70,7 +68,6 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{< stoot instance="beige.party" id="113252904760060716" >}}<hr />
 {{< stoot instance="posts.rat.pictures" id="113262678468090943" >}}<hr />
 {{< stoot instance="mastodon.social" id="113332849196888527" >}}<hr />
-{{< stoot instance="mstdn.ca" id="113379351104637721" >}}<hr />
 {{< stoot instance="mastodon.online" id="113397256948996785" >}}<hr />
 
 ## November 2024 
@@ -93,4 +90,4 @@ Capture by helaku h on Flickr</div><br clear="all" />
 {{<stoot instance="mastodon.online" id="113691789641950263" >}}<hr />
 {{<stoot instance="mathstodon.xyz" id="113692139860729882" >}}<hr />
 
-<div style="font-size:small">Updated Monday, 22 Dec 2025 11:41:53 -0500</div>
+<div style="font-size:small">Updated Saturday, 23 May 2026 10:32:48 -0400</div>
