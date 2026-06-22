@@ -1,5 +1,5 @@
 baseurl = "https://zeroatthebone.us"
-languageCode = "en-us"
+locale = "en-us"
 title = "And Zero at the Bone"
 theme = "blackburn"
 author = "Richard Magahiz"
