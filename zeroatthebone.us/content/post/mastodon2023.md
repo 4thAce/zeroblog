@@ -19,7 +19,6 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 {{< stoot instance="dice.camp" id="109614970073892369" >}}<hr>
 {{< stoot instance="fosstodon.org" id="109657162946819748" >}}<hr>
-{{< stoot instance="smores.town" id="109751449029104617" >}}<hr>
 
 ## February 2023
 
@@ -68,4 +67,4 @@ Capture by internetarchivebookimages on Flickr</div><br clear="all" />
 
 {{< stoot instance="sunny.garden" id="111601432220129914" >}}
 
-<div font-size="small">Updated Fri, 01 Aug 2025 11:18:39 -0400</div>
+<div font-size="small">Updated Mon, 22 Jun 2026 14:20:54 -0400</div>
