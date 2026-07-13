@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2026"
-date = 2026-05-31T05:58:35-04:00
+date = 2026-06-27T19:23:23-04:00
 
 tags = [
   "social",
@@ -48,7 +48,11 @@ draft = false
 {{<stoot instance="social.lansky.name" id="116634039691199577" >}}<hr />
 {{<stoot instance="genart.social" id="116625277633600785" >}}<hr />
 
-<!-- ## June 2026 -->
+## June 2026
+
+{{< stoot instance="mastodon.social" id="116795466625643450" >}}<hr />
+{{< stoot instance="universeodon.com" id="116804740274383160" >}}<hr />
+
 <!-- ## July 2026 -->
 <!-- ## August 2026 -->
 <!-- ## September 2026 -->
@@ -56,4 +60,4 @@ draft = false
 <!-- ## November 2026 -->
 <!-- ## December 2026 -->
 
-<div style="font-size:small">Updated Sunday, 31 May 2026 05:58:35 -0400</div>
+<div style="font-size:small">Updated Saturday, 04 Jul 2026 13:52:31 -0400</div>

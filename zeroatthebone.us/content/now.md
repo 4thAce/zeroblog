@@ -25,8 +25,10 @@ It has ten original speculative poems in it.
 # Presently reading
 
 * __Will There Ever Be Another You__ by Patricia Lockwood
+* __Magnifica Humanis__ by Pope Leo XVI
 * __A High Wind in Jamaica__ by Richard Hughes
 * __The Complete Cosmicomics__ by Italo Calvino
 * __Purgatorio__ by Dante Alighieri
 
 *Last updated at Mon, 13 Jul 2026 07:13:54 -0400*
+
