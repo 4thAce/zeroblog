@@ -1,7 +1,6 @@
 +++
 title = "What's happening now"
 date = 2026-08-08T09:43:24-04:00
-
 tags = [
     "now",
     "publishing"
@@ -27,9 +26,8 @@ It has ten original speculative poems in it.
 # Presently reading
 
 * __The Election of Pope Leo XIV__ by Gerard O'Connel and Elisabetta Piqué
+* __The Drowned Cities__ by Paolo Bacigalupi
 * __The Marriage of Heaven and Hell__ by William Blake
-* __A High Wind in Jamaica__ by Richard Hughes
 * __Purgatorio__ by Dante Alighieri
 
 <div style="font-size:small" />Last updated at Sat, 08 Aug 2026 09:43:24 -0400</div>
-
