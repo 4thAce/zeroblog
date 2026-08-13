@@ -18,7 +18,7 @@ draft = false
 * [MIT Alumni association](https://alum.mit.edu/)
 
 # Social networks (see also the sidebar)
-* <a rel="me" href="https://noc.social/@Zerofactorial">Mastodon</a>
+* <a rel="me" href="https://mstdn.party/@Zerofactorial">Mastodon</a>
 * Recent [book reviews](https://books.theunseen.city/user/4thace/books)
 * [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
 * Letterboxd film [reviews](https://letterboxd.com/anderson_petaQ/films/reviews/)
@@ -42,3 +42,5 @@ Use this form to send me a message:
     <button type="submit">Send</button>
   </p>
 </form>
+
+<div style="font-size:small" />Updated Monday, 13 Jul 2026 06:48:24 -0400</div>
