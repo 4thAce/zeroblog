@@ -1,6 +1,10 @@
 +++
 title = "Mastodon 2026"
+<<<<<<< HEAD
 date = 2026-07-31T17:07:25-04:00
+=======
+date = 2026-05-31T05:58:35-04:00
+>>>>>>> bda3242dc9090b43081f78ffc682179cfbc99c23
 
 tags = [
   "social",
@@ -66,3 +70,4 @@ draft = false
 <!-- ## December 2026 -->
 
 <div style="font-size:small">Updated Friday, 31 Jul 2026 17:07:25 -0400</div>
+
