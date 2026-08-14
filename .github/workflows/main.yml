@@ -6,10 +6,10 @@ jobs:
   check-broken-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - uses: BoundfoxStudios/action-hugo-link-check@v2
+      - uses: 4thAce/action-hugo-link-check@v3-node24    
         with:
           hugo-startup-wait-time: 60
           hugo-root: zeroatthebone.us
