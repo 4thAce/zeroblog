@@ -1,7 +1,6 @@
 +++
 title = "Mastodon 2026"
 date = 2026-07-31T17:07:25-04:00
-
 tags = [
   "social",
   "media"
