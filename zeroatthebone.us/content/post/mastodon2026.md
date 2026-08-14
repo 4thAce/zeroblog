@@ -31,7 +31,6 @@ draft = false
 
 {{< stoot instance="pony.social" id="116302465273011766" >}}<hr />
 {{< stoot instance="vis.social" id="116187286949423181" >}}<hr />
-{{< stoot instance="vmst.io" id="116284785678964091" >}}<hr />
 {{< stoot instance="flipboard.social" id="116303208530919577" >}}<hr />
 {{< stoot instance="mas.to" id="116316056938197289" >}}<hr />
 
@@ -66,3 +65,4 @@ draft = false
 <!-- ## December 2026 -->
 
 <div style="font-size:small">Updated Friday, 31 Jul 2026 17:07:25 -0400</div>
+

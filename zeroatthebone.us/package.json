@@ -11,6 +11,6 @@
     "buildTags": "extended"
   },
   "devDependencies": {
-    "hugo-bin": "0.101.5"
+    "hugo-bin": "0.149.2"
   }
 }
