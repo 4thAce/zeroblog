@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-08-23T09:16:57-04:00
+date = 2026-08-31T12:31:04-04:00
 tags = [
     "now",
     "publishing"
@@ -23,10 +23,10 @@ It has ten original speculative poems in it.
 # Presently reading
 
 * __Ask This Book a Question__ by Vicki Tan
-* __The Drowned Cities__ by Paolo Bacigalupi
-* __Exit Strategy__ by Martha Wells
+* __The Drowned Cities__ by Paolo Bacigalupi (audiobook)
+* __Jack of Shadows__ by Roger Zelazny (audiobook)
 * __The Marriage of Heaven and Hell__ by William Blake
 * __Purgatorio__ by Dante Alighieri
 
-<div style="font-size:small" />Last updated at Sunday, 23 August 2026 09:16:57 -0400</div>
+<div style="font-size:small" />Last updated at Monday, 31 August 2026 12:31:04 -0400</div>
 
