@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-08-31T12:31:04-04:00
+date = 2026-09-03T18:07:10-04:00
 tags = [
     "now",
     "publishing"
@@ -13,6 +13,7 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
+* On my latest [writing update page](/post/3q2026) I have listed poems that were published last month.
 * I am raising money for Blood Cancer United because of my own experience coming down with leukemia.
 On my [fundraising page](https://pages.lls.org/ltn/de/wilmington26/RMagahiz) I describe the very first awareness of what was happening to me around the beginning of the year.
 * My 2025 publication **The Reducing Flame** is a [nominee for the 2026 Elgin Awards](https://sfpoetry.org/wp/elgin-award/2026-elgin-awards/) in the chapbook category. 
@@ -22,11 +23,11 @@ It has ten original speculative poems in it.
 
 # Presently reading
 
-* __Ask This Book a Question__ by Vicki Tan
+* __Red Famine: Stalin's War on Ukraine__ by Anne Applebaum
 * __The Drowned Cities__ by Paolo Bacigalupi (audiobook)
 * __Jack of Shadows__ by Roger Zelazny (audiobook)
 * __The Marriage of Heaven and Hell__ by William Blake
 * __Purgatorio__ by Dante Alighieri
 
-<div style="font-size:small" />Last updated at Monday, 31 August 2026 12:31:04 -0400</div>
+<div style="font-size:small" />Last updated at Thursday, 03 September 2026 18:07:10 -0400</div>
 
