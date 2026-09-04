@@ -1,28 +1,19 @@
 +++
-date = "2025-01-01T16:26:34-04:00"
+date = "2026-09-04T10:07:45-04:00"
 title = "Contact"
 sidemenu = "true"
-description = "How to contact me"
+description = "Links to my stuff"
 draft = false
 +++
 
-# Writing
-
-* [Substack](https://substack.com/@richmagahiz)
-* [Medium](https://rmagahiz.medium.com/)
-* [Everything2](https://www.everything2.com/user/milkfish)
-
-# Organizations
-
-* [Northwestern University Alumni](https://www.alumni.northwestern.edu/s/1479/02-naa/16/home.aspx?gid=2&pgid=20761)
-* [MIT Alumni association](https://alum.mit.edu/)
-
-# Social networks (see also the sidebar)
+* Blood Cancer United [Light the Night fundraiser](https://pages.lls.org/ltn/de/wilmington26/RMagahiz)
 * <a rel="me" href="https://mstdn.party/@Zerofactorial">Mastodon</a>
-* Recent [book reviews](https://books.theunseen.city/user/4thace/books)
 * [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
-* Letterboxd film [reviews](https://letterboxd.com/anderson_petaQ/films/reviews/)
-* Throw a little money in my direction at [Ko-Fi](https://ko-fi.com/richmagahiz)
+* [Substack blog](https://substack.com/@richmagahiz)
+* [Instagram](https://www.instagram.com/milkfish2000/)
+* Book reviews on [Bookwyrm](https://books.theunseen.city/user/4thace/books)
+* Book, film, and TV reviews on [NeoDB](https://eggplant.place/users/Zerofactorial/)
+* [Buy me a coffee](https://ko-fi.com/richmagahiz) where you can buy some of my writing
 
 <hr />
 
@@ -43,4 +34,6 @@ Use this form to send me a message:
   </p>
 </form>
 
-<div style="font-size:small" />Updated Monday, 13 Jul 2026 06:48:24 -0400</div>
+<hr />
+
+<div style="font-size:small" />Updated Friday, 04 September 2026 10:07:45 -0400</div>
