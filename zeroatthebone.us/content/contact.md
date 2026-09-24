@@ -1,10 +1,11 @@
 +++
-date = "2026-09-24T07:38:22-04:00"
+date = "2026-09-24T07:44:22-04:00"
 title = "Contact"
 sidemenu = "true"
-description = "How to contact me"
+description = "Links to my stuff"
 draft = false
 +++
+
 
 # [Current status](/now)
 
@@ -20,11 +21,15 @@ draft = false
 * [MIT Alumni association](https://alum.mit.edu/)
 
 # Social networks
+
+* Blood Cancer United [Light the Night fundraiser](https://pages.lls.org/ltn/de/wilmington26/RMagahiz)
 * <a rel="me" href="https://mstdn.party/@Zerofactorial">Mastodon</a>
-* Recent [book reviews](https://books.theunseen.city/user/4thace/books)
 * [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
-* Letterboxd film [reviews](https://letterboxd.com/anderson_petaQ/films/reviews/)
-* Throw a little money in my direction at [Ko-Fi](https://ko-fi.com/richmagahiz)
+* [Substack blog](https://substack.com/@richmagahiz)
+* [Instagram](https://www.instagram.com/milkfish2000/)
+* Book reviews on [Bookwyrm](https://books.theunseen.city/user/4thace/books)
+* Book, film, and TV reviews on [NeoDB](https://eggplant.place/users/Zerofactorial/)
+* [Buy me a coffee](https://ko-fi.com/richmagahiz) where you can buy some of my writing
 
 <hr />
 
@@ -45,4 +50,5 @@ Use this form to send me a message:
   </p>
 </form>
 
-<div style="font-size:small" />Updated Thursday, 24 September 2026 07:38:08 -0400</div>
+<div style="font-size:small" />Updated Thursday, 24 September 2026 07:44:08 -0400</div>
+
