@@ -1,10 +1,12 @@
 +++
-date = "2025-01-01T16:26:34-04:00"
+date = "2026-09-24T07:38:22-04:00"
 title = "Contact"
 sidemenu = "true"
 description = "How to contact me"
 draft = false
 +++
+
+# [Current status](/now)
 
 # Writing
 
@@ -17,7 +19,7 @@ draft = false
 * [Northwestern University Alumni](https://www.alumni.northwestern.edu/s/1479/02-naa/16/home.aspx?gid=2&pgid=20761)
 * [MIT Alumni association](https://alum.mit.edu/)
 
-# Social networks (see also the sidebar)
+# Social networks
 * <a rel="me" href="https://mstdn.party/@Zerofactorial">Mastodon</a>
 * Recent [book reviews](https://books.theunseen.city/user/4thace/books)
 * [Photo](https://pixey.org/i/web/profile/515736985118386604) feed
@@ -43,4 +45,4 @@ Use this form to send me a message:
   </p>
 </form>
 
-<div style="font-size:small" />Updated Monday, 13 Jul 2026 06:48:24 -0400</div>
+<div style="font-size:small" />Updated Thursday, 24 September 2026 07:38:08 -0400</div>
