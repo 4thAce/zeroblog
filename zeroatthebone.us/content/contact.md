@@ -1,10 +1,26 @@
 +++
-date = "2026-09-04T10:07:45-04:00"
+date = "2026-09-24T07:44:22-04:00"
 title = "Contact"
 sidemenu = "true"
 description = "Links to my stuff"
 draft = false
 +++
+
+
+# [Current status](/now)
+
+# Writing
+
+* [Substack](https://substack.com/@richmagahiz)
+* [Medium](https://rmagahiz.medium.com/)
+* [Everything2](https://www.everything2.com/user/milkfish)
+
+# Organizations
+
+* [Northwestern University Alumni](https://www.alumni.northwestern.edu/s/1479/02-naa/16/home.aspx?gid=2&pgid=20761)
+* [MIT Alumni association](https://alum.mit.edu/)
+
+# Social networks
 
 * Blood Cancer United [Light the Night fundraiser](https://pages.lls.org/ltn/de/wilmington26/RMagahiz)
 * <a rel="me" href="https://mstdn.party/@Zerofactorial">Mastodon</a>
@@ -34,6 +50,5 @@ Use this form to send me a message:
   </p>
 </form>
 
-<hr />
+<div style="font-size:small" />Updated Thursday, 24 September 2026 07:44:08 -0400</div>
 
-<div style="font-size:small" />Updated Friday, 04 September 2026 10:07:45 -0400</div>
