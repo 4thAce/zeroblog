@@ -1,6 +1,6 @@
 +++
 title = "Mastodon 2026"
-date = 2026-08-30T19:33:47-04:00
+date = 2026-09-29T14:04:10-04:00
 tags = [
   "social",
   "media"
@@ -63,10 +63,14 @@ draft = false
 {{< stoot instance="wandering.shop" id="117122780107348695" >}}<hr />
 {{< stoot instance="post.lurk.org" id="117147602797579075" >}}<hr />
 
-<!-- ## September 2026 -->
+## September 2026
+
+{{< stoot instance="mastodon.social" id="117314248110459655" >}}<hr />
+{{< stoot instance="mastodonapp.uk" id="117274209669920713" >}}<hr />
+
 <!-- ## October 2026 -->
 <!-- ## November 2026 -->
 <!-- ## December 2026 -->
 
-<div style="font-size:small">Updated Sunday, 30 August 2026 19:33:47 -0400</div>
+<div style="font-size:small">Updated Tuesday, 29 September 2026 14:04:10 -0400</div>
 
