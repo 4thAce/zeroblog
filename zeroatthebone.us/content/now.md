@@ -24,7 +24,6 @@ On my [fundraising page](https://pages.lls.org/ltn/de/wilmington26/RMagahiz) I d
 * __The Drowned Cities__ by Paolo Bacigalupi (audiobook)
 * __River of Fire__ by Sr. Helen Prejean
 * __The Marriage of Heaven and Hell__ by William Blake
-* __Purgatorio__ by Dante Alighieri
 
 <div style="font-size:small" />Last updated at Thursday, 01 October 2026 08:46:15 -0400</div>
 
