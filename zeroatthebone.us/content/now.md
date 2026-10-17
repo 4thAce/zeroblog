@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-10-01T08:46:15-04:00
+date = 2026-10-17T07:28:23-04:00
 tags = [
     "now",
     "publishing"
@@ -13,17 +13,16 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* I have put up [a list of my poems](/post/3q2026) published up through September.
-* I am raising money for Blood Cancer United because of my own experience coming down with leukemia.
-On my [fundraising page](https://pages.lls.org/ltn/de/wilmington26/RMagahiz) I describe the very first awareness of what was happening to me around the beginning of the year.
-
+* Tonight is the walk to raise funds for Blood Cancer United here in Wilmington.
+I blew through my original fundraisng goal and doubled it, and met that too.
+You can read my occasional updates on my [fundraising page](https://pages.lls.org/ltn/de/wilmington26/RMagahiz) if you are interested.
 
 # Presently reading
 
 * __Red Famine: Stalin's War on Ukraine__ by Anne Applebaum
-* __The Drowned Cities__ by Paolo Bacigalupi (audiobook)
-* __River of Fire__ by Sr. Helen Prejean
+* __The Ladies' Paradise__ by &Eacute;mile Zola (audiobook)
+* __River of Fire__ by Sr. Helen Prejean (audiobook)
 * __The Marriage of Heaven and Hell__ by William Blake
 
-<div style="font-size:small" />Last updated at Thursday, 01 October 2026 08:46:15 -0400</div>
+<div style="font-size:small" />Last updated at Saturday, 17 October 2026 07:28:23 -0400</div>
 
