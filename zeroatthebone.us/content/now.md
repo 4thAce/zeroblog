@@ -1,6 +1,6 @@
 +++
 title = "What's happening now"
-date = 2026-10-17T07:28:23-04:00
+date = 2026-11-01T12:09:23-04:00
 tags = [
     "now",
     "publishing"
@@ -13,9 +13,7 @@ draft = false
 
 <div align="center"><img src="https://milkfish08.s3.amazonaws.com/photo/blog/comets.jpeg" height=600 width=417 alt="Engraving of cometary orbits through the solar system" title="Comets" /></div><br clear="all" />
 
-* Tonight is the walk to raise funds for Blood Cancer United here in Wilmington.
-I blew through my original fundraisng goal and doubled it, and met that too.
-You can read my occasional updates on my [fundraising page](https://pages.lls.org/ltn/de/wilmington26/RMagahiz) if you are interested.
+* I have put up [a page](/post/4q2026) that will contain all my publications for the last three months of this year.
 
 # Presently reading
 
@@ -24,5 +22,5 @@ You can read my occasional updates on my [fundraising page](https://pages.lls.or
 * __River of Fire__ by Sr. Helen Prejean (audiobook)
 * __The Marriage of Heaven and Hell__ by William Blake
 
-<div style="font-size:small" />Last updated at Saturday, 17 October 2026 07:28:23 -0400</div>
+<div style="font-size:small" />Last updated at Sunday, 01 November 2026 12:09:23 -0400</div>
 
